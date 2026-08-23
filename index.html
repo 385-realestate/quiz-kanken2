@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#164e63">
+<link rel="manifest" href="manifest.json">
+<link rel="stylesheet" href="styles.css">
+<title>漢検2級トレーニング</title>
+</head>
+<body>
+<header class="header"><div class="eyebrow">KANJI TRAINING</div><h1>漢検2級トレーニング</h1><p>自分専用・オリジナル問題版</p></header>
+<main>
+<section id="home" class="screen active">
+  <div class="intro"><span class="intro-mark">漢</span><div><p class="kicker">TODAY'S STUDY</p><h2>一問ずつ、確実に。</h2><p>答えを思い浮かべてから開示し、理解度を記録します。</p></div></div>
+  <div class="panel"><label for="category">学習する分野</label><select id="category"><option value="all">全分野</option><option value="reading">読み</option><option value="writing">書き取り</option><option value="idiom">四字熟語</option><option value="antonym">対義語・類義語</option><option value="radical">部首</option><option value="structure">熟語構成</option><option value="correction">誤字訂正</option></select>
+  <label for="question-count">出題数</label><select id="question-count"><option value="5">5問</option><option value="10" selected>10問</option><option value="20">20問</option></select><button id="start-button" class="primary-button">学習を始める</button></div>
+  <div class="stats"><div><strong id="weak-count">0</strong><span>復習待ち</span></div><div><strong id="total-answered">0</strong><span>累計回答</span></div><button id="reset-button" class="text-button">履歴をリセット</button></div>
+  <p class="notice">問題は市販教材・既存サイトから転載せず、出題形式を参考に作成したオリジナル問題です。</p>
+</section>
+<section id="quiz" class="screen"><div class="quiz-top"><button id="quit-button" class="text-button">← ホーム</button><span id="progress-text">1 / 10</span></div><div class="progress"><span id="progress-fill"></span></div><div class="quiz-meta"><span id="quiz-category"></span><span id="quiz-streak"></span></div><article class="question-panel"><p class="question-label">QUESTION</p><h2 id="prompt"></h2><div id="choices" class="choices"></div><button id="reveal-button" class="reveal-button">解答を見る</button><div id="answer-panel" class="answer-panel" hidden><p class="answer-label">ANSWER</p><p id="answer" class="answer"></p><p id="explanation" class="explanation"></p><div class="judge-buttons"><button id="unknown-button" class="judge-button unknown">分からなかった</button><button id="known-button" class="judge-button known">分かった</button></div></div></article></section>
+<section id="result" class="screen"><p class="kicker">SESSION COMPLETE</p><h2>学習結果</h2><div class="result-score"><strong id="result-known">0</strong><span>/ <span id="result-total">0</span> 分かった</span></div><p id="result-message"></p><div id="review-list" class="review-list"></div><button id="again-button" class="primary-button">もう一度学習する</button><button id="result-home-button" class="secondary-button">ホームへ戻る</button></section>
+</main>
+<script src="questions.js"></script><script src="app.js"></script>
+</body></html>
