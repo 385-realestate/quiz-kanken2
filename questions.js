@@ -3786,5 +3786,873 @@ var QUESTIONS = [
       "誤字訂正"
     ],
     "difficulty": 2
+  },
+  {
+    "id": "reading-224",
+    "category": "reading",
+    "categoryLabel": "読み",
+    "prompt": "次の熟語の読みを答えよ。\n漸次",
+    "answer": "ぜんじ",
+    "meaning": "時間の経過とともに、しだいに変化するさま。",
+    "example": "制度を漸次改めていく。",
+    "explanation": "「漸次」は「ぜんじ」と読む。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "読み"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "writing-225",
+    "category": "writing",
+    "categoryLabel": "書き取り",
+    "prompt": "次の読みを漢字で書け。\nぜんじ",
+    "answer": "漸次",
+    "meaning": "時間の経過とともに、しだいに変化するさま。",
+    "example": "制度を漸次改めていく。",
+    "explanation": "「ぜんじ」は「漸次」と書く。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "書き取り"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "reading-226",
+    "category": "reading",
+    "categoryLabel": "読み",
+    "prompt": "次の熟語の読みを答えよ。\n躍如",
+    "answer": "やくじょ",
+    "meaning": "生き生きとして、目の前に浮かぶように感じられるさま。",
+    "example": "筆者の個性が文章に躍如として表れている。",
+    "explanation": "「躍如」は「やくじょ」と読む。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "読み"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "writing-227",
+    "category": "writing",
+    "categoryLabel": "書き取り",
+    "prompt": "次の読みを漢字で書け。\nやくじょ",
+    "answer": "躍如",
+    "meaning": "生き生きとして、目の前に浮かぶように感じられるさま。",
+    "example": "筆者の個性が文章に躍如として表れている。",
+    "explanation": "「やくじょ」は「躍如」と書く。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "書き取り"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "reading-228",
+    "category": "reading",
+    "categoryLabel": "読み",
+    "prompt": "次の熟語の読みを答えよ。\n払拭",
+    "answer": "ふっしょく",
+    "meaning": "好ましくないものを、すっかり取り除くこと。",
+    "example": "古い印象を払拭する。",
+    "explanation": "「払拭」は「ふっしょく」と読む。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "読み"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "writing-229",
+    "category": "writing",
+    "categoryLabel": "書き取り",
+    "prompt": "次の読みを漢字で書け。\nふっしょく",
+    "answer": "払拭",
+    "meaning": "好ましくないものを、すっかり取り除くこと。",
+    "example": "古い印象を払拭する。",
+    "explanation": "「ふっしょく」は「払拭」と書く。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "書き取り"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "reading-230",
+    "category": "reading",
+    "categoryLabel": "読み",
+    "prompt": "次の熟語の読みを答えよ。\n凡庸",
+    "answer": "ぼんよう",
+    "meaning": "特に優れたところがなく、ありふれていること。",
+    "example": "凡庸な案にとどまらず工夫を重ねる。",
+    "explanation": "「凡庸」は「ぼんよう」と読む。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "読み"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "writing-231",
+    "category": "writing",
+    "categoryLabel": "書き取り",
+    "prompt": "次の読みを漢字で書け。\nぼんよう",
+    "answer": "凡庸",
+    "meaning": "特に優れたところがなく、ありふれていること。",
+    "example": "凡庸な案にとどまらず工夫を重ねる。",
+    "explanation": "「ぼんよう」は「凡庸」と書く。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "書き取り"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "reading-232",
+    "category": "reading",
+    "categoryLabel": "読み",
+    "prompt": "次の熟語の読みを答えよ。\n緻密",
+    "answer": "ちみつ",
+    "meaning": "細かいところまで注意が行き届き、詳しく正確なこと。",
+    "example": "緻密な計画を立てる。",
+    "explanation": "「緻密」は「ちみつ」と読む。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "読み"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "writing-233",
+    "category": "writing",
+    "categoryLabel": "書き取り",
+    "prompt": "次の読みを漢字で書け。\nちみつ",
+    "answer": "緻密",
+    "meaning": "細かいところまで注意が行き届き、詳しく正確なこと。",
+    "example": "緻密な計画を立てる。",
+    "explanation": "「ちみつ」は「緻密」と書く。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "書き取り"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "reading-234",
+    "category": "reading",
+    "categoryLabel": "読み",
+    "prompt": "次の熟語の読みを答えよ。\n逡巡",
+    "answer": "しゅんじゅん",
+    "meaning": "決心がつかず、ためらうこと。",
+    "example": "返事をするのを逡巡する。",
+    "explanation": "「逡巡」は「しゅんじゅん」と読む。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "読み"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "writing-235",
+    "category": "writing",
+    "categoryLabel": "書き取り",
+    "prompt": "次の読みを漢字で書け。\nしゅんじゅん",
+    "answer": "逡巡",
+    "meaning": "決心がつかず、ためらうこと。",
+    "example": "返事をするのを逡巡する。",
+    "explanation": "「しゅんじゅん」は「逡巡」と書く。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "書き取り"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "reading-236",
+    "category": "reading",
+    "categoryLabel": "読み",
+    "prompt": "次の熟語の読みを答えよ。\n殊勝",
+    "answer": "しゅしょう",
+    "meaning": "心掛けや行いが立派で、感心に値すること。",
+    "example": "毎日欠かさず手伝うとは殊勝な心掛けだ。",
+    "explanation": "「殊勝」は「しゅしょう」と読む。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "読み"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "writing-237",
+    "category": "writing",
+    "categoryLabel": "書き取り",
+    "prompt": "次の読みを漢字で書け。\nしゅしょう",
+    "answer": "殊勝",
+    "meaning": "心掛けや行いが立派で、感心に値すること。",
+    "example": "毎日欠かさず手伝うとは殊勝な心掛けだ。",
+    "explanation": "「しゅしょう」は「殊勝」と書く。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "書き取り"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "reading-238",
+    "category": "reading",
+    "categoryLabel": "読み",
+    "prompt": "次の熟語の読みを答えよ。\n煩雑",
+    "answer": "はんざつ",
+    "meaning": "物事が込み入っていて、わずらわしいこと。",
+    "example": "煩雑な手続きを簡素化する。",
+    "explanation": "「煩雑」は「はんざつ」と読む。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "読み"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "writing-239",
+    "category": "writing",
+    "categoryLabel": "書き取り",
+    "prompt": "次の読みを漢字で書け。\nはんざつ",
+    "answer": "煩雑",
+    "meaning": "物事が込み入っていて、わずらわしいこと。",
+    "example": "煩雑な手続きを簡素化する。",
+    "explanation": "「はんざつ」は「煩雑」と書く。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "書き取り"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "reading-240",
+    "category": "reading",
+    "categoryLabel": "読み",
+    "prompt": "次の熟語の読みを答えよ。\n謹慎",
+    "answer": "きんしん",
+    "meaning": "行いを慎み、一定期間おとなしくしていること。",
+    "example": "責任を感じて自宅で謹慎する。",
+    "explanation": "「謹慎」は「きんしん」と読む。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "読み"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "writing-241",
+    "category": "writing",
+    "categoryLabel": "書き取り",
+    "prompt": "次の読みを漢字で書け。\nきんしん",
+    "answer": "謹慎",
+    "meaning": "行いを慎み、一定期間おとなしくしていること。",
+    "example": "責任を感じて自宅で謹慎する。",
+    "explanation": "「きんしん」は「謹慎」と書く。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "書き取り"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "reading-242",
+    "category": "reading",
+    "categoryLabel": "読み",
+    "prompt": "次の熟語の読みを答えよ。\n漂泊",
+    "answer": "ひょうはく",
+    "meaning": "一定の場所にとどまらず、各地をさまよい歩くこと。",
+    "example": "各地を漂泊する旅を続けた。",
+    "explanation": "「漂泊」は「ひょうはく」と読む。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "読み"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "writing-243",
+    "category": "writing",
+    "categoryLabel": "書き取り",
+    "prompt": "次の読みを漢字で書け。\nひょうはく",
+    "answer": "漂泊",
+    "meaning": "一定の場所にとどまらず、各地をさまよい歩くこと。",
+    "example": "各地を漂泊する旅を続けた。",
+    "explanation": "「ひょうはく」は「漂泊」と書く。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "書き取り"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "idiom-244",
+    "category": "idiom",
+    "categoryLabel": "四字熟語",
+    "prompt": "次の四字熟語の意味を答えよ。\n一石二鳥",
+    "answer": "一つの行為で、同時に二つの利益を得ること。",
+    "meaning": "一つの行為で、同時に二つの利益を得ること。",
+    "example": "徒歩で通えば運動と節約になり一石二鳥だ。",
+    "explanation": "「一石二鳥」は「いっせきにちょう」と読む。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "四字熟語"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "idiom-245",
+    "category": "idiom",
+    "categoryLabel": "四字熟語",
+    "prompt": "次の四字熟語の意味を答えよ。\n前代未聞",
+    "answer": "これまで一度も聞いたことがないほど、珍しい出来事であること。",
+    "meaning": "これまで一度も聞いたことがないほど、珍しい出来事であること。",
+    "example": "前代未聞の記録を打ち立てた。",
+    "explanation": "「前代未聞」は「ぜんだいみもん」と読む。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "四字熟語"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "idiom-246",
+    "category": "idiom",
+    "categoryLabel": "四字熟語",
+    "prompt": "次の四字熟語の意味を答えよ。\n起死回生",
+    "answer": "危機的な状態を一気に立て直し、勢いを取り戻すこと。",
+    "meaning": "危機的な状態を一気に立て直し、勢いを取り戻すこと。",
+    "example": "起死回生の一打で逆転した。",
+    "explanation": "「起死回生」は「きしかいせい」と読む。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "四字熟語"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "idiom-247",
+    "category": "idiom",
+    "categoryLabel": "四字熟語",
+    "prompt": "次の四字熟語の意味を答えよ。\n暗中模索",
+    "answer": "手掛かりがないまま、さまざまな方法を試して探し求めること。",
+    "meaning": "手掛かりがないまま、さまざまな方法を試して探し求めること。",
+    "example": "解決策を暗中模索する。",
+    "explanation": "「暗中模索」は「あんちゅうもさく」と読む。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "四字熟語"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "idiom-248",
+    "category": "idiom",
+    "categoryLabel": "四字熟語",
+    "prompt": "次の四字熟語の意味を答えよ。\n一朝一夕",
+    "answer": "ごく短い期間。わずかな時間。",
+    "meaning": "ごく短い期間。わずかな時間。",
+    "example": "技術は一朝一夕には身に付かない。",
+    "explanation": "「一朝一夕」は「いっちょういっせき」と読む。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "四字熟語"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "idiom-249",
+    "category": "idiom",
+    "categoryLabel": "四字熟語",
+    "prompt": "次の四字熟語の意味を答えよ。\n泰然自若",
+    "answer": "何が起きても落ち着いていて、少しも動じないさま。",
+    "meaning": "何が起きても落ち着いていて、少しも動じないさま。",
+    "example": "緊急時にも泰然自若として対応した。",
+    "explanation": "「泰然自若」は「たいぜんじじゃく」と読む。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "四字熟語"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "antonym-250",
+    "category": "antonym",
+    "categoryLabel": "対義語・類義語",
+    "prompt": "「隆盛」の対義語を答えよ。",
+    "answer": "衰退",
+    "meaning": "勢いが盛んになることと、勢いが衰えること。",
+    "example": "産業の隆盛と衰退には多くの要因がある。",
+    "explanation": "「隆盛」⇔「衰退」は対義語の関係にある。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "対義語"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "antonym-251",
+    "category": "antonym",
+    "categoryLabel": "対義語・類義語",
+    "prompt": "「栄誉」の対義語を答えよ。",
+    "answer": "恥辱",
+    "meaning": "名誉ある評価を受けることと、名誉を傷つけられること。",
+    "example": "栄誉と恥辱は対照的な意味を持つ。",
+    "explanation": "「栄誉」⇔「恥辱」は対義語の関係にある。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "対義語"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "antonym-252",
+    "category": "antonym",
+    "categoryLabel": "対義語・類義語",
+    "prompt": "「原因」の対義語を答えよ。",
+    "answer": "結果",
+    "meaning": "物事を引き起こすもとになるものと、それによって生じた事柄。",
+    "example": "原因と結果の関係を明らかにする。",
+    "explanation": "「原因」⇔「結果」は対義語の関係にある。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "対義語"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "antonym-253",
+    "category": "antonym",
+    "categoryLabel": "対義語・類義語",
+    "prompt": "「勤勉」の対義語を答えよ。",
+    "answer": "怠惰",
+    "meaning": "仕事や勉強に熱心に励むことと、すべきことを怠けること。",
+    "example": "勤勉な態度と怠惰な態度は対照的だ。",
+    "explanation": "「勤勉」⇔「怠惰」は対義語の関係にある。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "対義語"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "antonym-254",
+    "category": "antonym",
+    "categoryLabel": "対義語・類義語",
+    "prompt": "「援助」の類義語を答えよ。",
+    "answer": "支援",
+    "meaning": "どちらも困っている人や活動を助け、力を貸すことを表す。",
+    "example": "被災地への援助・支援を続ける。",
+    "explanation": "「援助」≒「支援」は類義語の関係にある。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "類義語"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "antonym-255",
+    "category": "antonym",
+    "categoryLabel": "対義語・類義語",
+    "prompt": "「企図」の類義語を答えよ。",
+    "answer": "計画",
+    "meaning": "どちらもある目的を実現するために、方法や手順を考えることを表す。",
+    "example": "新事業を企図・計画する。",
+    "explanation": "「企図」≒「計画」は類義語の関係にある。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "類義語"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "antonym-256",
+    "category": "antonym",
+    "categoryLabel": "対義語・類義語",
+    "prompt": "「模範」の類義語を答えよ。",
+    "answer": "手本",
+    "meaning": "どちらも見習うべき優れた例を表す。",
+    "example": "後輩の模範・手本となる。",
+    "explanation": "「模範」≒「手本」は類義語の関係にある。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "類義語"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "antonym-257",
+    "category": "antonym",
+    "categoryLabel": "対義語・類義語",
+    "prompt": "「変遷」の類義語を答えよ。",
+    "answer": "推移",
+    "meaning": "どちらも時の経過につれて物事が移り変わることを表す。",
+    "example": "制度の変遷・推移を調べる。",
+    "explanation": "「変遷」≒「推移」は類義語の関係にある。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "類義語"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "radical-258",
+    "category": "radical",
+    "categoryLabel": "部首",
+    "prompt": "「泌」の部首を答えよ。",
+    "answer": "さんずい",
+    "meaning": "水や液体に関係する漢字につく部首。「氵」の形で書かれる。",
+    "example": "「分泌」の「泌」はさんずいを部首に持つ。",
+    "explanation": "「泌」の部首は「さんずい」。",
+    "choices": [
+      "さんずい",
+      "にすい",
+      "りっしんべん",
+      "しめすへん"
+    ],
+    "source": "original",
+    "tags": [
+      "部首"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "radical-259",
+    "category": "radical",
+    "categoryLabel": "部首",
+    "prompt": "「慌」の部首を答えよ。",
+    "answer": "りっしんべん",
+    "meaning": "心の動きに関係する漢字につく部首。「忄」の形で書かれる。",
+    "example": "「情」「快」なども同じりっしんべんの漢字。",
+    "explanation": "「慌」の部首は「りっしんべん」。",
+    "choices": [
+      "りっしんべん",
+      "けものへん",
+      "てへん",
+      "さんずい"
+    ],
+    "source": "original",
+    "tags": [
+      "部首"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "radical-260",
+    "category": "radical",
+    "categoryLabel": "部首",
+    "prompt": "「錬」の部首を答えよ。",
+    "answer": "かねへん",
+    "meaning": "金属に関係する漢字につく部首。「釒」の形で書かれる。",
+    "example": "「鉄」「銅」なども同じかねへんの漢字。",
+    "explanation": "「錬」の部首は「かねへん」。",
+    "choices": [
+      "かねへん",
+      "きへん",
+      "いとへん",
+      "のぎへん"
+    ],
+    "source": "original",
+    "tags": [
+      "部首"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "radical-261",
+    "category": "radical",
+    "categoryLabel": "部首",
+    "prompt": "「憾」の部首を答えよ。",
+    "answer": "りっしんべん",
+    "meaning": "心の動きに関係する漢字につく部首。「忄」の形で書かれる。",
+    "example": "「情」「慌」なども同じりっしんべんの漢字。",
+    "explanation": "「憾」の部首は「りっしんべん」。",
+    "choices": [
+      "りっしんべん",
+      "けものへん",
+      "にんべん",
+      "ごんべん"
+    ],
+    "source": "original",
+    "tags": [
+      "部首"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "structure-262",
+    "category": "structure",
+    "categoryLabel": "熟語構成",
+    "prompt": "「美醜」の熟語の構成として最も適切なものを選べ。",
+    "answer": "反対または対応する意味の字を重ねる",
+    "meaning": "「美」と「醜」で反対の意味を持つ字を重ねた熟語。",
+    "example": "同じ構成の熟語に「強弱」がある。",
+    "explanation": "「美醜」は反対または対応する意味の字を重ねる熟語である。",
+    "choices": [
+      "同じような意味の字を重ねる",
+      "反対または対応する意味の字を重ねる",
+      "主語・述語の関係にある",
+      "上の字が下の字を修飾する",
+      "下の字が上の字の目的語・補語になる"
+    ],
+    "source": "original",
+    "tags": [
+      "熟語構成"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "structure-263",
+    "category": "structure",
+    "categoryLabel": "熟語構成",
+    "prompt": "「頭痛」の熟語の構成として最も適切なものを選べ。",
+    "answer": "主語・述語の関係にある",
+    "meaning": "「頭が痛む」というように、上の字が主語、下の字が述語の関係にある熟語。",
+    "example": "同じ構成の熟語に「地震」がある。",
+    "explanation": "「頭痛」は主語・述語の関係にある熟語である。",
+    "choices": [
+      "同じような意味の字を重ねる",
+      "反対または対応する意味の字を重ねる",
+      "主語・述語の関係にある",
+      "上の字が下の字を修飾する",
+      "下の字が上の字の目的語・補語になる"
+    ],
+    "source": "original",
+    "tags": [
+      "熟語構成"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "structure-264",
+    "category": "structure",
+    "categoryLabel": "熟語構成",
+    "prompt": "「急行」の熟語の構成として最も適切なものを選べ。",
+    "answer": "上の字が下の字を修飾する",
+    "meaning": "「急いで行く」というように、上の字が下の字を修飾する熟語。",
+    "example": "同じ構成の熟語に「熟読」がある。",
+    "explanation": "「急行」は上の字が下の字を修飾する熟語である。",
+    "choices": [
+      "同じような意味の字を重ねる",
+      "反対または対応する意味の字を重ねる",
+      "主語・述語の関係にある",
+      "上の字が下の字を修飾する",
+      "下の字が上の字の目的語・補語になる"
+    ],
+    "source": "original",
+    "tags": [
+      "熟語構成"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "structure-265",
+    "category": "structure",
+    "categoryLabel": "熟語構成",
+    "prompt": "「造船」の熟語の構成として最も適切なものを選べ。",
+    "answer": "下の字が上の字の目的語・補語になる",
+    "meaning": "「船を造る」というように、下の字が上の字の目的語になる熟語。",
+    "example": "同じ構成の熟語に「読書」がある。",
+    "explanation": "「造船」は下の字が上の字の目的語・補語になる熟語である。",
+    "choices": [
+      "同じような意味の字を重ねる",
+      "反対または対応する意味の字を重ねる",
+      "主語・述語の関係にある",
+      "上の字が下の字を修飾する",
+      "下の字が上の字の目的語・補語になる"
+    ],
+    "source": "original",
+    "tags": [
+      "熟語構成"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "structure-266",
+    "category": "structure",
+    "categoryLabel": "熟語構成",
+    "prompt": "「往復」の熟語の構成として最も適切なものを選べ。",
+    "answer": "反対または対応する意味の字を重ねる",
+    "meaning": "「往」と「復」で、行くことと戻ることという反対の意味を持つ字を重ねた熟語。",
+    "example": "同じ構成の熟語に「増減」がある。",
+    "explanation": "「往復」は反対または対応する意味の字を重ねる熟語である。",
+    "choices": [
+      "同じような意味の字を重ねる",
+      "反対または対応する意味の字を重ねる",
+      "主語・述語の関係にある",
+      "上の字が下の字を修飾する",
+      "下の字が上の字の目的語・補語になる"
+    ],
+    "source": "original",
+    "tags": [
+      "熟語構成"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "structure-267",
+    "category": "structure",
+    "categoryLabel": "熟語構成",
+    "prompt": "「雷鳴」の熟語の構成として最も適切なものを選べ。",
+    "answer": "主語・述語の関係にある",
+    "meaning": "「雷が鳴る」というように、上の字が主語、下の字が述語の関係にある熟語。",
+    "example": "同じ構成の熟語に「地震」がある。",
+    "explanation": "「雷鳴」は主語・述語の関係にある熟語である。",
+    "choices": [
+      "同じような意味の字を重ねる",
+      "反対または対応する意味の字を重ねる",
+      "主語・述語の関係にある",
+      "上の字が下の字を修飾する",
+      "下の字が上の字の目的語・補語になる"
+    ],
+    "source": "original",
+    "tags": [
+      "熟語構成"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "structure-268",
+    "category": "structure",
+    "categoryLabel": "熟語構成",
+    "prompt": "「清流」の熟語の構成として最も適切なものを選べ。",
+    "answer": "上の字が下の字を修飾する",
+    "meaning": "「清らかな流れ」というように、上の字が下の字を修飾する熟語。",
+    "example": "同じ構成の熟語に「青空」がある。",
+    "explanation": "「清流」は上の字が下の字を修飾する熟語である。",
+    "choices": [
+      "同じような意味の字を重ねる",
+      "反対または対応する意味の字を重ねる",
+      "主語・述語の関係にある",
+      "上の字が下の字を修飾する",
+      "下の字が上の字の目的語・補語になる"
+    ],
+    "source": "original",
+    "tags": [
+      "熟語構成"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "structure-269",
+    "category": "structure",
+    "categoryLabel": "熟語構成",
+    "prompt": "「洗顔」の熟語の構成として最も適切なものを選べ。",
+    "answer": "下の字が上の字の目的語・補語になる",
+    "meaning": "「顔を洗う」というように、下の字が上の字の目的語になる熟語。",
+    "example": "同じ構成の熟語に「読書」がある。",
+    "explanation": "「洗顔」は下の字が上の字の目的語・補語になる熟語である。",
+    "choices": [
+      "同じような意味の字を重ねる",
+      "反対または対応する意味の字を重ねる",
+      "主語・述語の関係にある",
+      "上の字が下の字を修飾する",
+      "下の字が上の字の目的語・補語になる"
+    ],
+    "source": "original",
+    "tags": [
+      "熟語構成"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "correction-270",
+    "category": "correction",
+    "categoryLabel": "誤字訂正",
+    "prompt": "次の文中には誤って使われている同音の漢字が1字ある。誤字を正しい字に直せ。\n新しい規則を来月から摘要する。",
+    "answer": "誤 摘要 → 正 適用",
+    "meaning": "「てきよう」と読む同音異義語。「摘要」は要点を抜き出して記すこと、「適用」は規則などを当てはめて用いることを表す。ここでは規則を用いる意味なので「適用」が正しい。",
+    "example": "新しい規則を来月から適用する。",
+    "explanation": "「てきよう」と読む同音異義語。「摘要」は要点を抜き出して記すこと、「適用」は規則などを当てはめて用いることを表す。ここでは規則を用いる意味なので「適用」が正しい。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "誤字訂正"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "correction-271",
+    "category": "correction",
+    "categoryLabel": "誤字訂正",
+    "prompt": "次の文中には誤って使われている同音の漢字が1字ある。誤字を正しい字に直せ。\n説明が不足していたので、資料を捕捉した。",
+    "answer": "誤 捕捉 → 正 補足",
+    "meaning": "「ほそく」と読む同音異義語。「捕捉」は捕らえること、「補足」は足りない部分を補うことを表す。ここでは説明を補う意味なので「補足」が正しい。",
+    "example": "説明が不足していたので、資料を補足した。",
+    "explanation": "「ほそく」と読む同音異義語。「捕捉」は捕らえること、「補足」は足りない部分を補うことを表す。ここでは説明を補う意味なので「補足」が正しい。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "誤字訂正"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "correction-272",
+    "category": "correction",
+    "categoryLabel": "誤字訂正",
+    "prompt": "次の文中には誤って使われている同音の漢字が1字ある。誤字を正しい字に直せ。\n放送局が新しい番組を製作した。",
+    "answer": "誤 製作 → 正 制作",
+    "meaning": "「せいさく」と読む同音異義語。「製作」は道具や機械など具体的な物を作ること、「制作」は映像や芸術作品などを作ることを表す。ここでは番組を作る意味なので「制作」が正しい。",
+    "example": "放送局が新しい番組を制作した。",
+    "explanation": "「せいさく」と読む同音異義語。「製作」は道具や機械など具体的な物を作ること、「制作」は映像や芸術作品などを作ることを表す。ここでは番組を作る意味なので「制作」が正しい。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "誤字訂正"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "correction-273",
+    "category": "correction",
+    "categoryLabel": "誤字訂正",
+    "prompt": "次の文中には誤って使われている同音の漢字が1字ある。誤字を正しい字に直せ。\n議長が出席者に議案の裁決を求めた。",
+    "answer": "誤 裁決 → 正 採決",
+    "meaning": "「さいけつ」と読む同音異義語。「裁決」は行政機関などが判断を下すこと、「採決」は会議で賛否を決めることを表す。ここでは議案の賛否を決めるので「採決」が正しい。",
+    "example": "議長が出席者に議案の採決を求めた。",
+    "explanation": "「さいけつ」と読む同音異義語。「裁決」は行政機関などが判断を下すこと、「採決」は会議で賛否を決めることを表す。ここでは議案の賛否を決めるので「採決」が正しい。",
+    "choices": [],
+    "source": "original",
+    "tags": [
+      "誤字訂正"
+    ],
+    "difficulty": 2
   }
 ];

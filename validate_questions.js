@@ -10,6 +10,16 @@ QUESTIONS.forEach(q => { if (prompts.has(q.prompt)) dupPrompt++; prompts.add(q.p
 console.log('total:', QUESTIONS.length);
 console.log('duplicate prompts:', dupPrompt);
 
+let idSequenceProblems = 0;
+QUESTIONS.forEach((q, index) => {
+  const expectedSuffix = String(index + 1).padStart(3, '0');
+  if (!q.id.endsWith(`-${expectedSuffix}`)) {
+    console.log('id sequence problem:', q.id, 'expected suffix:', expectedSuffix);
+    idSequenceProblems++;
+  }
+});
+console.log('id sequence problems:', idSequenceProblems);
+
 const wmap = {};
 let writingDup = 0;
 QUESTIONS.filter(q => q.category === 'writing').forEach(q => {
@@ -51,3 +61,11 @@ console.log('structure choice problems:', structDup);
 const byCategory = {};
 QUESTIONS.forEach(q => { byCategory[q.category] = (byCategory[q.category] || 0) + 1; });
 console.log('category counts:', byCategory);
+
+const totalProblems = dupPrompt + idSequenceProblems + writingDup + readAmb + radDup + structDup;
+if (totalProblems > 0) {
+  console.error('validation failed:', totalProblems, 'problem(s)');
+  process.exitCode = 1;
+} else {
+  console.log('validation passed: all extended checks are clean.');
+}
