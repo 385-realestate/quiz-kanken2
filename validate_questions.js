@@ -44,6 +44,15 @@ QUESTIONS.filter(q => q.category === 'reading').forEach(q => {
 });
 console.log('reading ambiguities:', readAmb);
 
+let idiomChoiceProblems = 0;
+QUESTIONS.filter(q => q.category === 'idiom').forEach(q => {
+  if (q.choices.length !== 4 || new Set(q.choices).size !== 4 || !q.choices.includes(q.answer)) {
+    console.log('idiom choice problem:', q.id, q.choices);
+    idiomChoiceProblems++;
+  }
+});
+console.log('idiom choice problems:', idiomChoiceProblems);
+
 let radDup = 0;
 QUESTIONS.filter(q => q.category === 'radical').forEach(q => {
   const set = new Set(q.choices);
@@ -62,7 +71,7 @@ const byCategory = {};
 QUESTIONS.forEach(q => { byCategory[q.category] = (byCategory[q.category] || 0) + 1; });
 console.log('category counts:', byCategory);
 
-const totalProblems = dupPrompt + idSequenceProblems + writingDup + readAmb + radDup + structDup;
+const totalProblems = dupPrompt + idSequenceProblems + writingDup + readAmb + idiomChoiceProblems + radDup + structDup;
 if (totalProblems > 0) {
   console.error('validation failed:', totalProblems, 'problem(s)');
   process.exitCode = 1;

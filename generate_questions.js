@@ -292,9 +292,14 @@ VOCAB.slice(0, LEGACY_COUNTS.vocab).forEach(([word, reading, meaning, example]) 
     `「${reading}」は「${word}」と書く。`);
 });
 
-IDIOMS.slice(0, LEGACY_COUNTS.idiom).forEach(([term, reading, meaning, example]) => {
+function idiomChoices(index) {
+  const offsets = [0, 1, 7, 13];
+  return offsets.map(offset => IDIOMS[(index + offset) % IDIOMS.length][2]);
+}
+
+IDIOMS.slice(0, LEGACY_COUNTS.idiom).forEach(([term, reading, meaning, example], index) => {
   push('idiom', '四字熟語', '四字熟語', `次の四字熟語の意味を答えよ。\n${term}`, meaning, meaning, example,
-    `「${term}」は「${reading}」と読む。`);
+    `「${term}」は「${reading}」と読む。`, idiomChoices(index));
 });
 
 ANTONYMS.slice(0, LEGACY_COUNTS.antonym).forEach(([a, b, meaning, example]) => {
@@ -332,9 +337,9 @@ VOCAB.slice(LEGACY_COUNTS.vocab).forEach(([word, reading, meaning, example]) => 
   push('writing', '書き取り', '書き取り', `次の読みを漢字で書け。\n${reading}`, word, meaning, example,
     `「${reading}」は「${word}」と書く。`);
 });
-IDIOMS.slice(LEGACY_COUNTS.idiom).forEach(([term, reading, meaning, example]) => {
+IDIOMS.slice(LEGACY_COUNTS.idiom).forEach(([term, reading, meaning, example], index) => {
   push('idiom', '四字熟語', '四字熟語', `次の四字熟語の意味を答えよ。\n${term}`, meaning, meaning, example,
-    `「${term}」は「${reading}」と読む。`);
+    `「${term}」は「${reading}」と読む。`, idiomChoices(LEGACY_COUNTS.idiom + index));
 });
 ANTONYMS.slice(LEGACY_COUNTS.antonym).forEach(([a, b, meaning, example]) => {
   push('antonym', '対義語・類義語', '対義語', `「${a}」の対義語を答えよ。`, b, meaning, example,
