@@ -82,6 +82,21 @@ const VOCAB = [
   ['煩雑', 'はんざつ', '物事が込み入っていて、わずらわしいこと。', '煩雑な手続きを簡素化する。'],
   ['謹慎', 'きんしん', '行いを慎み、一定期間おとなしくしていること。', '責任を感じて自宅で謹慎する。'],
   ['漂泊', 'ひょうはく', '一定の場所にとどまらず、各地をさまよい歩くこと。', '各地を漂泊する旅を続けた。'],
+  ['逐次', 'ちくじ', '決められた順を追って、次々に行うさま。', '結果を逐次報告する。'],
+  ['罷免', 'ひめん', '職務を強制的に辞めさせること。', '規定に基づいて役員を罷免する。'],
+  ['漸進', 'ぜんしん', '順を追って少しずつ進むこと。', '改革を漸進的に進める。'],
+  ['遡及', 'そきゅう', '過去にさかのぼって効力や影響を及ぼすこと。', '新制度を過去に遡及して適用しない。'],
+  ['恭順', 'きょうじゅん', '命令に謹んで従うこと。', '新しい統治者に恭順の意を示す。'],
+  ['踏破', 'とうは', '困難な道のりを歩き通すこと。', '長い山道を踏破した。'],
+  ['逓減', 'ていげん', '数量などがしだいに減ること。', '利用者数が年々逓減する。'],
+  ['陳腐', 'ちんぷ', '古くさく、ありふれていて新鮮味がないこと。', '陳腐な表現を避ける。'],
+  ['洞察', 'どうさつ', '物事の本質や内面を深く見抜くこと。', '鋭い洞察を示す。'],
+  ['奔放', 'ほんぽう', '世間の決まりにとらわれず、思うままに振る舞うこと。', '自由奔放な作風で知られる。'],
+  ['矯正', 'きょうせい', '欠点や悪い状態を正しく直すこと。', '姿勢を矯正する。'],
+  ['弾劾', 'だんがい', '罪や不正を調べ上げ、責任を厳しく追及すること。', '公職者を弾劾する決議を行う。'],
+  ['堅牢', 'けんろう', '丈夫で、簡単には壊れないこと。', '堅牢な建物を造る。'],
+  ['酷似', 'こくじ', '非常によく似ていること。', '二つの図案は酷似している。'],
+  ['諮問', 'しもん', '有識者や機関に意見を求めること。', '審議会に対応策を諮問する。'],
 ];
 
 // ── 四字熟語 ────────────────────────────────────────────────────
@@ -117,6 +132,11 @@ const IDIOMS = [
   ['暗中模索', 'あんちゅうもさく', '手掛かりがないまま、さまざまな方法を試して探し求めること。', '解決策を暗中模索する。'],
   ['一朝一夕', 'いっちょういっせき', 'ごく短い期間。わずかな時間。', '技術は一朝一夕には身に付かない。'],
   ['泰然自若', 'たいぜんじじゃく', '何が起きても落ち着いていて、少しも動じないさま。', '緊急時にも泰然自若として対応した。'],
+  ['公序良俗', 'こうじょりょうぞく', '社会の一般的な秩序と、健全な道徳観念。', '公序良俗に反する契約は認められない。'],
+  ['自画自賛', 'じがじさん', '自分で自分の行いや作品を褒めること。', '自画自賛になるが、よい出来だと思う。'],
+  ['大同小異', 'だいどうしょうい', '細かな違いはあっても、全体としてはほとんど同じであること。', 'どの案も大同小異だった。'],
+  ['単刀直入', 'たんとうちょくにゅう', '前置きをせず、すぐに本題へ入ること。', '単刀直入に要件を伝える。'],
+  ['半信半疑', 'はんしんはんぎ', '半分は信じ、半分は疑っている状態。', 'その話を半信半疑で聞いた。'],
 ];
 
 // ── 対義語・類義語 ──────────────────────────────────────────────
@@ -140,6 +160,10 @@ const ANTONYMS = [
   ['栄誉', '恥辱', '名誉ある評価を受けることと、名誉を傷つけられること。', '栄誉と恥辱は対照的な意味を持つ。'],
   ['原因', '結果', '物事を引き起こすもとになるものと、それによって生じた事柄。', '原因と結果の関係を明らかにする。'],
   ['勤勉', '怠惰', '仕事や勉強に熱心に励むことと、すべきことを怠けること。', '勤勉な態度と怠惰な態度は対照的だ。'],
+  ['暫定', '確定', '一時的に仮に定めることと、はっきり決定すること。', '暫定案を検討して最終案を確定する。'],
+  ['散漫', '集中', '注意がまとまらず散らばることと、一つのことに集まること。', '散漫になった意識を作業に集中させる。'],
+  ['浪費', '節約', '金銭や時間を無駄に使うことと、無駄を省いて切り詰めること。', '時間の浪費を避けて労力を節約する。'],
+  ['複雑', '単純', '物事が入り組んでいることと、込み入っていないこと。', '複雑な仕組みを単純にする。'],
 ];
 const SYNONYMS = [
   ['進歩', '発展', 'どちらも物事がよい方向へ進み、盛んになることを表す。', '技術の進歩・発展はめざましい。'],
@@ -156,6 +180,10 @@ const SYNONYMS = [
   ['企図', '計画', 'どちらもある目的を実現するために、方法や手順を考えることを表す。', '新事業を企図・計画する。'],
   ['模範', '手本', 'どちらも見習うべき優れた例を表す。', '後輩の模範・手本となる。'],
   ['変遷', '推移', 'どちらも時の経過につれて物事が移り変わることを表す。', '制度の変遷・推移を調べる。'],
+  ['介抱', '看護', 'どちらも病人やけが人の世話をすることを表す。', '負傷者を介抱・看護する。'],
+  ['顕著', '明白', 'どちらも物事がはっきりしていて分かりやすいことを表す。', '改善の効果は顕著・明白だった。'],
+  ['包括', '包含', 'どちらもあるものを中に含み込むことを表す。', '複数の要素を包括・包含する概念だ。'],
+  ['補佐', '助力', 'どちらも人を助け、力を添えることを表す。', '責任者を補佐し、計画の実行に助力する。'],
 ];
 
 // ── 部首 ────────────────────────────────────────────────────────
@@ -184,6 +212,11 @@ const RADICALS = [
   ['慌', 'りっしんべん', ['りっしんべん', 'けものへん', 'てへん', 'さんずい'], '心の動きに関係する漢字につく部首。「忄」の形で書かれる。', '「情」「快」なども同じりっしんべんの漢字。'],
   ['錬', 'かねへん', ['かねへん', 'きへん', 'いとへん', 'のぎへん'], '金属に関係する漢字につく部首。「釒」の形で書かれる。', '「鉄」「銅」なども同じかねへんの漢字。'],
   ['憾', 'りっしんべん', ['りっしんべん', 'けものへん', 'にんべん', 'ごんべん'], '心の動きに関係する漢字につく部首。「忄」の形で書かれる。', '「情」「慌」なども同じりっしんべんの漢字。'],
+  ['諮', 'ごんべん', ['ごんべん', 'くちへん', 'さんずい', 'にんべん'], '言葉や相談に関係する漢字につく部首。「訁」の形で書かれる。', '「語」「談」なども同じごんべんの漢字。'],
+  ['賦', 'かいへん', ['かいへん', 'ぶんにょう', 'ほこづくり', 'おおがい'], '財貨などに関係する漢字につく部首。「貝」の形で書かれる。', '「財」「貯」なども同じかいへんの漢字。'],
+  ['譜', 'ごんべん', ['ごんべん', 'にちへん', 'こざとへん', 'さんずい'], '言葉や記録に関係する漢字につく部首。「訁」の形で書かれる。', '「諮」「談」なども同じごんべんの漢字。'],
+  ['酪', 'とりへん', ['とりへん', 'くちへん', 'のぎへん', 'きへん'], '酒や発酵に関係する漢字につく部首。「酉」の形で書かれる。', '「酒」「酢」なども同じとりへんの漢字。'],
+  ['魅', 'おに', ['おに', 'きへん', 'のぎへん', 'むにょう'], '鬼や霊的なものに関係する部首。「鬼」の形で書かれる。', '「魂」「魁」なども同じ部首を持つ漢字。'],
 ];
 
 // ── 熟語の構成 ──────────────────────────────────────────────────
@@ -223,6 +256,11 @@ const STRUCTURES = [
   ['雷鳴', 2, '「雷が鳴る」というように、上の字が主語、下の字が述語の関係にある熟語。', '同じ構成の熟語に「地震」がある。'],
   ['清流', 3, '「清らかな流れ」というように、上の字が下の字を修飾する熟語。', '同じ構成の熟語に「青空」がある。'],
   ['洗顔', 4, '「顔を洗う」というように、下の字が上の字の目的語になる熟語。', '同じ構成の熟語に「読書」がある。'],
+  ['善悪', 1, '「善」と「悪」で反対の意味を持つ字を重ねた熟語。', '同じ構成の熟語に「美醜」がある。'],
+  ['民営', 2, '「民間が営む」というように、上の字が主語、下の字が述語の関係にある熟語。', '同じ構成の熟語に「国立」がある。'],
+  ['熟考', 3, '「十分によく考える」というように、上の字が下の字を修飾する熟語。', '同じ構成の熟語に「熟読」がある。'],
+  ['救国', 4, '「国を救う」というように、下の字が上の字の目的語になる熟語。', '同じ構成の熟語に「造船」がある。'],
+  ['損得', 1, '「損」と「得」で反対の意味を持つ字を重ねた熟語。', '同じ構成の熟語に「善悪」がある。'],
 ];
 
 // ── 誤字訂正 ────────────────────────────────────────────────────
@@ -248,6 +286,11 @@ const CORRECTIONS = [
   ['説明が不足していたので、資料を補足した。', '補足', '捕捉', '「ほそく」と読む同音異義語。「捕捉」は捕らえること、「補足」は足りない部分を補うことを表す。ここでは説明を補う意味なので「補足」が正しい。'],
   ['放送局が新しい番組を制作した。', '制作', '製作', '「せいさく」と読む同音異義語。「製作」は道具や機械など具体的な物を作ること、「制作」は映像や芸術作品などを作ることを表す。ここでは番組を作る意味なので「制作」が正しい。'],
   ['議長が出席者に議案の採決を求めた。', '採決', '裁決', '「さいけつ」と読む同音異義語。「裁決」は行政機関などが判断を下すこと、「採決」は会議で賛否を決めることを表す。ここでは議案の賛否を決めるので「採決」が正しい。'],
+  ['期限までに税金を納めた。', '納め', '収め', '「おさめる」の使い分け。「収める」は中に入れる・成果を得ること、「納める」は金品を差し出すことを表す。ここでは税金を支払うので「納め」が正しい。'],
+  ['講師の講演を聞いて理解を深めた。', '講演', '公演', '「こうえん」と読む同音異義語。「公演」は演劇や音楽を公開すること、「講演」は人前で話をすることを表す。ここでは講師の話なので「講演」が正しい。'],
+  ['データから地域ごとの特徴を捉えた。', '捉え', '捕らえ', '「とらえる」の使い分け。「捕らえる」は人や動物をつかまえること、「捉える」は意味や特徴を把握することを表す。ここでは特徴の把握なので「捉え」が正しい。'],
+  ['事故を起こした担当者の責任を追及した。', '追及', '追求', '「ついきゅう」と読む同音異義語。「追求」は目的を追い求めること、「追及」は責任や原因を問い詰めることを表す。ここでは責任を問うので「追及」が正しい。'],
+  ['工場で新しい機械を製作した。', '製作', '制作', '「せいさく」と読む同音異義語。「制作」は芸術作品や映像などを作ること、「製作」は機械や道具など具体的な物を作ることを表す。ここでは機械を作るので「製作」が正しい。'],
 ];
 
 // ── 生成処理 ────────────────────────────────────────────────────
@@ -264,6 +307,15 @@ const LEGACY_COUNTS = {
   radical: 20,
   structure: 20,
   correction: 15,
+};
+const PUBLISHED_COUNTS = {
+  vocab: 69,
+  idiom: 31,
+  antonym: 19,
+  synonym: 14,
+  radical: 24,
+  structure: 28,
+  correction: 19,
 };
 function push(category, categoryLabel, tag, prompt, answer, meaning, example, explanation, choices) {
   seq += 1;
@@ -331,34 +383,70 @@ CORRECTIONS.slice(0, LEGACY_COUNTS.correction).forEach(([correctSentence, correc
 });
 
 // ── 追加問題（既存223問のIDを保持するため末尾に生成） ────────────
-VOCAB.slice(LEGACY_COUNTS.vocab).forEach(([word, reading, meaning, example]) => {
+VOCAB.slice(LEGACY_COUNTS.vocab, PUBLISHED_COUNTS.vocab).forEach(([word, reading, meaning, example]) => {
   push('reading', '読み', '読み', `次の熟語の読みを答えよ。\n${word}`, reading, meaning, example,
     `「${word}」は「${reading}」と読む。`);
   push('writing', '書き取り', '書き取り', `次の読みを漢字で書け。\n${reading}`, word, meaning, example,
     `「${reading}」は「${word}」と書く。`);
 });
-IDIOMS.slice(LEGACY_COUNTS.idiom).forEach(([term, reading, meaning, example], index) => {
+IDIOMS.slice(LEGACY_COUNTS.idiom, PUBLISHED_COUNTS.idiom).forEach(([term, reading, meaning, example], index) => {
   push('idiom', '四字熟語', '四字熟語', `次の四字熟語の意味を答えよ。\n${term}`, meaning, meaning, example,
     `「${term}」は「${reading}」と読む。`, idiomChoices(LEGACY_COUNTS.idiom + index));
 });
-ANTONYMS.slice(LEGACY_COUNTS.antonym).forEach(([a, b, meaning, example]) => {
+ANTONYMS.slice(LEGACY_COUNTS.antonym, PUBLISHED_COUNTS.antonym).forEach(([a, b, meaning, example]) => {
   push('antonym', '対義語・類義語', '対義語', `「${a}」の対義語を答えよ。`, b, meaning, example,
     `「${a}」⇔「${b}」は対義語の関係にある。`);
 });
-SYNONYMS.slice(LEGACY_COUNTS.synonym).forEach(([a, b, meaning, example]) => {
+SYNONYMS.slice(LEGACY_COUNTS.synonym, PUBLISHED_COUNTS.synonym).forEach(([a, b, meaning, example]) => {
   push('antonym', '対義語・類義語', '類義語', `「${a}」の類義語を答えよ。`, b, meaning, example,
     `「${a}」≒「${b}」は類義語の関係にある。`);
 });
-RADICALS.slice(LEGACY_COUNTS.radical).forEach(([kanji, radical, choices, meaning, example]) => {
+RADICALS.slice(LEGACY_COUNTS.radical, PUBLISHED_COUNTS.radical).forEach(([kanji, radical, choices, meaning, example]) => {
   push('radical', '部首', '部首', `「${kanji}」の部首を答えよ。`, radical, meaning, example,
     `「${kanji}」の部首は「${radical}」。`, choices);
 });
-STRUCTURES.slice(LEGACY_COUNTS.structure).forEach(([word, typeIndex, meaning, example]) => {
+STRUCTURES.slice(LEGACY_COUNTS.structure, PUBLISHED_COUNTS.structure).forEach(([word, typeIndex, meaning, example]) => {
   const answer = STRUCTURE_TYPES[typeIndex];
   push('structure', '熟語構成', '熟語構成', `「${word}」の熟語の構成として最も適切なものを選べ。`, answer, meaning, example,
     `「${word}」は${answer}熟語である。`, STRUCTURE_TYPES);
 });
-CORRECTIONS.slice(LEGACY_COUNTS.correction).forEach(([correctSentence, correctWord, wrongWord, explanation]) => {
+CORRECTIONS.slice(LEGACY_COUNTS.correction, PUBLISHED_COUNTS.correction).forEach(([correctSentence, correctWord, wrongWord, explanation]) => {
+  const wrongSentence = correctSentence.split(correctWord).join(wrongWord);
+  push('correction', '誤字訂正', '誤字訂正',
+    `次の文中には誤って使われている同音の漢字が1字ある。誤字を正しい字に直せ。\n${wrongSentence}`,
+    `誤 ${wrongWord} → 正 ${correctWord}`,
+    explanation, correctSentence, explanation);
+});
+
+// 前回公開後に追加した問題。公開済み273問を先に生成してIDを固定する。
+VOCAB.slice(PUBLISHED_COUNTS.vocab).forEach(([word, reading, meaning, example]) => {
+  push('reading', '読み', '読み', `次の熟語の読みを答えよ。\n${word}`, reading, meaning, example,
+    `「${word}」は「${reading}」と読む。`);
+  push('writing', '書き取り', '書き取り', `次の読みを漢字で書け。\n${reading}`, word, meaning, example,
+    `「${reading}」は「${word}」と書く。`);
+});
+IDIOMS.slice(PUBLISHED_COUNTS.idiom).forEach(([term, reading, meaning, example], index) => {
+  push('idiom', '四字熟語', '四字熟語', `次の四字熟語の意味を答えよ。\n${term}`, meaning, meaning, example,
+    `「${term}」は「${reading}」と読む。`, idiomChoices(PUBLISHED_COUNTS.idiom + index));
+});
+ANTONYMS.slice(PUBLISHED_COUNTS.antonym).forEach(([a, b, meaning, example]) => {
+  push('antonym', '対義語・類義語', '対義語', `「${a}」の対義語を答えよ。`, b, meaning, example,
+    `「${a}」⇔「${b}」は対義語の関係にある。`);
+});
+SYNONYMS.slice(PUBLISHED_COUNTS.synonym).forEach(([a, b, meaning, example]) => {
+  push('antonym', '対義語・類義語', '類義語', `「${a}」の類義語を答えよ。`, b, meaning, example,
+    `「${a}」≒「${b}」は類義語の関係にある。`);
+});
+RADICALS.slice(PUBLISHED_COUNTS.radical).forEach(([kanji, radical, choices, meaning, example]) => {
+  push('radical', '部首', '部首', `「${kanji}」の部首を答えよ。`, radical, meaning, example,
+    `「${kanji}」の部首は「${radical}」。`, choices);
+});
+STRUCTURES.slice(PUBLISHED_COUNTS.structure).forEach(([word, typeIndex, meaning, example]) => {
+  const answer = STRUCTURE_TYPES[typeIndex];
+  push('structure', '熟語構成', '熟語構成', `「${word}」の熟語の構成として最も適切なものを選べ。`, answer, meaning, example,
+    `「${word}」は${answer}熟語である。`, STRUCTURE_TYPES);
+});
+CORRECTIONS.slice(PUBLISHED_COUNTS.correction).forEach(([correctSentence, correctWord, wrongWord, explanation]) => {
   const wrongSentence = correctSentence.split(correctWord).join(wrongWord);
   push('correction', '誤字訂正', '誤字訂正',
     `次の文中には誤って使われている同音の漢字が1字ある。誤字を正しい字に直せ。\n${wrongSentence}`,
