@@ -56,22 +56,37 @@ console.log('idiom choice problems:', idiomChoiceProblems);
 let radDup = 0;
 QUESTIONS.filter(q => q.category === 'radical').forEach(q => {
   const set = new Set(q.choices);
-  if (set.size !== q.choices.length) { console.log('radical choice dup:', q.id, q.choices); radDup++; }
-  if (!q.choices.includes(q.answer)) { console.log('radical answer missing from choices:', q.id); radDup++; }
+  if (q.choices.length !== 4 || set.size !== 4 || !q.choices.includes(q.answer)) {
+    console.log('radical choice problem:', q.id, q.choices);
+    radDup++;
+  }
 });
 console.log('radical choice problems:', radDup);
 
 let structDup = 0;
 QUESTIONS.filter(q => q.category === 'structure').forEach(q => {
-  if (!q.choices.includes(q.answer)) { console.log('structure answer missing from choices:', q.id); structDup++; }
+  if (q.choices.length !== 4 || new Set(q.choices).size !== 4 || !q.choices.includes(q.answer)) {
+    console.log('structure choice problem:', q.id, q.choices);
+    structDup++;
+  }
 });
 console.log('structure choice problems:', structDup);
+
+let correctionProblems = 0;
+QUESTIONS.filter(q => q.category === 'correction').forEach(q => {
+  const match = q.answer.match(/^誤 (.+) → 正 (.+)$/);
+  if (!match || !q.prompt.includes(match?.[1] || '') || !q.example.includes(match?.[2] || '')) {
+    console.log('correction grading problem:', q.id, q.answer);
+    correctionProblems++;
+  }
+});
+console.log('correction grading problems:', correctionProblems);
 
 const byCategory = {};
 QUESTIONS.forEach(q => { byCategory[q.category] = (byCategory[q.category] || 0) + 1; });
 console.log('category counts:', byCategory);
 
-const totalProblems = dupPrompt + idSequenceProblems + writingDup + readAmb + idiomChoiceProblems + radDup + structDup;
+const totalProblems = dupPrompt + idSequenceProblems + writingDup + readAmb + idiomChoiceProblems + radDup + structDup + correctionProblems;
 if (totalProblems > 0) {
   console.error('validation failed:', totalProblems, 'problem(s)');
   process.exitCode = 1;
