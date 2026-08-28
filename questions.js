@@ -9,6 +9,7 @@ var QUESTIONS = [
     "example": "与えられた任務を遂行する。",
     "explanation": "「遂行」は「すいこう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -25,6 +26,7 @@ var QUESTIONS = [
     "example": "精緻な設計図を仕上げる。",
     "explanation": "「精緻」は「せいち」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -41,6 +43,7 @@ var QUESTIONS = [
     "example": "効果が顕著に表れた。",
     "explanation": "「顕著」は「けんちょ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -57,6 +60,7 @@ var QUESTIONS = [
     "example": "脆弱な地盤を補強する。",
     "explanation": "「脆弱」は「ぜいじゃく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -73,6 +77,7 @@ var QUESTIONS = [
     "example": "事態の悪化を憂慮する。",
     "explanation": "「憂慮」は「ゆうりょ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -89,6 +94,7 @@ var QUESTIONS = [
     "example": "慈善事業に寄付をする。",
     "explanation": "「慈善」は「じぜん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -105,6 +111,7 @@ var QUESTIONS = [
     "example": "妥当な結論に達した。",
     "explanation": "「妥当」は「だとう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -121,6 +128,7 @@ var QUESTIONS = [
     "example": "弱点を克服する。",
     "explanation": "「克服」は「こくふく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -137,6 +145,7 @@ var QUESTIONS = [
     "example": "地域社会に貢献する。",
     "explanation": "「貢献」は「こうけん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -153,6 +162,7 @@ var QUESTIONS = [
     "example": "将来を懸念する声が上がる。",
     "explanation": "「懸念」は「けねん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -169,6 +179,7 @@ var QUESTIONS = [
     "example": "打開策を模索する。",
     "explanation": "「模索」は「もさく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -185,6 +196,7 @@ var QUESTIONS = [
     "example": "会社の沿革を紹介する。",
     "explanation": "「沿革」は「えんかく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -201,6 +213,7 @@ var QUESTIONS = [
     "example": "計画の概略を説明する。",
     "explanation": "「概略」は「がいりゃく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -217,6 +230,7 @@ var QUESTIONS = [
     "example": "演奏が終わっても余韻が残る。",
     "explanation": "「余韻」は「よいん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -233,6 +247,7 @@ var QUESTIONS = [
     "example": "自然の恵みを享受する。",
     "explanation": "「享受」は「きょうじゅ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -249,6 +264,7 @@ var QUESTIONS = [
     "example": "事件解決の端緒をつかむ。",
     "explanation": "「端緒」は「たんしょ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -265,6 +281,7 @@ var QUESTIONS = [
     "example": "稚拙な文章を書き直す。",
     "explanation": "「稚拙」は「ちせつ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -281,6 +298,7 @@ var QUESTIONS = [
     "example": "話に脈絡がない。",
     "explanation": "「脈絡」は「みゃくらく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -297,6 +315,7 @@ var QUESTIONS = [
     "example": "格差を是正する。",
     "explanation": "「是正」は「ぜせい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -313,6 +332,7 @@ var QUESTIONS = [
     "example": "斬新なデザインを採用する。",
     "explanation": "「斬新」は「ざんしん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -329,6 +349,7 @@ var QUESTIONS = [
     "example": "交通ルールを遵守する。",
     "explanation": "「遵守」は「じゅんしゅ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -345,6 +366,7 @@ var QUESTIONS = [
     "example": "汎用性の高い部品を使う。",
     "explanation": "「汎用」は「はんよう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -361,6 +383,7 @@ var QUESTIONS = [
     "example": "前任者の方針を踏襲する。",
     "explanation": "「踏襲」は「とうしゅう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -377,6 +400,7 @@ var QUESTIONS = [
     "example": "細胞を培養する。",
     "explanation": "「培養」は「ばいよう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -393,6 +417,7 @@ var QUESTIONS = [
     "example": "必要な情報を網羅する。",
     "explanation": "「網羅」は「もうら」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -409,6 +434,7 @@ var QUESTIONS = [
     "example": "外界と隔絶した環境。",
     "explanation": "「隔絶」は「かくぜつ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -425,6 +451,7 @@ var QUESTIONS = [
     "example": "需要と供給の均衡を保つ。",
     "explanation": "「均衡」は「きんこう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -441,6 +468,7 @@ var QUESTIONS = [
     "example": "抑揚をつけて話す。",
     "explanation": "「抑揚」は「よくよう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -457,6 +485,7 @@ var QUESTIONS = [
     "example": "好奇心が旺盛だ。",
     "explanation": "「旺盛」は「おうせい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -473,6 +502,7 @@ var QUESTIONS = [
     "example": "議論が本題から逸脱する。",
     "explanation": "「逸脱」は「いつだつ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -489,6 +519,7 @@ var QUESTIONS = [
     "example": "謙虚な姿勢で助言を受け入れる。",
     "explanation": "「謙虚」は「けんきょ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -505,6 +536,7 @@ var QUESTIONS = [
     "example": "端的に言えば失敗だった。",
     "explanation": "「端的」は「たんてき」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -521,6 +553,7 @@ var QUESTIONS = [
     "example": "漠然とした不安を感じる。",
     "explanation": "「漠然」は「ばくぜん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -537,6 +570,7 @@ var QUESTIONS = [
     "example": "相手の立場を顧慮する。",
     "explanation": "「顧慮」は「こりょ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -553,6 +587,7 @@ var QUESTIONS = [
     "example": "寡黙な職人が黙々と作業する。",
     "explanation": "「寡黙」は「かもく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -569,6 +604,7 @@ var QUESTIONS = [
     "example": "辛辣な批評を受ける。",
     "explanation": "「辛辣」は「しんらつ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -585,6 +621,7 @@ var QUESTIONS = [
     "example": "景気の回復は緩慢だ。",
     "explanation": "「緩慢」は「かんまん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -601,6 +638,7 @@ var QUESTIONS = [
     "example": "経過を克明に記録する。",
     "explanation": "「克明」は「こくめい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -617,6 +655,7 @@ var QUESTIONS = [
     "example": "相手の意図を看破する。",
     "explanation": "「看破」は「かんぱ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -633,6 +672,7 @@ var QUESTIONS = [
     "example": "自然災害の脅威にさらされる。",
     "explanation": "「脅威」は「きょうい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -649,6 +689,7 @@ var QUESTIONS = [
     "example": "就職を斡旋する。",
     "explanation": "「斡旋」は「あっせん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -665,6 +706,7 @@ var QUESTIONS = [
     "example": "不祥事を隠蔽する。",
     "explanation": "「隠蔽」は「いんぺい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -681,6 +723,7 @@ var QUESTIONS = [
     "example": "自然の力に畏敬の念を抱く。",
     "explanation": "「畏敬」は「いけい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -697,6 +740,7 @@ var QUESTIONS = [
     "example": "物語が佳境に入る。",
     "explanation": "「佳境」は「かきょう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -713,6 +757,7 @@ var QUESTIONS = [
     "example": "過疎地域の対策を進める。",
     "explanation": "「過疎」は「かそ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -729,6 +774,7 @@ var QUESTIONS = [
     "example": "計画が瓦解する。",
     "explanation": "「瓦解」は「がかい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -745,6 +791,7 @@ var QUESTIONS = [
     "example": "戦後の窮乏生活に耐える。",
     "explanation": "「窮乏」は「きゅうぼう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -761,6 +808,7 @@ var QUESTIONS = [
     "example": "勤勉な性格で仕事に励む。",
     "explanation": "「勤勉」は「きんべん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -777,6 +825,7 @@ var QUESTIONS = [
     "example": "失敗を契機に方針を改める。",
     "explanation": "「契機」は「けいき」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -793,6 +842,7 @@ var QUESTIONS = [
     "example": "孤高の画家として知られる。",
     "explanation": "「孤高」は「ここう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -809,6 +859,7 @@ var QUESTIONS = [
     "example": "傲慢な態度を改める。",
     "explanation": "「傲慢」は「ごうまん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -825,6 +876,7 @@ var QUESTIONS = [
     "example": "目の錯覚を利用した模様。",
     "explanation": "「錯覚」は「さっかく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -841,6 +893,7 @@ var QUESTIONS = [
     "example": "恣意的な運用を避ける。",
     "explanation": "「恣意」は「しい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -857,6 +910,7 @@ var QUESTIONS = [
     "example": "カーテンで光を遮蔽する。",
     "explanation": "「遮蔽」は「しゃへい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -873,6 +927,7 @@ var QUESTIONS = [
     "example": "ガスを充填する。",
     "explanation": "「充填」は「じゅうてん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -889,6 +944,7 @@ var QUESTIONS = [
     "example": "人前で醜態をさらす。",
     "explanation": "「醜態」は「しゅうたい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -905,6 +961,7 @@ var QUESTIONS = [
     "example": "実権を掌握する。",
     "explanation": "「掌握」は「しょうあく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -921,6 +978,7 @@ var QUESTIONS = [
     "example": "慎重に判断を下す。",
     "explanation": "「慎重」は「しんちょう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -937,6 +995,7 @@ var QUESTIONS = [
     "example": "甚大な被害を受ける。",
     "explanation": "「甚大」は「じんだい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -953,6 +1012,7 @@ var QUESTIONS = [
     "example": "与えられた任務を遂行する。",
     "explanation": "「すいこう」は「遂行」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -969,6 +1029,7 @@ var QUESTIONS = [
     "example": "精緻な設計図を仕上げる。",
     "explanation": "「せいち」は「精緻」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -985,6 +1046,7 @@ var QUESTIONS = [
     "example": "効果が顕著に表れた。",
     "explanation": "「けんちょ」は「顕著」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1001,6 +1063,7 @@ var QUESTIONS = [
     "example": "脆弱な地盤を補強する。",
     "explanation": "「ぜいじゃく」は「脆弱」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1017,6 +1080,7 @@ var QUESTIONS = [
     "example": "事態の悪化を憂慮する。",
     "explanation": "「ゆうりょ」は「憂慮」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1033,6 +1097,7 @@ var QUESTIONS = [
     "example": "慈善事業に寄付をする。",
     "explanation": "「じぜん」は「慈善」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1049,6 +1114,7 @@ var QUESTIONS = [
     "example": "妥当な結論に達した。",
     "explanation": "「だとう」は「妥当」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1065,6 +1131,7 @@ var QUESTIONS = [
     "example": "弱点を克服する。",
     "explanation": "「こくふく」は「克服」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1081,6 +1148,7 @@ var QUESTIONS = [
     "example": "地域社会に貢献する。",
     "explanation": "「こうけん」は「貢献」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1097,6 +1165,7 @@ var QUESTIONS = [
     "example": "将来を懸念する声が上がる。",
     "explanation": "「けねん」は「懸念」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1113,6 +1182,7 @@ var QUESTIONS = [
     "example": "打開策を模索する。",
     "explanation": "「もさく」は「模索」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1129,6 +1199,7 @@ var QUESTIONS = [
     "example": "会社の沿革を紹介する。",
     "explanation": "「えんかく」は「沿革」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1145,6 +1216,7 @@ var QUESTIONS = [
     "example": "計画の概略を説明する。",
     "explanation": "「がいりゃく」は「概略」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1161,6 +1233,7 @@ var QUESTIONS = [
     "example": "演奏が終わっても余韻が残る。",
     "explanation": "「よいん」は「余韻」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1177,6 +1250,7 @@ var QUESTIONS = [
     "example": "自然の恵みを享受する。",
     "explanation": "「きょうじゅ」は「享受」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1193,6 +1267,7 @@ var QUESTIONS = [
     "example": "事件解決の端緒をつかむ。",
     "explanation": "「たんしょ」は「端緒」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1209,6 +1284,7 @@ var QUESTIONS = [
     "example": "稚拙な文章を書き直す。",
     "explanation": "「ちせつ」は「稚拙」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1225,6 +1301,7 @@ var QUESTIONS = [
     "example": "話に脈絡がない。",
     "explanation": "「みゃくらく」は「脈絡」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1241,6 +1318,7 @@ var QUESTIONS = [
     "example": "格差を是正する。",
     "explanation": "「ぜせい」は「是正」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1257,6 +1335,7 @@ var QUESTIONS = [
     "example": "斬新なデザインを採用する。",
     "explanation": "「ざんしん」は「斬新」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1273,6 +1352,7 @@ var QUESTIONS = [
     "example": "交通ルールを遵守する。",
     "explanation": "「じゅんしゅ」は「遵守」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1289,6 +1369,7 @@ var QUESTIONS = [
     "example": "汎用性の高い部品を使う。",
     "explanation": "「はんよう」は「汎用」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1305,6 +1386,7 @@ var QUESTIONS = [
     "example": "前任者の方針を踏襲する。",
     "explanation": "「とうしゅう」は「踏襲」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1321,6 +1403,7 @@ var QUESTIONS = [
     "example": "細胞を培養する。",
     "explanation": "「ばいよう」は「培養」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1337,6 +1420,7 @@ var QUESTIONS = [
     "example": "必要な情報を網羅する。",
     "explanation": "「もうら」は「網羅」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1353,6 +1437,7 @@ var QUESTIONS = [
     "example": "外界と隔絶した環境。",
     "explanation": "「かくぜつ」は「隔絶」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1369,6 +1454,7 @@ var QUESTIONS = [
     "example": "需要と供給の均衡を保つ。",
     "explanation": "「きんこう」は「均衡」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1385,6 +1471,7 @@ var QUESTIONS = [
     "example": "抑揚をつけて話す。",
     "explanation": "「よくよう」は「抑揚」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1401,6 +1488,7 @@ var QUESTIONS = [
     "example": "好奇心が旺盛だ。",
     "explanation": "「おうせい」は「旺盛」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1417,6 +1505,7 @@ var QUESTIONS = [
     "example": "議論が本題から逸脱する。",
     "explanation": "「いつだつ」は「逸脱」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1433,6 +1522,7 @@ var QUESTIONS = [
     "example": "謙虚な姿勢で助言を受け入れる。",
     "explanation": "「けんきょ」は「謙虚」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1449,6 +1539,7 @@ var QUESTIONS = [
     "example": "端的に言えば失敗だった。",
     "explanation": "「たんてき」は「端的」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1465,6 +1556,7 @@ var QUESTIONS = [
     "example": "漠然とした不安を感じる。",
     "explanation": "「ばくぜん」は「漠然」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1481,6 +1573,7 @@ var QUESTIONS = [
     "example": "相手の立場を顧慮する。",
     "explanation": "「こりょ」は「顧慮」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1497,6 +1590,7 @@ var QUESTIONS = [
     "example": "寡黙な職人が黙々と作業する。",
     "explanation": "「かもく」は「寡黙」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1513,6 +1607,7 @@ var QUESTIONS = [
     "example": "辛辣な批評を受ける。",
     "explanation": "「しんらつ」は「辛辣」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1529,6 +1624,7 @@ var QUESTIONS = [
     "example": "景気の回復は緩慢だ。",
     "explanation": "「かんまん」は「緩慢」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1545,6 +1641,7 @@ var QUESTIONS = [
     "example": "経過を克明に記録する。",
     "explanation": "「こくめい」は「克明」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1561,6 +1658,7 @@ var QUESTIONS = [
     "example": "相手の意図を看破する。",
     "explanation": "「かんぱ」は「看破」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1577,6 +1675,7 @@ var QUESTIONS = [
     "example": "自然災害の脅威にさらされる。",
     "explanation": "「きょうい」は「脅威」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1593,6 +1692,7 @@ var QUESTIONS = [
     "example": "就職を斡旋する。",
     "explanation": "「あっせん」は「斡旋」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1609,6 +1709,7 @@ var QUESTIONS = [
     "example": "不祥事を隠蔽する。",
     "explanation": "「いんぺい」は「隠蔽」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1625,6 +1726,7 @@ var QUESTIONS = [
     "example": "自然の力に畏敬の念を抱く。",
     "explanation": "「いけい」は「畏敬」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1641,6 +1743,7 @@ var QUESTIONS = [
     "example": "物語が佳境に入る。",
     "explanation": "「かきょう」は「佳境」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1657,6 +1760,7 @@ var QUESTIONS = [
     "example": "過疎地域の対策を進める。",
     "explanation": "「かそ」は「過疎」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1673,6 +1777,7 @@ var QUESTIONS = [
     "example": "計画が瓦解する。",
     "explanation": "「がかい」は「瓦解」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1689,6 +1794,7 @@ var QUESTIONS = [
     "example": "戦後の窮乏生活に耐える。",
     "explanation": "「きゅうぼう」は「窮乏」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1705,6 +1811,7 @@ var QUESTIONS = [
     "example": "勤勉な性格で仕事に励む。",
     "explanation": "「きんべん」は「勤勉」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1721,6 +1828,7 @@ var QUESTIONS = [
     "example": "失敗を契機に方針を改める。",
     "explanation": "「けいき」は「契機」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1737,6 +1845,7 @@ var QUESTIONS = [
     "example": "孤高の画家として知られる。",
     "explanation": "「ここう」は「孤高」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1753,6 +1862,7 @@ var QUESTIONS = [
     "example": "傲慢な態度を改める。",
     "explanation": "「ごうまん」は「傲慢」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1769,6 +1879,7 @@ var QUESTIONS = [
     "example": "目の錯覚を利用した模様。",
     "explanation": "「さっかく」は「錯覚」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1785,6 +1896,7 @@ var QUESTIONS = [
     "example": "恣意的な運用を避ける。",
     "explanation": "「しい」は「恣意」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1801,6 +1913,7 @@ var QUESTIONS = [
     "example": "カーテンで光を遮蔽する。",
     "explanation": "「しゃへい」は「遮蔽」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1817,6 +1930,7 @@ var QUESTIONS = [
     "example": "ガスを充填する。",
     "explanation": "「じゅうてん」は「充填」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1833,6 +1947,7 @@ var QUESTIONS = [
     "example": "人前で醜態をさらす。",
     "explanation": "「しゅうたい」は「醜態」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1849,6 +1964,7 @@ var QUESTIONS = [
     "example": "実権を掌握する。",
     "explanation": "「しょうあく」は「掌握」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1865,6 +1981,7 @@ var QUESTIONS = [
     "example": "慎重に判断を下す。",
     "explanation": "「しんちょう」は「慎重」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1881,6 +1998,7 @@ var QUESTIONS = [
     "example": "甚大な被害を受ける。",
     "explanation": "「じんだい」は「甚大」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1902,6 +2020,7 @@ var QUESTIONS = [
       "私心がなく、誰から見ても公平で正しいこと。",
       "宇宙に存在するすべてのもの、あらゆる現象。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -1923,6 +2042,7 @@ var QUESTIONS = [
       "何度も失敗を重ねながら、適切な方法を見つけ出していくこと。",
       "大人物は若いうちは目立たなくても、時間をかけて大成すること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -1944,6 +2064,7 @@ var QUESTIONS = [
       "飾り気がなく真面目で、心身ともにたくましいこと。",
       "最初に心に決めた志を、最後まで貫き通すこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -1965,6 +2086,7 @@ var QUESTIONS = [
       "多くの花が咲き乱れるように、優れた人物や業績が一時に多く現れること。",
       "その場の状況の変化に応じて、適切な対応をすること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -1986,6 +2108,7 @@ var QUESTIONS = [
       "自分にしっかりした考えがなく、すぐ他人の意見に同調すること。",
       "文句や言い訳を言わず、黙ってやるべきことを実行すること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2007,6 +2130,7 @@ var QUESTIONS = [
       "邪念がなく、澄みきって落ち着いた心の状態。",
       "準備が行き届いていて、抜かりがないこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2028,6 +2152,7 @@ var QUESTIONS = [
       "宇宙に存在するすべてのもの、あらゆる現象。",
       "目的のために、あちこち忙しく走り回ること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2049,6 +2174,7 @@ var QUESTIONS = [
       "大人物は若いうちは目立たなくても、時間をかけて大成すること。",
       "自分に都合のよいように、物事を言ったり行ったりすること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2070,6 +2196,7 @@ var QUESTIONS = [
       "最初に心に決めた志を、最後まで貫き通すこと。",
       "互いの気持ちや考えがぴったり合うこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2091,6 +2218,7 @@ var QUESTIONS = [
       "その場の状況の変化に応じて、適切な対応をすること。",
       "一生に一度だけの出会いだと心得て、その機会を大切にすること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2112,6 +2240,7 @@ var QUESTIONS = [
       "文句や言い訳を言わず、黙ってやるべきことを実行すること。",
       "めったに巡り会えないほどの、またとない好機。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2133,6 +2262,7 @@ var QUESTIONS = [
       "準備が行き届いていて、抜かりがないこと。",
       "あまりにひどくて、言葉で言い表せないほどであること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2154,6 +2284,7 @@ var QUESTIONS = [
       "目的のために、あちこち忙しく走り回ること。",
       "一つの行為で、同時に二つの利益を得ること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2175,6 +2306,7 @@ var QUESTIONS = [
       "自分に都合のよいように、物事を言ったり行ったりすること。",
       "これまで一度も聞いたことがないほど、珍しい出来事であること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2196,6 +2328,7 @@ var QUESTIONS = [
       "互いの気持ちや考えがぴったり合うこと。",
       "危機的な状態を一気に立て直し、勢いを取り戻すこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2217,6 +2350,7 @@ var QUESTIONS = [
       "一生に一度だけの出会いだと心得て、その機会を大切にすること。",
       "手掛かりがないまま、さまざまな方法を試して探し求めること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2238,6 +2372,7 @@ var QUESTIONS = [
       "めったに巡り会えないほどの、またとない好機。",
       "ごく短い期間。わずかな時間。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2259,6 +2394,7 @@ var QUESTIONS = [
       "あまりにひどくて、言葉で言い表せないほどであること。",
       "何が起きても落ち着いていて、少しも動じないさま。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2280,6 +2416,7 @@ var QUESTIONS = [
       "一つの行為で、同時に二つの利益を得ること。",
       "社会の一般的な秩序と、健全な道徳観念。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2301,6 +2438,7 @@ var QUESTIONS = [
       "これまで一度も聞いたことがないほど、珍しい出来事であること。",
       "自分で自分の行いや作品を褒めること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2322,6 +2460,7 @@ var QUESTIONS = [
       "危機的な状態を一気に立て直し、勢いを取り戻すこと。",
       "細かな違いはあっても、全体としてはほとんど同じであること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2343,6 +2482,7 @@ var QUESTIONS = [
       "手掛かりがないまま、さまざまな方法を試して探し求めること。",
       "前置きをせず、すぐに本題へ入ること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2364,6 +2504,7 @@ var QUESTIONS = [
       "ごく短い期間。わずかな時間。",
       "半分は信じ、半分は疑っている状態。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2385,6 +2526,7 @@ var QUESTIONS = [
       "何が起きても落ち着いていて、少しも動じないさま。",
       "少し触れただけで爆発しそうな、非常に緊迫した状態。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2406,6 +2548,7 @@ var QUESTIONS = [
       "社会の一般的な秩序と、健全な道徳観念。",
       "言葉にしなくても、互いの気持ちが通じ合うこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2422,6 +2565,7 @@ var QUESTIONS = [
     "example": "提案は承諾か拒絶かの二択を迫られた。",
     "explanation": "「承諾」⇔「拒絶」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2438,6 +2582,7 @@ var QUESTIONS = [
     "example": "式典は簡素にも華美にもなり得る。",
     "explanation": "「簡素」⇔「華美」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2454,6 +2599,7 @@ var QUESTIONS = [
     "example": "技術は進歩する一方、体力は退歩していく。",
     "explanation": "「進歩」⇔「退歩」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2470,6 +2616,7 @@ var QUESTIONS = [
     "example": "需要と供給の均衡が価格を決める。",
     "explanation": "「需要」⇔「供給」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2486,6 +2633,7 @@ var QUESTIONS = [
     "example": "結果を楽観視せず、悲観もしすぎない。",
     "explanation": "「楽観」⇔「悲観」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2502,6 +2650,7 @@ var QUESTIONS = [
     "example": "具体と抽象を行き来して考える。",
     "explanation": "「具体」⇔「抽象」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2518,6 +2667,7 @@ var QUESTIONS = [
     "example": "合法か違法かの線引きは難しい。",
     "explanation": "「合法」⇔「違法」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2534,6 +2684,7 @@ var QUESTIONS = [
     "example": "謙虚な人もいれば傲慢な人もいる。",
     "explanation": "「謙虚」⇔「傲慢」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2550,6 +2701,7 @@ var QUESTIONS = [
     "example": "緊張と弛緩を繰り返す。",
     "explanation": "「緊張」⇔「弛緩」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2566,6 +2718,7 @@ var QUESTIONS = [
     "example": "意見を肯定するか否定するか。",
     "explanation": "「肯定」⇔「否定」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2582,6 +2735,7 @@ var QUESTIONS = [
     "example": "保守と革新の対立が続く。",
     "explanation": "「保守」⇔「革新」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2598,6 +2752,7 @@ var QUESTIONS = [
     "example": "理想と現実の差に悩む。",
     "explanation": "「理想」⇔「現実」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2614,6 +2769,10 @@ var QUESTIONS = [
     "example": "巧妙な手口と拙劣な模倣は対照的だ。",
     "explanation": "「巧妙」⇔「拙劣」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": [
+      "拙劣",
+      "稚拙"
+    ],
     "source": "original",
     "tags": [
       "対義語"
@@ -2630,6 +2789,10 @@ var QUESTIONS = [
     "example": "疑いが濃厚になる一方、証拠は希薄だ。",
     "explanation": "「濃厚」⇔「希薄」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": [
+      "希薄",
+      "淡泊"
+    ],
     "source": "original",
     "tags": [
       "対義語"
@@ -2646,6 +2809,7 @@ var QUESTIONS = [
     "example": "攻撃と防御のバランスを取る。",
     "explanation": "「攻撃」⇔「防御」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2662,6 +2826,7 @@ var QUESTIONS = [
     "example": "技術の進歩・発展はめざましい。",
     "explanation": "「進歩」≒「発展」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2678,6 +2843,7 @@ var QUESTIONS = [
     "example": "条件を了承・承知した。",
     "explanation": "「了承」≒「承知」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2694,6 +2860,7 @@ var QUESTIONS = [
     "example": "熟考・熟慮の末に決断した。",
     "explanation": "「熟考」≒「熟慮」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2710,6 +2877,7 @@ var QUESTIONS = [
     "example": "突然・不意の出来事に驚く。",
     "explanation": "「突然」≒「不意」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2726,6 +2894,7 @@ var QUESTIONS = [
     "example": "目的を達成する手段・方法を考える。",
     "explanation": "「手段」≒「方法」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2742,6 +2911,7 @@ var QUESTIONS = [
     "example": "結果に落胆・失望する。",
     "explanation": "「落胆」≒「失望」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2758,6 +2928,7 @@ var QUESTIONS = [
     "example": "覚悟・決意を新たにする。",
     "explanation": "「覚悟」≒「決意」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2774,6 +2945,7 @@ var QUESTIONS = [
     "example": "冷静・沈着に対応する。",
     "explanation": "「冷静」≒「沈着」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2790,6 +2962,7 @@ var QUESTIONS = [
     "example": "生活費を倹約・節約する。",
     "explanation": "「倹約」≒「節約」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2806,6 +2979,7 @@ var QUESTIONS = [
     "example": "将来を懸念・憂慮する。",
     "explanation": "「懸念」≒「憂慮」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2827,6 +3001,7 @@ var QUESTIONS = [
       "くさかんむり",
       "てへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -2848,6 +3023,7 @@ var QUESTIONS = [
       "てへん",
       "ぎょうにんべん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -2869,6 +3045,7 @@ var QUESTIONS = [
       "てへん",
       "おおざと"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -2890,6 +3067,7 @@ var QUESTIONS = [
       "ふしづくり",
       "りっとう"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -2911,6 +3089,7 @@ var QUESTIONS = [
       "ふねへん",
       "にんべん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -2932,6 +3111,7 @@ var QUESTIONS = [
       "てへん",
       "くちへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -2953,6 +3133,7 @@ var QUESTIONS = [
       "きへん",
       "にちへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -2974,6 +3155,7 @@ var QUESTIONS = [
       "あなかんむり",
       "うかんむり"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -2995,6 +3177,7 @@ var QUESTIONS = [
       "ひへん",
       "こざとへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3016,6 +3199,7 @@ var QUESTIONS = [
       "めへん",
       "げつへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3037,6 +3221,7 @@ var QUESTIONS = [
       "てへん",
       "かたへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3058,6 +3243,7 @@ var QUESTIONS = [
       "こざとへん",
       "いとへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3079,6 +3265,7 @@ var QUESTIONS = [
       "こめへん",
       "いとへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3100,6 +3287,7 @@ var QUESTIONS = [
       "こめへん",
       "とめへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3121,6 +3309,7 @@ var QUESTIONS = [
       "にんべん",
       "さんずい"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3142,6 +3331,7 @@ var QUESTIONS = [
       "つちへん",
       "ひへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3163,6 +3353,7 @@ var QUESTIONS = [
       "つちへん",
       "てへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3184,6 +3375,7 @@ var QUESTIONS = [
       "がんだれ",
       "つちへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3205,6 +3397,7 @@ var QUESTIONS = [
       "ふしづくり",
       "おおがい"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3226,6 +3419,7 @@ var QUESTIONS = [
       "ころもへん",
       "かたへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3247,6 +3441,7 @@ var QUESTIONS = [
       "主語・述語の関係にある",
       "上の字が下の字を修飾する"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3268,6 +3463,7 @@ var QUESTIONS = [
       "上の字が下の字を修飾する",
       "下の字が上の字の目的語・補語になる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3289,6 +3485,7 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる",
       "同じような意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3310,6 +3507,7 @@ var QUESTIONS = [
       "同じような意味の字を重ねる",
       "主語・述語の関係にある"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3331,6 +3529,7 @@ var QUESTIONS = [
       "主語・述語の関係にある",
       "上の字が下の字を修飾する"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3352,6 +3551,7 @@ var QUESTIONS = [
       "上の字が下の字を修飾する",
       "下の字が上の字の目的語・補語になる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3373,6 +3573,7 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる",
       "反対または対応する意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3394,6 +3595,7 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる",
       "主語・述語の関係にある"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3415,6 +3617,7 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる",
       "上の字が下の字を修飾する"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3436,6 +3639,7 @@ var QUESTIONS = [
       "上の字が下の字を修飾する",
       "下の字が上の字の目的語・補語になる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3457,6 +3661,7 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる",
       "同じような意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3478,6 +3683,7 @@ var QUESTIONS = [
       "同じような意味の字を重ねる",
       "反対または対応する意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3499,6 +3705,7 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる",
       "主語・述語の関係にある"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3520,6 +3727,7 @@ var QUESTIONS = [
       "主語・述語の関係にある",
       "下の字が上の字の目的語・補語になる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3541,6 +3749,7 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる",
       "同じような意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3562,6 +3771,7 @@ var QUESTIONS = [
       "同じような意味の字を重ねる",
       "反対または対応する意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3583,6 +3793,7 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる",
       "主語・述語の関係にある"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3604,6 +3815,7 @@ var QUESTIONS = [
       "主語・述語の関係にある",
       "上の字が下の字を修飾する"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3625,6 +3837,7 @@ var QUESTIONS = [
       "上の字が下の字を修飾する",
       "同じような意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3646,6 +3859,7 @@ var QUESTIONS = [
       "同じような意味の字を重ねる",
       "反対または対応する意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3662,6 +3876,16 @@ var QUESTIONS = [
     "example": "読者という対象を明確にしたうえで、文章の要旨を的確に伝えた。",
     "explanation": "「たいしょう」と読む同音異義語。「対称」はつり合っていること、「対象」は行為や意識が向けられる相手・目的物を表す。ここでは読者という目的物を指すので「対象」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 対称 → 正 対象",
+      "対称 → 対象",
+      "対称→対象",
+      "対称 -> 対象",
+      "対称->対象",
+      "対称を対象に直す",
+      "対称を対象に訂正",
+      "対象"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3678,6 +3902,16 @@ var QUESTIONS = [
     "example": "会社の経営方針について異議を述べた。",
     "explanation": "「いぎ」と読む同音異義語。「意義」は意味・価値を表し、「異議」は反対の意見を表す。ここでは反対意見を述べているので「異議」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 意義 → 正 異議",
+      "意義 → 異議",
+      "意義→異議",
+      "意義 -> 異議",
+      "意義->異議",
+      "意義を異議に直す",
+      "意義を異議に訂正",
+      "異議"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3694,6 +3928,16 @@ var QUESTIONS = [
     "example": "新しい後輩の熱心な仕事ぶりに感心した。",
     "explanation": "「かんしん」と読む同音異義語。「関心」は興味を持つこと、「感心」は立派だと感じ入ることを表す。ここでは立派さに感じ入っているので「感心」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 関心 → 正 感心",
+      "関心 → 感心",
+      "関心→感心",
+      "関心 -> 感心",
+      "関心->感心",
+      "関心を感心に直す",
+      "関心を感心に訂正",
+      "感心"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3710,6 +3954,16 @@ var QUESTIONS = [
     "example": "憲法は国民の自由と権利を保障している。",
     "explanation": "「ほしょう」と読む同音異義語。「保証」は間違いないと請け合うこと、「保障」は地位や安全を守ることを表す。ここでは自由や権利を守る意味なので「保障」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 保証 → 正 保障",
+      "保証 → 保障",
+      "保証→保障",
+      "保証 -> 保障",
+      "保証->保障",
+      "保証を保障に直す",
+      "保証を保障に訂正",
+      "保障"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3726,6 +3980,16 @@ var QUESTIONS = [
     "example": "休日は図書館の閲覧室を一般に開放している。",
     "explanation": "「かいほう」と読む同音異義語。「解放」は束縛を解き放つこと、「開放」は出入り自由にすることを表す。ここでは施設を自由に使えるようにする意味なので「開放」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 解放 → 正 開放",
+      "解放 → 開放",
+      "解放→開放",
+      "解放 -> 開放",
+      "解放->開放",
+      "解放を開放に直す",
+      "解放を開放に訂正",
+      "開放"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3742,6 +4006,16 @@ var QUESTIONS = [
     "example": "出張にかかった費用を精算し、領収書を提出した。",
     "explanation": "「せいさん」と読む同音異義語。「清算」は物事や関係を整理してけりをつけること、「精算」は金額を細かく計算して過不足を調整することを表す。ここでは費用の計算なので「精算」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 清算 → 正 精算",
+      "清算 → 精算",
+      "清算→精算",
+      "清算 -> 精算",
+      "清算->精算",
+      "清算を精算に直す",
+      "清算を精算に訂正",
+      "精算"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3758,6 +4032,16 @@ var QUESTIONS = [
     "example": "混乱した現場をなんとか収拾した。",
     "explanation": "「しゅうしゅう」と読む同音異義語。「収集」は物を集めること、「収拾」は混乱をおさめてまとめることを表す。ここでは混乱をおさめる意味なので「収拾」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 収集 → 正 収拾",
+      "収集 → 収拾",
+      "収集→収拾",
+      "収集 -> 収拾",
+      "収集->収拾",
+      "収集を収拾に直す",
+      "収集を収拾に訂正",
+      "収拾"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3774,6 +4058,16 @@ var QUESTIONS = [
     "example": "事故の原因を専門家が追究した。",
     "explanation": "「ついきゅう」と読む同音異義語。「追求」は利益や目的を追い求めること、「追究」は物事の真相を深く究めることを表す。ここでは原因の解明なので「追究」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 追求 → 正 追究",
+      "追求 → 追究",
+      "追求→追究",
+      "追求 -> 追究",
+      "追求->追究",
+      "追求を追究に直す",
+      "追求を追究に訂正",
+      "追究"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3790,6 +4084,16 @@ var QUESTIONS = [
     "example": "彼の発言は意外にも的を射ていた。",
     "explanation": "「いがい」と読む同音異義語。「以外」はそれを除いた他のもの、「意外」は予想と違うことを表す。ここでは予想と違う意味なので「意外」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 以外 → 正 意外",
+      "以外 → 意外",
+      "以外→意外",
+      "以外 -> 意外",
+      "以外->意外",
+      "以外を意外に直す",
+      "以外を意外に訂正",
+      "意外"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3806,6 +4110,16 @@ var QUESTIONS = [
     "example": "最近の売れ行きの不振について会議で話し合った。",
     "explanation": "「ふしん」と読む同音異義語。「不審」は疑わしく思うこと、「不振」は勢いが振るわないことを表す。ここでは売れ行きが良くない意味なので「不振」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 不審 → 正 不振",
+      "不審 → 不振",
+      "不審→不振",
+      "不審 -> 不振",
+      "不審->不振",
+      "不審を不振に直す",
+      "不審を不振に訂正",
+      "不振"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3822,6 +4136,16 @@ var QUESTIONS = [
     "example": "滞納していた税金を分割で納付し、更生を図った。",
     "explanation": "「こうせい」と読む同音異義語。「更正」は誤りを正しく改めること、「更生」は生活や状態を良い方向に立て直すことを表す。ここでは生活の立て直しなので「更生」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 更正 → 正 更生",
+      "更正 → 更生",
+      "更正→更生",
+      "更正 -> 更生",
+      "更正->更生",
+      "更正を更生に直す",
+      "更正を更生に訂正",
+      "更生"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3838,6 +4162,16 @@ var QUESTIONS = [
     "example": "この価格には既製の部品が使われている。",
     "explanation": "「きせい」と読む同音異義語。「既成」はすでに出来上がっていること全般、「既製」はあらかじめ作られた品物を表す。ここでは出来合いの部品を指すので「既製」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 既成 → 正 既製",
+      "既成 → 既製",
+      "既成→既製",
+      "既成 -> 既製",
+      "既成->既製",
+      "既成を既製に直す",
+      "既成を既製に訂正",
+      "既製"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3854,6 +4188,16 @@ var QUESTIONS = [
     "example": "台風接近に備え、自治体は警戒態勢を敷いた。",
     "explanation": "「たいせい」と読む同音異義語。「体制」は組織のしくみ、「態勢」はその場に応じた身構えを表す。ここでは一時的な備えなので「態勢」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 体制 → 正 態勢",
+      "体制 → 態勢",
+      "体制→態勢",
+      "体制 -> 態勢",
+      "体制->態勢",
+      "体制を態勢に直す",
+      "体制を態勢に訂正",
+      "態勢"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3870,6 +4214,16 @@ var QUESTIONS = [
     "example": "彼は今年の春、地方の支店へ異動になった。",
     "explanation": "「いどう」と読む同音異義語。「移動」は場所を移ること全般、「異動」は職場や地位の変更を表す。ここでは人事の変更なので「異動」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 移動 → 正 異動",
+      "移動 → 異動",
+      "移動→異動",
+      "移動 -> 異動",
+      "移動->異動",
+      "移動を異動に直す",
+      "移動を異動に訂正",
+      "異動"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3886,6 +4240,16 @@ var QUESTIONS = [
     "example": "地元の商店街が主催する後援を受けて祭りを開いた。",
     "explanation": "「こうえん」と読む同音異義語。「公演」は演劇や音楽を公開して行うこと、「後援」は資金や協力で支えることを表す。ここでは支援を受けている意味なので「後援」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 公演 → 正 後援",
+      "公演 → 後援",
+      "公演→後援",
+      "公演 -> 後援",
+      "公演->後援",
+      "公演を後援に直す",
+      "公演を後援に訂正",
+      "後援"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3902,6 +4266,7 @@ var QUESTIONS = [
     "example": "制度を漸次改めていく。",
     "explanation": "「漸次」は「ぜんじ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -3918,6 +4283,7 @@ var QUESTIONS = [
     "example": "制度を漸次改めていく。",
     "explanation": "「ぜんじ」は「漸次」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -3934,6 +4300,7 @@ var QUESTIONS = [
     "example": "筆者の個性が文章に躍如として表れている。",
     "explanation": "「躍如」は「やくじょ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -3950,6 +4317,7 @@ var QUESTIONS = [
     "example": "筆者の個性が文章に躍如として表れている。",
     "explanation": "「やくじょ」は「躍如」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -3966,6 +4334,7 @@ var QUESTIONS = [
     "example": "古い印象を払拭する。",
     "explanation": "「払拭」は「ふっしょく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -3982,6 +4351,7 @@ var QUESTIONS = [
     "example": "古い印象を払拭する。",
     "explanation": "「ふっしょく」は「払拭」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -3998,6 +4368,7 @@ var QUESTIONS = [
     "example": "凡庸な案にとどまらず工夫を重ねる。",
     "explanation": "「凡庸」は「ぼんよう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4014,6 +4385,7 @@ var QUESTIONS = [
     "example": "凡庸な案にとどまらず工夫を重ねる。",
     "explanation": "「ぼんよう」は「凡庸」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4030,6 +4402,7 @@ var QUESTIONS = [
     "example": "緻密な計画を立てる。",
     "explanation": "「緻密」は「ちみつ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4046,6 +4419,7 @@ var QUESTIONS = [
     "example": "緻密な計画を立てる。",
     "explanation": "「ちみつ」は「緻密」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4062,6 +4436,7 @@ var QUESTIONS = [
     "example": "返事をするのを逡巡する。",
     "explanation": "「逡巡」は「しゅんじゅん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4078,6 +4453,7 @@ var QUESTIONS = [
     "example": "返事をするのを逡巡する。",
     "explanation": "「しゅんじゅん」は「逡巡」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4094,6 +4470,7 @@ var QUESTIONS = [
     "example": "毎日欠かさず手伝うとは殊勝な心掛けだ。",
     "explanation": "「殊勝」は「しゅしょう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4110,6 +4487,7 @@ var QUESTIONS = [
     "example": "毎日欠かさず手伝うとは殊勝な心掛けだ。",
     "explanation": "「しゅしょう」は「殊勝」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4126,6 +4504,7 @@ var QUESTIONS = [
     "example": "煩雑な手続きを簡素化する。",
     "explanation": "「煩雑」は「はんざつ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4142,6 +4521,7 @@ var QUESTIONS = [
     "example": "煩雑な手続きを簡素化する。",
     "explanation": "「はんざつ」は「煩雑」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4158,6 +4538,7 @@ var QUESTIONS = [
     "example": "責任を感じて自宅で謹慎する。",
     "explanation": "「謹慎」は「きんしん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4174,6 +4555,7 @@ var QUESTIONS = [
     "example": "責任を感じて自宅で謹慎する。",
     "explanation": "「きんしん」は「謹慎」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4190,6 +4572,7 @@ var QUESTIONS = [
     "example": "各地を漂泊する旅を続けた。",
     "explanation": "「漂泊」は「ひょうはく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4206,6 +4589,7 @@ var QUESTIONS = [
     "example": "各地を漂泊する旅を続けた。",
     "explanation": "「ひょうはく」は「漂泊」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4227,6 +4611,7 @@ var QUESTIONS = [
       "自分で自分の行いや作品を褒めること。",
       "過去の行いに応じた報いが現れること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -4248,6 +4633,7 @@ var QUESTIONS = [
       "細かな違いはあっても、全体としてはほとんど同じであること。",
       "長い経験を積み、世の中の裏表を知り尽くしていること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -4269,6 +4655,7 @@ var QUESTIONS = [
       "前置きをせず、すぐに本題へ入ること。",
       "心意気や構想が非常に大きく立派なこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -4290,6 +4677,7 @@ var QUESTIONS = [
       "半分は信じ、半分は疑っている状態。",
       "優れたものと劣ったものが入り交じっていること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -4311,6 +4699,7 @@ var QUESTIONS = [
       "少し触れただけで爆発しそうな、非常に緊迫した状態。",
       "先入観を持たず、素直で落ち着いた心で物事に臨むこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -4332,6 +4721,7 @@ var QUESTIONS = [
       "言葉にしなくても、互いの気持ちが通じ合うこと。",
       "仲の悪い者同士が、共通の困難に対して協力すること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -4348,6 +4738,7 @@ var QUESTIONS = [
     "example": "産業の隆盛と衰退には多くの要因がある。",
     "explanation": "「隆盛」⇔「衰退」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -4364,6 +4755,7 @@ var QUESTIONS = [
     "example": "栄誉と恥辱は対照的な意味を持つ。",
     "explanation": "「栄誉」⇔「恥辱」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -4380,6 +4772,7 @@ var QUESTIONS = [
     "example": "原因と結果の関係を明らかにする。",
     "explanation": "「原因」⇔「結果」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -4396,6 +4789,7 @@ var QUESTIONS = [
     "example": "勤勉な態度と怠惰な態度は対照的だ。",
     "explanation": "「勤勉」⇔「怠惰」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -4412,6 +4806,7 @@ var QUESTIONS = [
     "example": "被災地への援助・支援を続ける。",
     "explanation": "「援助」≒「支援」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -4428,6 +4823,7 @@ var QUESTIONS = [
     "example": "新事業を企図・計画する。",
     "explanation": "「企図」≒「計画」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -4444,6 +4840,7 @@ var QUESTIONS = [
     "example": "後輩の模範・手本となる。",
     "explanation": "「模範」≒「手本」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -4460,6 +4857,7 @@ var QUESTIONS = [
     "example": "制度の変遷・推移を調べる。",
     "explanation": "「変遷」≒「推移」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -4481,6 +4879,7 @@ var QUESTIONS = [
       "りっしんべん",
       "しめすへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -4502,6 +4901,7 @@ var QUESTIONS = [
       "てへん",
       "さんずい"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -4523,6 +4923,7 @@ var QUESTIONS = [
       "いとへん",
       "のぎへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -4544,6 +4945,7 @@ var QUESTIONS = [
       "にんべん",
       "ごんべん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -4565,6 +4967,7 @@ var QUESTIONS = [
       "主語・述語の関係にある",
       "上の字が下の字を修飾する"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -4586,6 +4989,7 @@ var QUESTIONS = [
       "上の字が下の字を修飾する",
       "下の字が上の字の目的語・補語になる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -4607,6 +5011,7 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる",
       "同じような意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -4628,6 +5033,7 @@ var QUESTIONS = [
       "同じような意味の字を重ねる",
       "反対または対応する意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -4649,6 +5055,7 @@ var QUESTIONS = [
       "主語・述語の関係にある",
       "上の字が下の字を修飾する"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -4670,6 +5077,7 @@ var QUESTIONS = [
       "上の字が下の字を修飾する",
       "下の字が上の字の目的語・補語になる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -4691,6 +5099,7 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる",
       "同じような意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -4712,6 +5121,7 @@ var QUESTIONS = [
       "同じような意味の字を重ねる",
       "反対または対応する意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -4728,6 +5138,16 @@ var QUESTIONS = [
     "example": "新しい規則を来月から適用する。",
     "explanation": "「てきよう」と読む同音異義語。「摘要」は要点を抜き出して記すこと、「適用」は規則などを当てはめて用いることを表す。ここでは規則を用いる意味なので「適用」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 摘要 → 正 適用",
+      "摘要 → 適用",
+      "摘要→適用",
+      "摘要 -> 適用",
+      "摘要->適用",
+      "摘要を適用に直す",
+      "摘要を適用に訂正",
+      "適用"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -4744,6 +5164,16 @@ var QUESTIONS = [
     "example": "説明が不足していたので、資料を補足した。",
     "explanation": "「ほそく」と読む同音異義語。「捕捉」は捕らえること、「補足」は足りない部分を補うことを表す。ここでは説明を補う意味なので「補足」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 捕捉 → 正 補足",
+      "捕捉 → 補足",
+      "捕捉→補足",
+      "捕捉 -> 補足",
+      "捕捉->補足",
+      "捕捉を補足に直す",
+      "捕捉を補足に訂正",
+      "補足"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -4760,6 +5190,16 @@ var QUESTIONS = [
     "example": "放送局が新しい番組を制作した。",
     "explanation": "「せいさく」と読む同音異義語。「製作」は道具や機械など具体的な物を作ること、「制作」は映像や芸術作品などを作ることを表す。ここでは番組を作る意味なので「制作」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 製作 → 正 制作",
+      "製作 → 制作",
+      "製作→制作",
+      "製作 -> 制作",
+      "製作->制作",
+      "製作を制作に直す",
+      "製作を制作に訂正",
+      "制作"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -4776,6 +5216,16 @@ var QUESTIONS = [
     "example": "議長が出席者に議案の採決を求めた。",
     "explanation": "「さいけつ」と読む同音異義語。「裁決」は行政機関などが判断を下すこと、「採決」は会議で賛否を決めることを表す。ここでは議案の賛否を決めるので「採決」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 裁決 → 正 採決",
+      "裁決 → 採決",
+      "裁決→採決",
+      "裁決 -> 採決",
+      "裁決->採決",
+      "裁決を採決に直す",
+      "裁決を採決に訂正",
+      "採決"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -4792,6 +5242,7 @@ var QUESTIONS = [
     "example": "結果を逐次報告する。",
     "explanation": "「逐次」は「ちくじ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4808,6 +5259,7 @@ var QUESTIONS = [
     "example": "結果を逐次報告する。",
     "explanation": "「ちくじ」は「逐次」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4824,6 +5276,7 @@ var QUESTIONS = [
     "example": "規定に基づいて役員を罷免する。",
     "explanation": "「罷免」は「ひめん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4840,6 +5293,7 @@ var QUESTIONS = [
     "example": "規定に基づいて役員を罷免する。",
     "explanation": "「ひめん」は「罷免」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4856,6 +5310,7 @@ var QUESTIONS = [
     "example": "改革を漸進的に進める。",
     "explanation": "「漸進」は「ぜんしん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4872,6 +5327,7 @@ var QUESTIONS = [
     "example": "改革を漸進的に進める。",
     "explanation": "「ぜんしん」は「漸進」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4888,6 +5344,7 @@ var QUESTIONS = [
     "example": "新制度を過去に遡及して適用しない。",
     "explanation": "「遡及」は「そきゅう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4904,6 +5361,7 @@ var QUESTIONS = [
     "example": "新制度を過去に遡及して適用しない。",
     "explanation": "「そきゅう」は「遡及」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4920,6 +5378,7 @@ var QUESTIONS = [
     "example": "新しい統治者に恭順の意を示す。",
     "explanation": "「恭順」は「きょうじゅん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4936,6 +5395,7 @@ var QUESTIONS = [
     "example": "新しい統治者に恭順の意を示す。",
     "explanation": "「きょうじゅん」は「恭順」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4952,6 +5412,7 @@ var QUESTIONS = [
     "example": "長い山道を踏破した。",
     "explanation": "「踏破」は「とうは」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4968,6 +5429,7 @@ var QUESTIONS = [
     "example": "長い山道を踏破した。",
     "explanation": "「とうは」は「踏破」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4984,6 +5446,7 @@ var QUESTIONS = [
     "example": "利用者数が年々逓減する。",
     "explanation": "「逓減」は「ていげん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5000,6 +5463,7 @@ var QUESTIONS = [
     "example": "利用者数が年々逓減する。",
     "explanation": "「ていげん」は「逓減」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5016,6 +5480,7 @@ var QUESTIONS = [
     "example": "陳腐な表現を避ける。",
     "explanation": "「陳腐」は「ちんぷ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5032,6 +5497,7 @@ var QUESTIONS = [
     "example": "陳腐な表現を避ける。",
     "explanation": "「ちんぷ」は「陳腐」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5048,6 +5514,7 @@ var QUESTIONS = [
     "example": "鋭い洞察を示す。",
     "explanation": "「洞察」は「どうさつ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5064,6 +5531,7 @@ var QUESTIONS = [
     "example": "鋭い洞察を示す。",
     "explanation": "「どうさつ」は「洞察」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5080,6 +5548,7 @@ var QUESTIONS = [
     "example": "自由奔放な作風で知られる。",
     "explanation": "「奔放」は「ほんぽう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5096,6 +5565,7 @@ var QUESTIONS = [
     "example": "自由奔放な作風で知られる。",
     "explanation": "「ほんぽう」は「奔放」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5112,6 +5582,7 @@ var QUESTIONS = [
     "example": "姿勢を矯正する。",
     "explanation": "「矯正」は「きょうせい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5128,6 +5599,7 @@ var QUESTIONS = [
     "example": "姿勢を矯正する。",
     "explanation": "「きょうせい」は「矯正」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5144,6 +5616,7 @@ var QUESTIONS = [
     "example": "公職者を弾劾する決議を行う。",
     "explanation": "「弾劾」は「だんがい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5160,6 +5633,7 @@ var QUESTIONS = [
     "example": "公職者を弾劾する決議を行う。",
     "explanation": "「だんがい」は「弾劾」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5176,6 +5650,7 @@ var QUESTIONS = [
     "example": "堅牢な建物を造る。",
     "explanation": "「堅牢」は「けんろう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5192,6 +5667,7 @@ var QUESTIONS = [
     "example": "堅牢な建物を造る。",
     "explanation": "「けんろう」は「堅牢」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5208,6 +5684,7 @@ var QUESTIONS = [
     "example": "二つの図案は酷似している。",
     "explanation": "「酷似」は「こくじ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5224,6 +5701,7 @@ var QUESTIONS = [
     "example": "二つの図案は酷似している。",
     "explanation": "「こくじ」は「酷似」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5240,6 +5718,7 @@ var QUESTIONS = [
     "example": "審議会に対応策を諮問する。",
     "explanation": "「諮問」は「しもん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5256,6 +5735,7 @@ var QUESTIONS = [
     "example": "審議会に対応策を諮問する。",
     "explanation": "「しもん」は「諮問」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5277,6 +5757,7 @@ var QUESTIONS = [
       "過去の行いに応じた報いが現れること。",
       "厚かましく、恥を恥とも思わないこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -5298,6 +5779,7 @@ var QUESTIONS = [
       "長い経験を積み、世の中の裏表を知り尽くしていること。",
       "小さなことを大げさに言うこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -5319,6 +5801,7 @@ var QUESTIONS = [
       "心意気や構想が非常に大きく立派なこと。",
       "結果がどうなっても、仲間と行動や運命を共にすること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -5340,6 +5823,7 @@ var QUESTIONS = [
       "優れたものと劣ったものが入り交じっていること。",
       "あとわずかで危険な事態になる、きわどい状態。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -5361,6 +5845,7 @@ var QUESTIONS = [
       "先入観を持たず、素直で落ち着いた心で物事に臨むこと。",
       "初めから終わりまで、方針や態度が変わらないこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -5377,6 +5862,7 @@ var QUESTIONS = [
     "example": "暫定案を検討して最終案を確定する。",
     "explanation": "「暫定」⇔「確定」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -5393,6 +5879,7 @@ var QUESTIONS = [
     "example": "散漫になった意識を作業に集中させる。",
     "explanation": "「散漫」⇔「集中」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -5409,6 +5896,7 @@ var QUESTIONS = [
     "example": "時間の浪費を避けて労力を節約する。",
     "explanation": "「浪費」⇔「節約」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -5425,6 +5913,7 @@ var QUESTIONS = [
     "example": "複雑な仕組みを単純にする。",
     "explanation": "「複雑」⇔「単純」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -5441,6 +5930,7 @@ var QUESTIONS = [
     "example": "負傷者を介抱・看護する。",
     "explanation": "「介抱」≒「看護」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -5457,6 +5947,7 @@ var QUESTIONS = [
     "example": "改善の効果は顕著・明白だった。",
     "explanation": "「顕著」≒「明白」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -5473,6 +5964,7 @@ var QUESTIONS = [
     "example": "複数の要素を包括・包含する概念だ。",
     "explanation": "「包括」≒「包含」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -5489,6 +5981,7 @@ var QUESTIONS = [
     "example": "責任者を補佐し、計画の実行に助力する。",
     "explanation": "「補佐」≒「助力」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -5510,6 +6003,7 @@ var QUESTIONS = [
       "さんずい",
       "にんべん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -5531,6 +6025,7 @@ var QUESTIONS = [
       "ほこづくり",
       "おおがい"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -5552,6 +6047,7 @@ var QUESTIONS = [
       "こざとへん",
       "さんずい"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -5573,6 +6069,7 @@ var QUESTIONS = [
       "のぎへん",
       "きへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -5594,6 +6091,7 @@ var QUESTIONS = [
       "のぎへん",
       "むにょう"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -5615,6 +6113,7 @@ var QUESTIONS = [
       "主語・述語の関係にある",
       "上の字が下の字を修飾する"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -5636,6 +6135,7 @@ var QUESTIONS = [
       "上の字が下の字を修飾する",
       "下の字が上の字の目的語・補語になる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -5657,6 +6157,7 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる",
       "同じような意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -5678,6 +6179,7 @@ var QUESTIONS = [
       "同じような意味の字を重ねる",
       "反対または対応する意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -5699,6 +6201,7 @@ var QUESTIONS = [
       "主語・述語の関係にある",
       "上の字が下の字を修飾する"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -5715,6 +6218,16 @@ var QUESTIONS = [
     "example": "期限までに税金を納めた。",
     "explanation": "「おさめる」の使い分け。「収める」は中に入れる・成果を得ること、「納める」は金品を差し出すことを表す。ここでは税金を支払うので「納め」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 収め → 正 納め",
+      "収め → 納め",
+      "収め→納め",
+      "収め -> 納め",
+      "収め->納め",
+      "収めを納めに直す",
+      "収めを納めに訂正",
+      "納め"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -5731,6 +6244,16 @@ var QUESTIONS = [
     "example": "講師の講演を聞いて理解を深めた。",
     "explanation": "「こうえん」と読む同音異義語。「公演」は演劇や音楽を公開すること、「講演」は人前で話をすることを表す。ここでは講師の話なので「講演」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 公演 → 正 講演",
+      "公演 → 講演",
+      "公演→講演",
+      "公演 -> 講演",
+      "公演->講演",
+      "公演を講演に直す",
+      "公演を講演に訂正",
+      "講演"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -5747,6 +6270,16 @@ var QUESTIONS = [
     "example": "データから地域ごとの特徴を捉えた。",
     "explanation": "「とらえる」の使い分け。「捕らえる」は人や動物をつかまえること、「捉える」は意味や特徴を把握することを表す。ここでは特徴の把握なので「捉え」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 捕らえ → 正 捉え",
+      "捕らえ → 捉え",
+      "捕らえ→捉え",
+      "捕らえ -> 捉え",
+      "捕らえ->捉え",
+      "捕らえを捉えに直す",
+      "捕らえを捉えに訂正",
+      "捉え"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -5763,6 +6296,16 @@ var QUESTIONS = [
     "example": "事故を起こした担当者の責任を追及した。",
     "explanation": "「ついきゅう」と読む同音異義語。「追求」は目的を追い求めること、「追及」は責任や原因を問い詰めることを表す。ここでは責任を問うので「追及」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 追求 → 正 追及",
+      "追求 → 追及",
+      "追求→追及",
+      "追求 -> 追及",
+      "追求->追及",
+      "追求を追及に直す",
+      "追求を追及に訂正",
+      "追及"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -5779,6 +6322,16 @@ var QUESTIONS = [
     "example": "工場で新しい機械を製作した。",
     "explanation": "「せいさく」と読む同音異義語。「制作」は芸術作品や映像などを作ること、「製作」は機械や道具など具体的な物を作ることを表す。ここでは機械を作るので「製作」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 制作 → 正 製作",
+      "制作 → 製作",
+      "制作→製作",
+      "制作 -> 製作",
+      "制作->製作",
+      "制作を製作に直す",
+      "制作を製作に訂正",
+      "製作"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -5795,6 +6348,7 @@ var QUESTIONS = [
     "example": "曖昧な返事を避ける。",
     "explanation": "「曖昧」は「あいまい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5811,6 +6365,7 @@ var QUESTIONS = [
     "example": "曖昧な返事を避ける。",
     "explanation": "「あいまい」は「曖昧」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5827,6 +6382,7 @@ var QUESTIONS = [
     "example": "厳しい質問に萎縮してしまう。",
     "explanation": "「萎縮」は「いしゅく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5843,6 +6399,7 @@ var QUESTIONS = [
     "example": "厳しい質問に萎縮してしまう。",
     "explanation": "「いしゅく」は「萎縮」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5859,6 +6416,7 @@ var QUESTIONS = [
     "example": "証拠を隠匿してはならない。",
     "explanation": "「隠匿」は「いんとく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5875,6 +6433,7 @@ var QUESTIONS = [
     "example": "証拠を隠匿してはならない。",
     "explanation": "「いんとく」は「隠匿」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5891,6 +6450,7 @@ var QUESTIONS = [
     "example": "力強い演説に感銘を受けた。",
     "explanation": "「感銘」は「かんめい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5907,6 +6467,7 @@ var QUESTIONS = [
     "example": "力強い演説に感銘を受けた。",
     "explanation": "「かんめい」は「感銘」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5923,6 +6484,7 @@ var QUESTIONS = [
     "example": "社会の規範を守る。",
     "explanation": "「規範」は「きはん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5939,6 +6501,7 @@ var QUESTIONS = [
     "example": "社会の規範を守る。",
     "explanation": "「きはん」は「規範」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5955,6 +6518,7 @@ var QUESTIONS = [
     "example": "欺瞞に満ちた説明を見抜く。",
     "explanation": "「欺瞞」は「ぎまん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5971,6 +6535,7 @@ var QUESTIONS = [
     "example": "欺瞞に満ちた説明を見抜く。",
     "explanation": "「ぎまん」は「欺瞞」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5987,6 +6552,7 @@ var QUESTIONS = [
     "example": "不正な行為を糾弾する。",
     "explanation": "「糾弾」は「きゅうだん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6003,6 +6569,7 @@ var QUESTIONS = [
     "example": "不正な行為を糾弾する。",
     "explanation": "「きゅうだん」は「糾弾」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6019,6 +6586,7 @@ var QUESTIONS = [
     "example": "享楽だけを求める生活を戒める。",
     "explanation": "「享楽」は「きょうらく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6035,6 +6603,7 @@ var QUESTIONS = [
     "example": "享楽だけを求める生活を戒める。",
     "explanation": "「きょうらく」は「享楽」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6051,6 +6620,7 @@ var QUESTIONS = [
     "example": "経験が一冊の本に凝縮されている。",
     "explanation": "「凝縮」は「ぎょうしゅく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6067,6 +6637,7 @@ var QUESTIONS = [
     "example": "経験が一冊の本に凝縮されている。",
     "explanation": "「ぎょうしゅく」は「凝縮」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6083,6 +6654,7 @@ var QUESTIONS = [
     "example": "均整の取れた建物だ。",
     "explanation": "「均整」は「きんせい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6099,6 +6671,7 @@ var QUESTIONS = [
     "example": "均整の取れた建物だ。",
     "explanation": "「きんせい」は「均整」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6115,6 +6688,7 @@ var QUESTIONS = [
     "example": "交通安全の啓発活動を行う。",
     "explanation": "「啓発」は「けいはつ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6131,6 +6705,7 @@ var QUESTIONS = [
     "example": "交通安全の啓発活動を行う。",
     "explanation": "「けいはつ」は「啓発」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6147,6 +6722,7 @@ var QUESTIONS = [
     "example": "専門家に協力を懇請した。",
     "explanation": "「懇請」は「こんせい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6163,6 +6739,7 @@ var QUESTIONS = [
     "example": "専門家に協力を懇請した。",
     "explanation": "「こんせい」は「懇請」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6179,6 +6756,7 @@ var QUESTIONS = [
     "example": "提出前に報告書を査閲する。",
     "explanation": "「査閲」は「さえつ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6195,6 +6773,7 @@ var QUESTIONS = [
     "example": "提出前に報告書を査閲する。",
     "explanation": "「さえつ」は「査閲」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6211,6 +6790,7 @@ var QUESTIONS = [
     "example": "調査結果は重要な可能性を示唆している。",
     "explanation": "「示唆」は「しさ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6227,6 +6807,7 @@ var QUESTIONS = [
     "example": "調査結果は重要な可能性を示唆している。",
     "explanation": "「しさ」は「示唆」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6243,6 +6824,7 @@ var QUESTIONS = [
     "example": "執拗に質問を繰り返す。",
     "explanation": "「執拗」は「しつよう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6259,6 +6841,7 @@ var QUESTIONS = [
     "example": "執拗に質問を繰り返す。",
     "explanation": "「しつよう」は「執拗」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6275,6 +6858,7 @@ var QUESTIONS = [
     "example": "精巧な模型を製作する。",
     "explanation": "「精巧」は「せいこう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6291,6 +6875,7 @@ var QUESTIONS = [
     "example": "精巧な模型を製作する。",
     "explanation": "「せいこう」は「精巧」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6307,6 +6892,7 @@ var QUESTIONS = [
     "example": "二つの案を折衷した計画を作る。",
     "explanation": "「折衷」は「せっちゅう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6323,6 +6909,7 @@ var QUESTIONS = [
     "example": "二つの案を折衷した計画を作る。",
     "explanation": "「せっちゅう」は「折衷」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6339,6 +6926,7 @@ var QUESTIONS = [
     "example": "壮絶な試合を制した。",
     "explanation": "「壮絶」は「そうぜつ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6355,6 +6943,7 @@ var QUESTIONS = [
     "example": "壮絶な試合を制した。",
     "explanation": "「そうぜつ」は「壮絶」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6371,6 +6960,7 @@ var QUESTIONS = [
     "example": "歴史学の泰斗として知られる。",
     "explanation": "「泰斗」は「たいと」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6387,6 +6977,7 @@ var QUESTIONS = [
     "example": "歴史学の泰斗として知られる。",
     "explanation": "「たいと」は「泰斗」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6403,6 +6994,7 @@ var QUESTIONS = [
     "example": "川底に土砂が堆積する。",
     "explanation": "「堆積」は「たいせき」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6419,6 +7011,7 @@ var QUESTIONS = [
     "example": "川底に土砂が堆積する。",
     "explanation": "「たいせき」は「堆積」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6435,6 +7028,7 @@ var QUESTIONS = [
     "example": "二社が業務で提携する。",
     "explanation": "「提携」は「ていけい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6451,6 +7045,7 @@ var QUESTIONS = [
     "example": "二社が業務で提携する。",
     "explanation": "「ていけい」は「提携」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6467,6 +7062,7 @@ var QUESTIONS = [
     "example": "異なる意見を排斥しない。",
     "explanation": "「排斥」は「はいせき」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6483,6 +7079,7 @@ var QUESTIONS = [
     "example": "異なる意見を排斥しない。",
     "explanation": "「はいせき」は「排斥」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6499,6 +7096,7 @@ var QUESTIONS = [
     "example": "案内資料を無料で頒布する。",
     "explanation": "「頒布」は「はんぷ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6515,6 +7113,7 @@ var QUESTIONS = [
     "example": "案内資料を無料で頒布する。",
     "explanation": "「はんぷ」は「頒布」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6531,6 +7130,7 @@ var QUESTIONS = [
     "example": "堂々とした風貌の人物だ。",
     "explanation": "「風貌」は「ふうぼう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6547,6 +7147,7 @@ var QUESTIONS = [
     "example": "堂々とした風貌の人物だ。",
     "explanation": "「ふうぼう」は「風貌」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6563,6 +7164,7 @@ var QUESTIONS = [
     "example": "偏狭な見方を改める。",
     "explanation": "「偏狭」は「へんきょう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6579,6 +7181,7 @@ var QUESTIONS = [
     "example": "偏狭な見方を改める。",
     "explanation": "「へんきょう」は「偏狭」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6595,6 +7198,7 @@ var QUESTIONS = [
     "example": "多様な立場を包摂する社会を目指す。",
     "explanation": "「包摂」は「ほうせつ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6611,6 +7215,7 @@ var QUESTIONS = [
     "example": "多様な立場を包摂する社会を目指す。",
     "explanation": "「ほうせつ」は「包摂」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6627,6 +7232,7 @@ var QUESTIONS = [
     "example": "現実と妄想を区別する。",
     "explanation": "「妄想」は「もうそう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6643,6 +7249,7 @@ var QUESTIONS = [
     "example": "現実と妄想を区別する。",
     "explanation": "「もうそう」は「妄想」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6659,6 +7266,7 @@ var QUESTIONS = [
     "example": "規則を融通の利く形で運用する。",
     "explanation": "「融通」は「ゆうずう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6675,6 +7283,7 @@ var QUESTIONS = [
     "example": "規則を融通の利く形で運用する。",
     "explanation": "「ゆうずう」は「融通」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6691,6 +7300,7 @@ var QUESTIONS = [
     "example": "支出の増加を抑制する。",
     "explanation": "「抑制」は「よくせい」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6707,6 +7317,7 @@ var QUESTIONS = [
     "example": "支出の増加を抑制する。",
     "explanation": "「よくせい」は「抑制」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6723,6 +7334,7 @@ var QUESTIONS = [
     "example": "職権の濫用を防ぐ。",
     "explanation": "「濫用」は「らんよう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6739,6 +7351,7 @@ var QUESTIONS = [
     "example": "職権の濫用を防ぐ。",
     "explanation": "「らんよう」は「濫用」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6760,6 +7373,7 @@ var QUESTIONS = [
       "仲の悪い者同士が、共通の困難に対して協力すること。",
       "晴れた日は畑を耕し、雨の日は読書をする悠々自適な生活。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -6781,6 +7395,7 @@ var QUESTIONS = [
       "厚かましく、恥を恥とも思わないこと。",
       "その場に応じて、素早く気の利いた対応をすること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -6802,6 +7417,7 @@ var QUESTIONS = [
       "小さなことを大げさに言うこと。",
       "昔のことを学び、そこから新しい知識や道理を見いだすこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -6823,6 +7439,7 @@ var QUESTIONS = [
       "結果がどうなっても、仲間と行動や運命を共にすること。",
       "目的を成し遂げるために、長い間苦労や苦難に耐え忍ぶこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -6844,6 +7461,7 @@ var QUESTIONS = [
       "あとわずかで危険な事態になる、きわどい状態。",
       "心を一つのことだけに集中し、ひたむきに励むこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -6865,6 +7483,7 @@ var QUESTIONS = [
       "初めから終わりまで、方針や態度が変わらないこと。",
       "互いに競い合い励まし合って、学問や技芸を磨き合うこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -6886,6 +7505,7 @@ var QUESTIONS = [
       "晴れた日は畑を耕し、雨の日は読書をする悠々自適な生活。",
       "稲妻や火花のように、動作や行動が非常にすばやいこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -6907,6 +7527,7 @@ var QUESTIONS = [
       "その場に応じて、素早く気の利いた対応をすること。",
       "性格が穏やかで人情に厚く、誠実であること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -6928,6 +7549,7 @@ var QUESTIONS = [
       "昔のことを学び、そこから新しい知識や道理を見いだすこと。",
       "物事を完成させる最後の仕上げ。「画竜点睛を欠く」で仕上げの一番大事な部分が抜けていることを表す。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -6949,6 +7571,7 @@ var QUESTIONS = [
       "目的を成し遂げるために、長い間苦労や苦難に耐え忍ぶこと。",
       "私心がなく、誰から見ても公平で正しいこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -6965,6 +7588,7 @@ var QUESTIONS = [
     "example": "情報が拡散した後、議論は収束した。",
     "explanation": "「拡散」⇔「収束」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -6981,6 +7605,7 @@ var QUESTIONS = [
     "example": "慎重な判断と軽率な判断では結果が異なる。",
     "explanation": "「慎重」⇔「軽率」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -6997,6 +7622,7 @@ var QUESTIONS = [
     "example": "寛容な態度を持ち、偏狭な見方を避ける。",
     "explanation": "「寛容」⇔「偏狭」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -7013,6 +7639,7 @@ var QUESTIONS = [
     "example": "物質は温度によって膨張・収縮する。",
     "explanation": "「膨張」⇔「収縮」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -7029,6 +7656,7 @@ var QUESTIONS = [
     "example": "秩序を回復して混乱を収める。",
     "explanation": "「秩序」⇔「混乱」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -7045,6 +7673,7 @@ var QUESTIONS = [
     "example": "簡潔・簡明な説明を心掛ける。",
     "explanation": "「簡潔」≒「簡明」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -7061,6 +7690,7 @@ var QUESTIONS = [
     "example": "堅固・堅牢な構造に改める。",
     "explanation": "「堅固」≒「堅牢」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -7077,6 +7707,7 @@ var QUESTIONS = [
     "example": "速度を抑制・制御する装置を設ける。",
     "explanation": "「抑制」≒「制御」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -7093,6 +7724,7 @@ var QUESTIONS = [
     "example": "組織の変革・改革を進める。",
     "explanation": "「変革」≒「改革」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -7109,6 +7741,7 @@ var QUESTIONS = [
     "example": "互いに妥協・譲歩して合意した。",
     "explanation": "「妥協」≒「譲歩」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -7130,6 +7763,7 @@ var QUESTIONS = [
       "かいへん",
       "ひとあし"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -7151,6 +7785,7 @@ var QUESTIONS = [
       "ぶんにょう",
       "りっとう"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -7172,6 +7807,7 @@ var QUESTIONS = [
       "にちへん",
       "かいへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -7193,6 +7829,7 @@ var QUESTIONS = [
       "きへん",
       "いとへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -7214,6 +7851,7 @@ var QUESTIONS = [
       "あくび",
       "おおがい"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -7235,6 +7873,7 @@ var QUESTIONS = [
       "上の字が下の字を修飾する",
       "下の字が上の字の目的語・補語になる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -7256,6 +7895,7 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる",
       "同じような意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -7277,6 +7917,7 @@ var QUESTIONS = [
       "同じような意味の字を重ねる",
       "反対または対応する意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -7298,6 +7939,7 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる",
       "上の字が下の字を修飾する"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -7319,6 +7961,7 @@ var QUESTIONS = [
       "上の字が下の字を修飾する",
       "下の字が上の字の目的語・補語になる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -7340,6 +7983,7 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる",
       "同じような意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -7361,6 +8005,7 @@ var QUESTIONS = [
       "同じような意味の字を重ねる",
       "反対または対応する意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -7382,6 +8027,7 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる",
       "主語・述語の関係にある"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -7403,6 +8049,7 @@ var QUESTIONS = [
       "主語・述語の関係にある",
       "上の字が下の字を修飾する"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -7424,6 +8071,7 @@ var QUESTIONS = [
       "上の字が下の字を修飾する",
       "同じような意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -7440,6 +8088,16 @@ var QUESTIONS = [
     "example": "二つの作品を比較対照して論じた。",
     "explanation": "「たいしょう」と読む同音異義語。「対象」は行為が向けられるもの、「対照」は二つのものを比べることを表す。ここでは作品を比較するので「対照」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 対象 → 正 対照",
+      "対象 → 対照",
+      "対象→対照",
+      "対象 -> 対照",
+      "対象->対照",
+      "対象を対照に直す",
+      "対象を対照に訂正",
+      "対照"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -7456,6 +8114,16 @@ var QUESTIONS = [
     "example": "製品を完成させるまでの工程を確認した。",
     "explanation": "「こうてい」と読む同音異義語。「行程」は目的地までの道のり、「工程」は作業を進める順序や段階を表す。ここでは製品を作る手順なので「工程」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 行程 → 正 工程",
+      "行程 → 工程",
+      "行程→工程",
+      "行程 -> 工程",
+      "行程->工程",
+      "行程を工程に直す",
+      "行程を工程に訂正",
+      "工程"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -7472,6 +8140,16 @@ var QUESTIONS = [
     "example": "旅行に出る前に全体の行程を確認した。",
     "explanation": "「こうてい」と読む同音異義語。「工程」は作業の順序や段階、「行程」は目的地までの道のりを表す。ここでは旅行の道のりなので「行程」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 工程 → 正 行程",
+      "工程 → 行程",
+      "工程→行程",
+      "工程 -> 行程",
+      "工程->行程",
+      "工程を行程に直す",
+      "工程を行程に訂正",
+      "行程"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -7488,6 +8166,7 @@ var QUESTIONS = [
     "example": "故人に哀悼の意を表する。",
     "explanation": "「哀悼」は「あいとう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7504,6 +8183,7 @@ var QUESTIONS = [
     "example": "故人に哀悼の意を表する。",
     "explanation": "「あいとう」は「哀悼」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7520,6 +8200,7 @@ var QUESTIONS = [
     "example": "終盤の演技は圧巻だった。",
     "explanation": "「圧巻」は「あっかん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7536,6 +8217,7 @@ var QUESTIONS = [
     "example": "終盤の演技は圧巻だった。",
     "explanation": "「あっかん」は「圧巻」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7552,6 +8234,7 @@ var QUESTIONS = [
     "example": "無事の知らせを聞いて安堵した。",
     "explanation": "「安堵」は「あんど」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7568,6 +8251,7 @@ var QUESTIONS = [
     "example": "無事の知らせを聞いて安堵した。",
     "explanation": "「あんど」は「安堵」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7584,6 +8268,7 @@ var QUESTIONS = [
     "example": "専門家に調査を委嘱する。",
     "explanation": "「委嘱」は「いしょく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7600,6 +8285,7 @@ var QUESTIONS = [
     "example": "専門家に調査を委嘱する。",
     "explanation": "「いしょく」は「委嘱」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7616,6 +8302,7 @@ var QUESTIONS = [
     "example": "根拠のない提案を一蹴した。",
     "explanation": "「一蹴」は「いっしゅう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7632,6 +8319,7 @@ var QUESTIONS = [
     "example": "根拠のない提案を一蹴した。",
     "explanation": "「いっしゅう」は「一蹴」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7648,6 +8336,7 @@ var QUESTIONS = [
     "example": "校舎の営繕を担当する。",
     "explanation": "「営繕」は「えいぜん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7664,6 +8353,7 @@ var QUESTIONS = [
     "example": "校舎の営繕を担当する。",
     "explanation": "「えいぜん」は「営繕」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7680,6 +8370,7 @@ var QUESTIONS = [
     "example": "練習を重ねて技の要領を会得した。",
     "explanation": "「会得」は「えとく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7696,6 +8387,7 @@ var QUESTIONS = [
     "example": "練習を重ねて技の要領を会得した。",
     "explanation": "「えとく」は「会得」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7712,6 +8404,7 @@ var QUESTIONS = [
     "example": "規則違反に対して戒告を受けた。",
     "explanation": "「戒告」は「かいこく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7728,6 +8421,7 @@ var QUESTIONS = [
     "example": "規則違反に対して戒告を受けた。",
     "explanation": "「かいこく」は「戒告」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7744,6 +8438,7 @@ var QUESTIONS = [
     "example": "補足説明を括弧で囲む。",
     "explanation": "「括弧」は「かっこ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7760,6 +8455,7 @@ var QUESTIONS = [
     "example": "補足説明を括弧で囲む。",
     "explanation": "「かっこ」は「括弧」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7776,6 +8472,7 @@ var QUESTIONS = [
     "example": "緩衝材で製品を保護する。",
     "explanation": "「緩衝」は「かんしょう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7792,6 +8489,7 @@ var QUESTIONS = [
     "example": "緩衝材で製品を保護する。",
     "explanation": "「かんしょう」は「緩衝」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7808,6 +8506,7 @@ var QUESTIONS = [
     "example": "診察時に既往歴を確認する。",
     "explanation": "「既往」は「きおう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7824,6 +8523,7 @@ var QUESTIONS = [
     "example": "診察時に既往歴を確認する。",
     "explanation": "「きおう」は「既往」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7840,6 +8540,7 @@ var QUESTIONS = [
     "example": "両チームの実力は拮抗している。",
     "explanation": "「拮抗」は「きっこう」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7856,6 +8557,7 @@ var QUESTIONS = [
     "example": "両チームの実力は拮抗している。",
     "explanation": "「きっこう」は「拮抗」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7872,6 +8574,7 @@ var QUESTIONS = [
     "example": "精密な技術に驚嘆した。",
     "explanation": "「驚嘆」は「きょうたん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7888,6 +8591,7 @@ var QUESTIONS = [
     "example": "精密な技術に驚嘆した。",
     "explanation": "「きょうたん」は「驚嘆」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7904,6 +8608,7 @@ var QUESTIONS = [
     "example": "事態は新たな局面を迎えた。",
     "explanation": "「局面」は「きょくめん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7920,6 +8625,7 @@ var QUESTIONS = [
     "example": "事態は新たな局面を迎えた。",
     "explanation": "「きょくめん」は「局面」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7936,6 +8642,7 @@ var QUESTIONS = [
     "example": "材料を十分に吟味する。",
     "explanation": "「吟味」は「ぎんみ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7952,6 +8659,7 @@ var QUESTIONS = [
     "example": "材料を十分に吟味する。",
     "explanation": "「ぎんみ」は「吟味」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7968,6 +8676,7 @@ var QUESTIONS = [
     "example": "有害な虫を駆逐する。",
     "explanation": "「駆逐」は「くちく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7984,6 +8693,7 @@ var QUESTIONS = [
     "example": "有害な虫を駆逐する。",
     "explanation": "「くちく」は「駆逐」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8000,6 +8710,7 @@ var QUESTIONS = [
     "example": "地域医療に献身する。",
     "explanation": "「献身」は「けんしん」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8016,6 +8727,7 @@ var QUESTIONS = [
     "example": "地域医療に献身する。",
     "explanation": "「けんしん」は「献身」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8032,6 +8744,7 @@ var QUESTIONS = [
     "example": "水資源の枯渇が懸念される。",
     "explanation": "「枯渇」は「こかつ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8048,6 +8761,7 @@ var QUESTIONS = [
     "example": "水資源の枯渇が懸念される。",
     "explanation": "「こかつ」は「枯渇」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8064,6 +8778,7 @@ var QUESTIONS = [
     "example": "選手を鼓舞する声援が響く。",
     "explanation": "「鼓舞」は「こぶ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8080,6 +8795,7 @@ var QUESTIONS = [
     "example": "選手を鼓舞する声援が響く。",
     "explanation": "「こぶ」は「鼓舞」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8096,6 +8812,7 @@ var QUESTIONS = [
     "example": "契約に基づく債務を履行する。",
     "explanation": "「債務」は「さいむ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8112,6 +8829,7 @@ var QUESTIONS = [
     "example": "契約に基づく債務を履行する。",
     "explanation": "「さいむ」は「債務」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8128,6 +8846,7 @@ var QUESTIONS = [
     "example": "暫時休憩してから再開する。",
     "explanation": "「暫時」は「ざんじ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8144,6 +8863,7 @@ var QUESTIONS = [
     "example": "暫時休憩してから再開する。",
     "explanation": "「ざんじ」は「暫時」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8160,6 +8880,7 @@ var QUESTIONS = [
     "example": "思慮に富んだ判断を下す。",
     "explanation": "「思慮」は「しりょ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8176,6 +8897,7 @@ var QUESTIONS = [
     "example": "思慮に富んだ判断を下す。",
     "explanation": "「しりょ」は「思慮」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8192,6 +8914,7 @@ var QUESTIONS = [
     "example": "提示された条件を受諾した。",
     "explanation": "「受諾」は「じゅだく」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8208,6 +8931,7 @@ var QUESTIONS = [
     "example": "提示された条件を受諾した。",
     "explanation": "「じゅだく」は「受諾」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8224,6 +8948,7 @@ var QUESTIONS = [
     "example": "恩師が逝去したとの知らせを受けた。",
     "explanation": "「逝去」は「せいきょ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8240,6 +8965,7 @@ var QUESTIONS = [
     "example": "恩師が逝去したとの知らせを受けた。",
     "explanation": "「せいきょ」は「逝去」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8256,6 +8982,7 @@ var QUESTIONS = [
     "example": "違法行為を摘発する。",
     "explanation": "「摘発」は「てきはつ」と読む。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8272,6 +8999,7 @@ var QUESTIONS = [
     "example": "違法行為を摘発する。",
     "explanation": "「てきはつ」は「摘発」と書く。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8293,6 +9021,7 @@ var QUESTIONS = [
       "心を一つのことだけに集中し、ひたむきに励むこと。",
       "何度も失敗を重ねながら、適切な方法を見つけ出していくこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -8314,6 +9043,7 @@ var QUESTIONS = [
       "互いに競い合い励まし合って、学問や技芸を磨き合うこと。",
       "飾り気がなく真面目で、心身ともにたくましいこと。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -8335,6 +9065,7 @@ var QUESTIONS = [
       "稲妻や火花のように、動作や行動が非常にすばやいこと。",
       "多くの花が咲き乱れるように、優れた人物や業績が一時に多く現れること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -8356,6 +9087,7 @@ var QUESTIONS = [
       "性格が穏やかで人情に厚く、誠実であること。",
       "自分にしっかりした考えがなく、すぐ他人の意見に同調すること。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -8377,6 +9109,7 @@ var QUESTIONS = [
       "物事を完成させる最後の仕上げ。「画竜点睛を欠く」で仕上げの一番大事な部分が抜けていることを表す。",
       "邪念がなく、澄みきって落ち着いた心の状態。"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -8393,6 +9126,7 @@ var QUESTIONS = [
     "example": "栄転と左遷では人事異動の意味が大きく異なる。",
     "explanation": "「栄転」⇔「左遷」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -8409,6 +9143,7 @@ var QUESTIONS = [
     "example": "路線の起点から終点まで乗車する。",
     "explanation": "「起点」⇔「終点」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -8425,6 +9160,7 @@ var QUESTIONS = [
     "example": "立ち入りを許可する区域と禁止する区域を分ける。",
     "explanation": "「許可」⇔「禁止」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -8441,6 +9177,7 @@ var QUESTIONS = [
     "example": "剛健な気風と柔弱な態度は対照的だ。",
     "explanation": "「剛健」⇔「柔弱」は対義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -8457,6 +9194,7 @@ var QUESTIONS = [
     "example": "故人を哀悼・追悼する式を行う。",
     "explanation": "「哀悼」≒「追悼」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -8473,6 +9211,7 @@ var QUESTIONS = [
     "example": "専門家に調査を委嘱・依頼する。",
     "explanation": "「委嘱」≒「依頼」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -8489,6 +9228,7 @@ var QUESTIONS = [
     "example": "仲間を鼓舞・激励する。",
     "explanation": "「鼓舞」≒「激励」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -8505,6 +9245,7 @@ var QUESTIONS = [
     "example": "資源が枯渇・払底する。",
     "explanation": "「枯渇」≒「払底」は類義語の関係にある。",
     "choices": [],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -8526,6 +9267,7 @@ var QUESTIONS = [
       "にんべん",
       "けものへん"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -8547,6 +9289,7 @@ var QUESTIONS = [
       "ごんべん",
       "むし"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -8568,6 +9311,7 @@ var QUESTIONS = [
       "おおざと",
       "えんにょう"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "部首"
@@ -8589,6 +9333,7 @@ var QUESTIONS = [
       "同じような意味の字を重ねる",
       "反対または対応する意味の字を重ねる"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -8610,6 +9355,7 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる",
       "主語・述語の関係にある"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -8631,6 +9377,7 @@ var QUESTIONS = [
       "主語・述語の関係にある",
       "上の字が下の字を修飾する"
     ],
+    "acceptedAnswers": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -8647,6 +9394,16 @@ var QUESTIONS = [
     "example": "議論を重ねて問題の核心に迫った。",
     "explanation": "「かくしん」と読む同音異義語。「確信」は固く信じること、「核心」は物事の中心となる重要な部分を表す。ここでは問題の中心部分なので「核心」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 確信 → 正 核心",
+      "確信 → 核心",
+      "確信→核心",
+      "確信 -> 核心",
+      "確信->核心",
+      "確信を核心に直す",
+      "確信を核心に訂正",
+      "核心"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -8663,6 +9420,16 @@ var QUESTIONS = [
     "example": "判決を不服として上級の裁判所に控訴した。",
     "explanation": "「こうそ」と読む同音異義語。「公訴」は検察官が刑事裁判を求めること、「控訴」は第一審の判決を不服として上級裁判所に訴えることを表す。ここでは判決への不服申立てなので「控訴」が正しい。",
     "choices": [],
+    "acceptedAnswers": [
+      "誤 公訴 → 正 控訴",
+      "公訴 → 控訴",
+      "公訴→控訴",
+      "公訴 -> 控訴",
+      "公訴->控訴",
+      "公訴を控訴に直す",
+      "公訴を控訴に訂正",
+      "控訴"
+    ],
     "source": "original",
     "tags": [
       "誤字訂正"

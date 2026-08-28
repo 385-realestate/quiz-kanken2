@@ -455,7 +455,7 @@ const CURRENT_PUBLISHED_COUNTS = {
   structure: 43,
   correction: 27,
 };
-function push(category, categoryLabel, tag, prompt, answer, meaning, example, explanation, choices) {
+function push(category, categoryLabel, tag, prompt, answer, meaning, example, explanation, choices, acceptedAnswers) {
   seq += 1;
   questions.push({
     id: `${category}-${String(seq).padStart(3, '0')}`,
@@ -467,10 +467,54 @@ function push(category, categoryLabel, tag, prompt, answer, meaning, example, ex
     example,
     explanation: explanation || '',
     choices: choices || [],
+    // 自由入力で答えさせるカテゴリ(対義語類義語・誤字訂正)で、answer本体の
+    // 表記と完全一致しなくても正解として受理してよい書き方を明示的に列挙する。
+    // 未指定なら app.js 側は answer 本体のみを正解として扱う。
+    acceptedAnswers: acceptedAnswers || null,
     source: 'original',
     tags: [tag || categoryLabel],
     difficulty: 2,
   });
+}
+// 誤字訂正: 「誤X→正Y」という決まった書式でしか正解を受理しないと、
+// 「X→Y」のようなラベル無しの自然な書き方まで不正解になってしまう。
+// 想定されるバリエーションをあらかじめ列挙して受理する。
+function correctionAcceptedAnswers(wrongWord, correctWord) {
+  return [
+    `誤 ${wrongWord} → 正 ${correctWord}`,
+    `${wrongWord} → ${correctWord}`,
+    `${wrongWord}→${correctWord}`,
+    `${wrongWord} -> ${correctWord}`,
+    `${wrongWord}->${correctWord}`,
+    `${wrongWord}を${correctWord}に直す`,
+    `${wrongWord}を${correctWord}に訂正`,
+    correctWord,
+  ];
+}
+function pushCorrection(correctSentence, correctWord, wrongWord, explanation) {
+  const wrongSentence = correctSentence.split(correctWord).join(wrongWord);
+  push('correction', '誤字訂正', '誤字訂正',
+    `次の文中には誤って使われている同音の漢字が1字ある。誤字を正しい字に直せ。\n${wrongSentence}`,
+    `誤 ${wrongWord} → 正 ${correctWord}`,
+    explanation, correctSentence, explanation, undefined,
+    correctionAcceptedAnswers(wrongWord, correctWord));
+}
+// 対義語・類義語: 辞書的に妥当な別解が存在する語がある（例:「巧妙」の対義語は
+// 「拙劣」が主だが「稚拙」も一般に通用する）。誤答扱いを避けるため、確認済みの
+// 別解だけを個別に許容リストへ追加する（根拠のない語を機械的に増やさない）。
+const ANTONYM_ALT_ANSWERS = {
+  '拙劣': ['稚拙'],
+  '希薄': ['淡泊'],
+};
+const SYNONYM_ALT_ANSWERS = {};
+function pushAntonymPair(a, b, meaning, example, relation, tag) {
+  const altMap = relation === 'antonym' ? ANTONYM_ALT_ANSWERS : SYNONYM_ALT_ANSWERS;
+  const alts = altMap[b] || [];
+  const symbol = relation === 'antonym' ? '⇔' : '≒';
+  const relLabel = relation === 'antonym' ? '対義語' : '類義語';
+  push('antonym', '対義語・類義語', tag, `「${a}」の${relLabel}を答えよ。`, b, meaning, example,
+    `「${a}」${symbol}「${b}」は${relLabel}の関係にある。`, undefined,
+    alts.length ? [b, ...alts] : undefined);
 }
 
 VOCAB.slice(0, LEGACY_COUNTS.vocab).forEach(([word, reading, meaning, example]) => {
@@ -493,12 +537,10 @@ IDIOMS.slice(0, LEGACY_COUNTS.idiom).forEach(([term, reading, meaning, example],
 });
 
 ANTONYMS.slice(0, LEGACY_COUNTS.antonym).forEach(([a, b, meaning, example]) => {
-  push('antonym', '対義語・類義語', '対義語', `「${a}」の対義語を答えよ。`, b, meaning, example,
-    `「${a}」⇔「${b}」は対義語の関係にある。`);
+  pushAntonymPair(a, b, meaning, example, 'antonym', '対義語');
 });
 SYNONYMS.slice(0, LEGACY_COUNTS.synonym).forEach(([a, b, meaning, example]) => {
-  push('antonym', '対義語・類義語', '類義語', `「${a}」の類義語を答えよ。`, b, meaning, example,
-    `「${a}」≒「${b}」は類義語の関係にある。`);
+  pushAntonymPair(a, b, meaning, example, 'synonym', '類義語');
 });
 
 RADICALS.slice(0, LEGACY_COUNTS.radical).forEach(([kanji, radical, choices, meaning, example]) => {
@@ -513,11 +555,7 @@ STRUCTURES.slice(0, LEGACY_COUNTS.structure).forEach(([word, typeIndex, meaning,
 });
 
 CORRECTIONS.slice(0, LEGACY_COUNTS.correction).forEach(([correctSentence, correctWord, wrongWord, explanation]) => {
-  const wrongSentence = correctSentence.split(correctWord).join(wrongWord);
-  push('correction', '誤字訂正', '誤字訂正',
-    `次の文中には誤って使われている同音の漢字が1字ある。誤字を正しい字に直せ。\n${wrongSentence}`,
-    `誤 ${wrongWord} → 正 ${correctWord}`,
-    explanation, correctSentence, explanation);
+  pushCorrection(correctSentence, correctWord, wrongWord, explanation);
 });
 
 // ── 追加問題（既存223問のIDを保持するため末尾に生成） ────────────
@@ -532,12 +570,10 @@ IDIOMS.slice(LEGACY_COUNTS.idiom, PUBLISHED_COUNTS.idiom).forEach(([term, readin
     `「${term}」は「${reading}」と読む。`, idiomChoices(LEGACY_COUNTS.idiom + index));
 });
 ANTONYMS.slice(LEGACY_COUNTS.antonym, PUBLISHED_COUNTS.antonym).forEach(([a, b, meaning, example]) => {
-  push('antonym', '対義語・類義語', '対義語', `「${a}」の対義語を答えよ。`, b, meaning, example,
-    `「${a}」⇔「${b}」は対義語の関係にある。`);
+  pushAntonymPair(a, b, meaning, example, 'antonym', '対義語');
 });
 SYNONYMS.slice(LEGACY_COUNTS.synonym, PUBLISHED_COUNTS.synonym).forEach(([a, b, meaning, example]) => {
-  push('antonym', '対義語・類義語', '類義語', `「${a}」の類義語を答えよ。`, b, meaning, example,
-    `「${a}」≒「${b}」は類義語の関係にある。`);
+  pushAntonymPair(a, b, meaning, example, 'synonym', '類義語');
 });
 RADICALS.slice(LEGACY_COUNTS.radical, PUBLISHED_COUNTS.radical).forEach(([kanji, radical, choices, meaning, example]) => {
   push('radical', '部首', '部首', `「${kanji}」の部首を答えよ。`, radical, meaning, example,
@@ -549,11 +585,7 @@ STRUCTURES.slice(LEGACY_COUNTS.structure, PUBLISHED_COUNTS.structure).forEach(([
     `「${word}」は${answer}熟語である。`, structureChoices(typeIndex, LEGACY_COUNTS.structure + index));
 });
 CORRECTIONS.slice(LEGACY_COUNTS.correction, PUBLISHED_COUNTS.correction).forEach(([correctSentence, correctWord, wrongWord, explanation]) => {
-  const wrongSentence = correctSentence.split(correctWord).join(wrongWord);
-  push('correction', '誤字訂正', '誤字訂正',
-    `次の文中には誤って使われている同音の漢字が1字ある。誤字を正しい字に直せ。\n${wrongSentence}`,
-    `誤 ${wrongWord} → 正 ${correctWord}`,
-    explanation, correctSentence, explanation);
+  pushCorrection(correctSentence, correctWord, wrongWord, explanation);
 });
 
 // 公開済み331問までを同じ順序で生成し、保存済みの履歴IDを固定する。
@@ -568,12 +600,10 @@ IDIOMS.slice(PUBLISHED_COUNTS.idiom, LAST_PUBLISHED_COUNTS.idiom).forEach(([term
     `「${term}」は「${reading}」と読む。`, idiomChoices(PUBLISHED_COUNTS.idiom + index));
 });
 ANTONYMS.slice(PUBLISHED_COUNTS.antonym, LAST_PUBLISHED_COUNTS.antonym).forEach(([a, b, meaning, example]) => {
-  push('antonym', '対義語・類義語', '対義語', `「${a}」の対義語を答えよ。`, b, meaning, example,
-    `「${a}」⇔「${b}」は対義語の関係にある。`);
+  pushAntonymPair(a, b, meaning, example, 'antonym', '対義語');
 });
 SYNONYMS.slice(PUBLISHED_COUNTS.synonym, LAST_PUBLISHED_COUNTS.synonym).forEach(([a, b, meaning, example]) => {
-  push('antonym', '対義語・類義語', '類義語', `「${a}」の類義語を答えよ。`, b, meaning, example,
-    `「${a}」≒「${b}」は類義語の関係にある。`);
+  pushAntonymPair(a, b, meaning, example, 'synonym', '類義語');
 });
 RADICALS.slice(PUBLISHED_COUNTS.radical, LAST_PUBLISHED_COUNTS.radical).forEach(([kanji, radical, choices, meaning, example]) => {
   push('radical', '部首', '部首', `「${kanji}」の部首を答えよ。`, radical, meaning, example,
@@ -585,11 +615,7 @@ STRUCTURES.slice(PUBLISHED_COUNTS.structure, LAST_PUBLISHED_COUNTS.structure).fo
     `「${word}」は${answer}熟語である。`, structureChoices(typeIndex, PUBLISHED_COUNTS.structure + index));
 });
 CORRECTIONS.slice(PUBLISHED_COUNTS.correction, LAST_PUBLISHED_COUNTS.correction).forEach(([correctSentence, correctWord, wrongWord, explanation]) => {
-  const wrongSentence = correctSentence.split(correctWord).join(wrongWord);
-  push('correction', '誤字訂正', '誤字訂正',
-    `次の文中には誤って使われている同音の漢字が1字ある。誤字を正しい字に直せ。\n${wrongSentence}`,
-    `誤 ${wrongWord} → 正 ${correctWord}`,
-    explanation, correctSentence, explanation);
+  pushCorrection(correctSentence, correctWord, wrongWord, explanation);
 });
 
 // 公開済み429問までを同じ順序で生成する。
@@ -604,12 +630,10 @@ IDIOMS.slice(LAST_PUBLISHED_COUNTS.idiom, CURRENT_PUBLISHED_COUNTS.idiom).forEac
     `「${term}」は「${reading}」と読む。`, idiomChoices(LAST_PUBLISHED_COUNTS.idiom + index));
 });
 ANTONYMS.slice(LAST_PUBLISHED_COUNTS.antonym, CURRENT_PUBLISHED_COUNTS.antonym).forEach(([a, b, meaning, example]) => {
-  push('antonym', '対義語・類義語', '対義語', `「${a}」の対義語を答えよ。`, b, meaning, example,
-    `「${a}」⇔「${b}」は対義語の関係にある。`);
+  pushAntonymPair(a, b, meaning, example, 'antonym', '対義語');
 });
 SYNONYMS.slice(LAST_PUBLISHED_COUNTS.synonym, CURRENT_PUBLISHED_COUNTS.synonym).forEach(([a, b, meaning, example]) => {
-  push('antonym', '対義語・類義語', '類義語', `「${a}」の類義語を答えよ。`, b, meaning, example,
-    `「${a}」≒「${b}」は類義語の関係にある。`);
+  pushAntonymPair(a, b, meaning, example, 'synonym', '類義語');
 });
 RADICALS.slice(LAST_PUBLISHED_COUNTS.radical, CURRENT_PUBLISHED_COUNTS.radical).forEach(([kanji, radical, choices, meaning, example]) => {
   push('radical', '部首', '部首', `「${kanji}」の部首を答えよ。`, radical, meaning, example,
@@ -621,11 +645,7 @@ STRUCTURES.slice(LAST_PUBLISHED_COUNTS.structure, CURRENT_PUBLISHED_COUNTS.struc
     `「${word}」は${answer}熟語である。`, structureChoices(typeIndex, LAST_PUBLISHED_COUNTS.structure + index));
 });
 CORRECTIONS.slice(LAST_PUBLISHED_COUNTS.correction, CURRENT_PUBLISHED_COUNTS.correction).forEach(([correctSentence, correctWord, wrongWord, explanation]) => {
-  const wrongSentence = correctSentence.split(correctWord).join(wrongWord);
-  push('correction', '誤字訂正', '誤字訂正',
-    `次の文中には誤って使われている同音の漢字が1字ある。誤字を正しい字に直せ。\n${wrongSentence}`,
-    `誤 ${wrongWord} → 正 ${correctWord}`,
-    explanation, correctSentence, explanation);
+  pushCorrection(correctSentence, correctWord, wrongWord, explanation);
 });
 
 // 500問到達のための今回追加分。公開済み429問の後に生成する。
@@ -640,12 +660,10 @@ IDIOMS.slice(CURRENT_PUBLISHED_COUNTS.idiom).forEach(([term, reading, meaning, e
     `「${term}」は「${reading}」と読む。`, idiomChoices(CURRENT_PUBLISHED_COUNTS.idiom + index));
 });
 ANTONYMS.slice(CURRENT_PUBLISHED_COUNTS.antonym).forEach(([a, b, meaning, example]) => {
-  push('antonym', '対義語・類義語', '対義語', `「${a}」の対義語を答えよ。`, b, meaning, example,
-    `「${a}」⇔「${b}」は対義語の関係にある。`);
+  pushAntonymPair(a, b, meaning, example, 'antonym', '対義語');
 });
 SYNONYMS.slice(CURRENT_PUBLISHED_COUNTS.synonym).forEach(([a, b, meaning, example]) => {
-  push('antonym', '対義語・類義語', '類義語', `「${a}」の類義語を答えよ。`, b, meaning, example,
-    `「${a}」≒「${b}」は類義語の関係にある。`);
+  pushAntonymPair(a, b, meaning, example, 'synonym', '類義語');
 });
 RADICALS.slice(CURRENT_PUBLISHED_COUNTS.radical).forEach(([kanji, radical, choices, meaning, example]) => {
   push('radical', '部首', '部首', `「${kanji}」の部首を答えよ。`, radical, meaning, example,
@@ -657,11 +675,7 @@ STRUCTURES.slice(CURRENT_PUBLISHED_COUNTS.structure).forEach(([word, typeIndex, 
     `「${word}」は${answer}熟語である。`, structureChoices(typeIndex, CURRENT_PUBLISHED_COUNTS.structure + index));
 });
 CORRECTIONS.slice(CURRENT_PUBLISHED_COUNTS.correction).forEach(([correctSentence, correctWord, wrongWord, explanation]) => {
-  const wrongSentence = correctSentence.split(correctWord).join(wrongWord);
-  push('correction', '誤字訂正', '誤字訂正',
-    `次の文中には誤って使われている同音の漢字が1字ある。誤字を正しい字に直せ。\n${wrongSentence}`,
-    `誤 ${wrongWord} → 正 ${correctWord}`,
-    explanation, correctSentence, explanation);
+  pushCorrection(correctSentence, correctWord, wrongWord, explanation);
 });
 
 fs.writeFileSync(__dirname + '/questions.js', `var QUESTIONS = ${JSON.stringify(questions, null, 2)};\n`);
