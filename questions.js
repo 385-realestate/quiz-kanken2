@@ -10,6 +10,8 @@ var QUESTIONS = [
     "explanation": "「遂行」は「すいこう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -27,6 +29,8 @@ var QUESTIONS = [
     "explanation": "「精緻」は「せいち」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -44,6 +48,8 @@ var QUESTIONS = [
     "explanation": "「顕著」は「けんちょ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -61,6 +67,8 @@ var QUESTIONS = [
     "explanation": "「脆弱」は「ぜいじゃく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -78,6 +86,8 @@ var QUESTIONS = [
     "explanation": "「憂慮」は「ゆうりょ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -95,6 +105,8 @@ var QUESTIONS = [
     "explanation": "「慈善」は「じぜん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -112,6 +124,8 @@ var QUESTIONS = [
     "explanation": "「妥当」は「だとう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -129,6 +143,8 @@ var QUESTIONS = [
     "explanation": "「克服」は「こくふく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -146,6 +162,8 @@ var QUESTIONS = [
     "explanation": "「貢献」は「こうけん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -163,6 +181,8 @@ var QUESTIONS = [
     "explanation": "「懸念」は「けねん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -180,6 +200,8 @@ var QUESTIONS = [
     "explanation": "「模索」は「もさく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -197,6 +219,8 @@ var QUESTIONS = [
     "explanation": "「沿革」は「えんかく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -214,6 +238,8 @@ var QUESTIONS = [
     "explanation": "「概略」は「がいりゃく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -231,6 +257,8 @@ var QUESTIONS = [
     "explanation": "「余韻」は「よいん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -248,6 +276,8 @@ var QUESTIONS = [
     "explanation": "「享受」は「きょうじゅ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -265,6 +295,8 @@ var QUESTIONS = [
     "explanation": "「端緒」は「たんしょ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -282,6 +314,8 @@ var QUESTIONS = [
     "explanation": "「稚拙」は「ちせつ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -299,6 +333,8 @@ var QUESTIONS = [
     "explanation": "「脈絡」は「みゃくらく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -316,6 +352,8 @@ var QUESTIONS = [
     "explanation": "「是正」は「ぜせい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -333,6 +371,8 @@ var QUESTIONS = [
     "explanation": "「斬新」は「ざんしん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -350,6 +390,8 @@ var QUESTIONS = [
     "explanation": "「遵守」は「じゅんしゅ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -367,6 +409,8 @@ var QUESTIONS = [
     "explanation": "「汎用」は「はんよう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -384,6 +428,8 @@ var QUESTIONS = [
     "explanation": "「踏襲」は「とうしゅう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -401,6 +447,8 @@ var QUESTIONS = [
     "explanation": "「培養」は「ばいよう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -418,6 +466,8 @@ var QUESTIONS = [
     "explanation": "「網羅」は「もうら」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -435,6 +485,8 @@ var QUESTIONS = [
     "explanation": "「隔絶」は「かくぜつ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -452,6 +504,8 @@ var QUESTIONS = [
     "explanation": "「均衡」は「きんこう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -469,6 +523,8 @@ var QUESTIONS = [
     "explanation": "「抑揚」は「よくよう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -486,6 +542,8 @@ var QUESTIONS = [
     "explanation": "「旺盛」は「おうせい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -503,6 +561,8 @@ var QUESTIONS = [
     "explanation": "「逸脱」は「いつだつ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -520,6 +580,8 @@ var QUESTIONS = [
     "explanation": "「謙虚」は「けんきょ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -537,6 +599,8 @@ var QUESTIONS = [
     "explanation": "「端的」は「たんてき」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -554,6 +618,8 @@ var QUESTIONS = [
     "explanation": "「漠然」は「ばくぜん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -571,6 +637,8 @@ var QUESTIONS = [
     "explanation": "「顧慮」は「こりょ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -588,6 +656,8 @@ var QUESTIONS = [
     "explanation": "「寡黙」は「かもく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -605,6 +675,8 @@ var QUESTIONS = [
     "explanation": "「辛辣」は「しんらつ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -622,6 +694,8 @@ var QUESTIONS = [
     "explanation": "「緩慢」は「かんまん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -639,6 +713,8 @@ var QUESTIONS = [
     "explanation": "「克明」は「こくめい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -656,6 +732,8 @@ var QUESTIONS = [
     "explanation": "「看破」は「かんぱ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -673,6 +751,8 @@ var QUESTIONS = [
     "explanation": "「脅威」は「きょうい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -690,6 +770,8 @@ var QUESTIONS = [
     "explanation": "「斡旋」は「あっせん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -707,6 +789,8 @@ var QUESTIONS = [
     "explanation": "「隠蔽」は「いんぺい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -724,6 +808,8 @@ var QUESTIONS = [
     "explanation": "「畏敬」は「いけい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -741,6 +827,8 @@ var QUESTIONS = [
     "explanation": "「佳境」は「かきょう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -758,6 +846,8 @@ var QUESTIONS = [
     "explanation": "「過疎」は「かそ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -775,6 +865,8 @@ var QUESTIONS = [
     "explanation": "「瓦解」は「がかい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -792,6 +884,8 @@ var QUESTIONS = [
     "explanation": "「窮乏」は「きゅうぼう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -809,6 +903,8 @@ var QUESTIONS = [
     "explanation": "「勤勉」は「きんべん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -826,6 +922,8 @@ var QUESTIONS = [
     "explanation": "「契機」は「けいき」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -843,6 +941,8 @@ var QUESTIONS = [
     "explanation": "「孤高」は「ここう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -860,6 +960,8 @@ var QUESTIONS = [
     "explanation": "「傲慢」は「ごうまん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -877,6 +979,8 @@ var QUESTIONS = [
     "explanation": "「錯覚」は「さっかく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -894,6 +998,8 @@ var QUESTIONS = [
     "explanation": "「恣意」は「しい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -911,6 +1017,8 @@ var QUESTIONS = [
     "explanation": "「遮蔽」は「しゃへい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -928,6 +1036,8 @@ var QUESTIONS = [
     "explanation": "「充填」は「じゅうてん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -945,6 +1055,8 @@ var QUESTIONS = [
     "explanation": "「醜態」は「しゅうたい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -962,6 +1074,8 @@ var QUESTIONS = [
     "explanation": "「掌握」は「しょうあく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -979,6 +1093,8 @@ var QUESTIONS = [
     "explanation": "「慎重」は「しんちょう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -996,6 +1112,8 @@ var QUESTIONS = [
     "explanation": "「甚大」は「じんだい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -1013,6 +1131,8 @@ var QUESTIONS = [
     "explanation": "「すいこう」は「遂行」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "すいこう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1030,6 +1150,8 @@ var QUESTIONS = [
     "explanation": "「せいち」は「精緻」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "せいち",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1047,6 +1169,8 @@ var QUESTIONS = [
     "explanation": "「けんちょ」は「顕著」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "けんちょ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1064,6 +1188,8 @@ var QUESTIONS = [
     "explanation": "「ぜいじゃく」は「脆弱」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ぜいじゃく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1081,6 +1207,8 @@ var QUESTIONS = [
     "explanation": "「ゆうりょ」は「憂慮」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ゆうりょ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1098,6 +1226,8 @@ var QUESTIONS = [
     "explanation": "「じぜん」は「慈善」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "じぜん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1115,6 +1245,8 @@ var QUESTIONS = [
     "explanation": "「だとう」は「妥当」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "だとう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1132,6 +1264,8 @@ var QUESTIONS = [
     "explanation": "「こくふく」は「克服」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "こくふく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1149,6 +1283,8 @@ var QUESTIONS = [
     "explanation": "「こうけん」は「貢献」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "こうけん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1166,6 +1302,8 @@ var QUESTIONS = [
     "explanation": "「けねん」は「懸念」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "けねん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1183,6 +1321,8 @@ var QUESTIONS = [
     "explanation": "「もさく」は「模索」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "もさく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1200,6 +1340,8 @@ var QUESTIONS = [
     "explanation": "「えんかく」は「沿革」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "えんかく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1217,6 +1359,8 @@ var QUESTIONS = [
     "explanation": "「がいりゃく」は「概略」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "がいりゃく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1234,6 +1378,8 @@ var QUESTIONS = [
     "explanation": "「よいん」は「余韻」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "よいん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1251,6 +1397,8 @@ var QUESTIONS = [
     "explanation": "「きょうじゅ」は「享受」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きょうじゅ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1268,6 +1416,8 @@ var QUESTIONS = [
     "explanation": "「たんしょ」は「端緒」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "たんしょ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1285,6 +1435,8 @@ var QUESTIONS = [
     "explanation": "「ちせつ」は「稚拙」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ちせつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1302,6 +1454,8 @@ var QUESTIONS = [
     "explanation": "「みゃくらく」は「脈絡」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "みゃくらく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1319,6 +1473,8 @@ var QUESTIONS = [
     "explanation": "「ぜせい」は「是正」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ぜせい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1336,6 +1492,8 @@ var QUESTIONS = [
     "explanation": "「ざんしん」は「斬新」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ざんしん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1353,6 +1511,8 @@ var QUESTIONS = [
     "explanation": "「じゅんしゅ」は「遵守」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "じゅんしゅ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1370,6 +1530,8 @@ var QUESTIONS = [
     "explanation": "「はんよう」は「汎用」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "はんよう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1387,6 +1549,8 @@ var QUESTIONS = [
     "explanation": "「とうしゅう」は「踏襲」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "とうしゅう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1404,6 +1568,8 @@ var QUESTIONS = [
     "explanation": "「ばいよう」は「培養」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ばいよう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1421,6 +1587,8 @@ var QUESTIONS = [
     "explanation": "「もうら」は「網羅」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "もうら",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1438,6 +1606,8 @@ var QUESTIONS = [
     "explanation": "「かくぜつ」は「隔絶」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "かくぜつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1455,6 +1625,8 @@ var QUESTIONS = [
     "explanation": "「きんこう」は「均衡」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きんこう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1472,6 +1644,8 @@ var QUESTIONS = [
     "explanation": "「よくよう」は「抑揚」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "よくよう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1489,6 +1663,8 @@ var QUESTIONS = [
     "explanation": "「おうせい」は「旺盛」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "おうせい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1506,6 +1682,8 @@ var QUESTIONS = [
     "explanation": "「いつだつ」は「逸脱」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "いつだつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1523,6 +1701,8 @@ var QUESTIONS = [
     "explanation": "「けんきょ」は「謙虚」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "けんきょ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1540,6 +1720,8 @@ var QUESTIONS = [
     "explanation": "「たんてき」は「端的」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "たんてき",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1557,6 +1739,8 @@ var QUESTIONS = [
     "explanation": "「ばくぜん」は「漠然」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ばくぜん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1574,6 +1758,8 @@ var QUESTIONS = [
     "explanation": "「こりょ」は「顧慮」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "こりょ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1591,6 +1777,8 @@ var QUESTIONS = [
     "explanation": "「かもく」は「寡黙」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "かもく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1608,6 +1796,8 @@ var QUESTIONS = [
     "explanation": "「しんらつ」は「辛辣」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しんらつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1625,6 +1815,8 @@ var QUESTIONS = [
     "explanation": "「かんまん」は「緩慢」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "かんまん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1642,6 +1834,8 @@ var QUESTIONS = [
     "explanation": "「こくめい」は「克明」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "こくめい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1659,6 +1853,8 @@ var QUESTIONS = [
     "explanation": "「かんぱ」は「看破」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "かんぱ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1676,6 +1872,8 @@ var QUESTIONS = [
     "explanation": "「きょうい」は「脅威」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きょうい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1693,6 +1891,8 @@ var QUESTIONS = [
     "explanation": "「あっせん」は「斡旋」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "あっせん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1710,6 +1910,8 @@ var QUESTIONS = [
     "explanation": "「いんぺい」は「隠蔽」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "いんぺい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1727,6 +1929,8 @@ var QUESTIONS = [
     "explanation": "「いけい」は「畏敬」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "いけい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1744,6 +1948,8 @@ var QUESTIONS = [
     "explanation": "「かきょう」は「佳境」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "かきょう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1761,6 +1967,8 @@ var QUESTIONS = [
     "explanation": "「かそ」は「過疎」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "かそ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1778,6 +1986,8 @@ var QUESTIONS = [
     "explanation": "「がかい」は「瓦解」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "がかい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1795,6 +2005,8 @@ var QUESTIONS = [
     "explanation": "「きゅうぼう」は「窮乏」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きゅうぼう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1812,6 +2024,8 @@ var QUESTIONS = [
     "explanation": "「きんべん」は「勤勉」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きんべん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1829,6 +2043,8 @@ var QUESTIONS = [
     "explanation": "「けいき」は「契機」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "けいき",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1846,6 +2062,8 @@ var QUESTIONS = [
     "explanation": "「ここう」は「孤高」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ここう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1863,6 +2081,8 @@ var QUESTIONS = [
     "explanation": "「ごうまん」は「傲慢」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ごうまん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1880,6 +2100,8 @@ var QUESTIONS = [
     "explanation": "「さっかく」は「錯覚」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "さっかく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1897,6 +2119,8 @@ var QUESTIONS = [
     "explanation": "「しい」は「恣意」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1914,6 +2138,8 @@ var QUESTIONS = [
     "explanation": "「しゃへい」は「遮蔽」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しゃへい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1931,6 +2157,8 @@ var QUESTIONS = [
     "explanation": "「じゅうてん」は「充填」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "じゅうてん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1948,6 +2176,8 @@ var QUESTIONS = [
     "explanation": "「しゅうたい」は「醜態」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しゅうたい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1965,6 +2195,8 @@ var QUESTIONS = [
     "explanation": "「しょうあく」は「掌握」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しょうあく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1982,6 +2214,8 @@ var QUESTIONS = [
     "explanation": "「しんちょう」は「慎重」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しんちょう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -1999,6 +2233,8 @@ var QUESTIONS = [
     "explanation": "「じんだい」は「甚大」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "じんだい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -2021,6 +2257,8 @@ var QUESTIONS = [
       "宇宙に存在するすべてのもの、あらゆる現象。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2043,6 +2281,8 @@ var QUESTIONS = [
       "大人物は若いうちは目立たなくても、時間をかけて大成すること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2065,6 +2305,8 @@ var QUESTIONS = [
       "最初に心に決めた志を、最後まで貫き通すこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2087,6 +2329,8 @@ var QUESTIONS = [
       "その場の状況の変化に応じて、適切な対応をすること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2109,6 +2353,8 @@ var QUESTIONS = [
       "文句や言い訳を言わず、黙ってやるべきことを実行すること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2131,6 +2377,8 @@ var QUESTIONS = [
       "準備が行き届いていて、抜かりがないこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2153,6 +2401,8 @@ var QUESTIONS = [
       "目的のために、あちこち忙しく走り回ること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2175,6 +2425,8 @@ var QUESTIONS = [
       "自分に都合のよいように、物事を言ったり行ったりすること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2197,6 +2449,8 @@ var QUESTIONS = [
       "互いの気持ちや考えがぴったり合うこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2219,6 +2473,8 @@ var QUESTIONS = [
       "一生に一度だけの出会いだと心得て、その機会を大切にすること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2241,6 +2497,8 @@ var QUESTIONS = [
       "めったに巡り会えないほどの、またとない好機。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2263,6 +2521,8 @@ var QUESTIONS = [
       "あまりにひどくて、言葉で言い表せないほどであること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2285,6 +2545,8 @@ var QUESTIONS = [
       "一つの行為で、同時に二つの利益を得ること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2307,6 +2569,8 @@ var QUESTIONS = [
       "これまで一度も聞いたことがないほど、珍しい出来事であること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2329,6 +2593,8 @@ var QUESTIONS = [
       "危機的な状態を一気に立て直し、勢いを取り戻すこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2351,6 +2617,8 @@ var QUESTIONS = [
       "手掛かりがないまま、さまざまな方法を試して探し求めること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2373,6 +2641,8 @@ var QUESTIONS = [
       "ごく短い期間。わずかな時間。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2395,6 +2665,8 @@ var QUESTIONS = [
       "何が起きても落ち着いていて、少しも動じないさま。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2417,6 +2689,8 @@ var QUESTIONS = [
       "社会の一般的な秩序と、健全な道徳観念。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2439,6 +2713,8 @@ var QUESTIONS = [
       "自分で自分の行いや作品を褒めること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2461,6 +2737,8 @@ var QUESTIONS = [
       "細かな違いはあっても、全体としてはほとんど同じであること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2483,6 +2761,8 @@ var QUESTIONS = [
       "前置きをせず、すぐに本題へ入ること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2505,6 +2785,8 @@ var QUESTIONS = [
       "半分は信じ、半分は疑っている状態。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2527,6 +2809,8 @@ var QUESTIONS = [
       "少し触れただけで爆発しそうな、非常に緊迫した状態。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2549,6 +2833,8 @@ var QUESTIONS = [
       "言葉にしなくても、互いの気持ちが通じ合うこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -2566,6 +2852,8 @@ var QUESTIONS = [
     "explanation": "「承諾」⇔「拒絶」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きょぜつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2583,6 +2871,8 @@ var QUESTIONS = [
     "explanation": "「簡素」⇔「華美」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "かび",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2600,6 +2890,8 @@ var QUESTIONS = [
     "explanation": "「進歩」⇔「退歩」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "たいほ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2617,6 +2909,8 @@ var QUESTIONS = [
     "explanation": "「需要」⇔「供給」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きょうきゅう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2634,6 +2928,8 @@ var QUESTIONS = [
     "explanation": "「楽観」⇔「悲観」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ひかん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2651,6 +2947,8 @@ var QUESTIONS = [
     "explanation": "「具体」⇔「抽象」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ちゅうしょう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2668,6 +2966,8 @@ var QUESTIONS = [
     "explanation": "「合法」⇔「違法」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "いほう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2685,6 +2985,8 @@ var QUESTIONS = [
     "explanation": "「謙虚」⇔「傲慢」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ごうまん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2702,6 +3004,8 @@ var QUESTIONS = [
     "explanation": "「緊張」⇔「弛緩」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しかん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2719,6 +3023,8 @@ var QUESTIONS = [
     "explanation": "「肯定」⇔「否定」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ひてい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2736,6 +3042,8 @@ var QUESTIONS = [
     "explanation": "「保守」⇔「革新」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "かくしん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2753,6 +3061,8 @@ var QUESTIONS = [
     "explanation": "「理想」⇔「現実」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "げんじつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2773,6 +3083,8 @@ var QUESTIONS = [
       "拙劣",
       "稚拙"
     ],
+    "answerReading": "せつれつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2793,6 +3105,8 @@ var QUESTIONS = [
       "希薄",
       "淡泊"
     ],
+    "answerReading": "きはく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2810,6 +3124,8 @@ var QUESTIONS = [
     "explanation": "「攻撃」⇔「防御」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ぼうぎょ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -2827,6 +3143,8 @@ var QUESTIONS = [
     "explanation": "「進歩」≒「発展」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "はってん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2844,6 +3162,8 @@ var QUESTIONS = [
     "explanation": "「了承」≒「承知」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しょうち",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2861,6 +3181,8 @@ var QUESTIONS = [
     "explanation": "「熟考」≒「熟慮」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "じゅくりょ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2878,6 +3200,8 @@ var QUESTIONS = [
     "explanation": "「突然」≒「不意」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ふい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2895,6 +3219,8 @@ var QUESTIONS = [
     "explanation": "「手段」≒「方法」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ほうほう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2912,6 +3238,8 @@ var QUESTIONS = [
     "explanation": "「落胆」≒「失望」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しつぼう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2929,6 +3257,8 @@ var QUESTIONS = [
     "explanation": "「覚悟」≒「決意」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "けつい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2946,6 +3276,8 @@ var QUESTIONS = [
     "explanation": "「冷静」≒「沈着」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ちんちゃく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2963,6 +3295,8 @@ var QUESTIONS = [
     "explanation": "「倹約」≒「節約」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "せつやく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -2980,6 +3314,8 @@ var QUESTIONS = [
     "explanation": "「懸念」≒「憂慮」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ゆうりょ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -3002,6 +3338,8 @@ var QUESTIONS = [
       "てへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3024,6 +3362,8 @@ var QUESTIONS = [
       "ぎょうにんべん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3046,6 +3386,8 @@ var QUESTIONS = [
       "おおざと"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3068,6 +3410,8 @@ var QUESTIONS = [
       "りっとう"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3090,6 +3434,8 @@ var QUESTIONS = [
       "にんべん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3112,6 +3458,8 @@ var QUESTIONS = [
       "くちへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3134,6 +3482,8 @@ var QUESTIONS = [
       "にちへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3156,6 +3506,8 @@ var QUESTIONS = [
       "うかんむり"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3178,6 +3530,8 @@ var QUESTIONS = [
       "こざとへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3200,6 +3554,8 @@ var QUESTIONS = [
       "げつへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3222,6 +3578,8 @@ var QUESTIONS = [
       "かたへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3244,6 +3602,8 @@ var QUESTIONS = [
       "いとへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3266,6 +3626,8 @@ var QUESTIONS = [
       "いとへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3288,6 +3650,8 @@ var QUESTIONS = [
       "とめへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3310,6 +3674,8 @@ var QUESTIONS = [
       "さんずい"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3332,6 +3698,8 @@ var QUESTIONS = [
       "ひへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3354,6 +3722,8 @@ var QUESTIONS = [
       "てへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3376,6 +3746,8 @@ var QUESTIONS = [
       "つちへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3398,6 +3770,8 @@ var QUESTIONS = [
       "おおがい"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3420,6 +3794,8 @@ var QUESTIONS = [
       "かたへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -3442,6 +3818,8 @@ var QUESTIONS = [
       "上の字が下の字を修飾する"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3464,6 +3842,8 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3486,6 +3866,8 @@ var QUESTIONS = [
       "同じような意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3508,6 +3890,8 @@ var QUESTIONS = [
       "主語・述語の関係にある"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3530,6 +3914,8 @@ var QUESTIONS = [
       "上の字が下の字を修飾する"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3552,6 +3938,8 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3574,6 +3962,8 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3596,6 +3986,8 @@ var QUESTIONS = [
       "主語・述語の関係にある"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3618,6 +4010,8 @@ var QUESTIONS = [
       "上の字が下の字を修飾する"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3640,6 +4034,8 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3662,6 +4058,8 @@ var QUESTIONS = [
       "同じような意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3684,6 +4082,8 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3706,6 +4106,8 @@ var QUESTIONS = [
       "主語・述語の関係にある"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3728,6 +4130,8 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3750,6 +4154,8 @@ var QUESTIONS = [
       "同じような意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3772,6 +4178,8 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3794,6 +4202,8 @@ var QUESTIONS = [
       "主語・述語の関係にある"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3816,6 +4226,8 @@ var QUESTIONS = [
       "上の字が下の字を修飾する"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3838,6 +4250,8 @@ var QUESTIONS = [
       "同じような意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3860,6 +4274,8 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -3886,6 +4302,12 @@ var QUESTIONS = [
       "対称を対象に訂正",
       "対象"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "対称",
+      "correctWord": "対象",
+      "correctReading": "たいしょう"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3912,6 +4334,12 @@ var QUESTIONS = [
       "意義を異議に訂正",
       "異議"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "意義",
+      "correctWord": "異議",
+      "correctReading": "いぎ"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3938,6 +4366,12 @@ var QUESTIONS = [
       "関心を感心に訂正",
       "感心"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "関心",
+      "correctWord": "感心",
+      "correctReading": "かんしん"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3964,6 +4398,12 @@ var QUESTIONS = [
       "保証を保障に訂正",
       "保障"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "保証",
+      "correctWord": "保障",
+      "correctReading": "ほしょう"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -3990,6 +4430,12 @@ var QUESTIONS = [
       "解放を開放に訂正",
       "開放"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "解放",
+      "correctWord": "開放",
+      "correctReading": "かいほう"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -4016,6 +4462,12 @@ var QUESTIONS = [
       "清算を精算に訂正",
       "精算"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "清算",
+      "correctWord": "精算",
+      "correctReading": "せいさん"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -4042,6 +4494,12 @@ var QUESTIONS = [
       "収集を収拾に訂正",
       "収拾"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "収集",
+      "correctWord": "収拾",
+      "correctReading": "しゅうしゅう"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -4068,6 +4526,12 @@ var QUESTIONS = [
       "追求を追究に訂正",
       "追究"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "追求",
+      "correctWord": "追究",
+      "correctReading": "ついきゅう"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -4094,6 +4558,12 @@ var QUESTIONS = [
       "以外を意外に訂正",
       "意外"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "以外",
+      "correctWord": "意外",
+      "correctReading": "いがい"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -4120,6 +4590,12 @@ var QUESTIONS = [
       "不審を不振に訂正",
       "不振"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "不審",
+      "correctWord": "不振",
+      "correctReading": "ふしん"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -4146,6 +4622,12 @@ var QUESTIONS = [
       "更正を更生に訂正",
       "更生"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "更正",
+      "correctWord": "更生",
+      "correctReading": "こうせい"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -4172,6 +4654,12 @@ var QUESTIONS = [
       "既成を既製に訂正",
       "既製"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "既成",
+      "correctWord": "既製",
+      "correctReading": "きせい"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -4198,6 +4686,12 @@ var QUESTIONS = [
       "体制を態勢に訂正",
       "態勢"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "体制",
+      "correctWord": "態勢",
+      "correctReading": "たいせい"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -4224,6 +4718,12 @@ var QUESTIONS = [
       "移動を異動に訂正",
       "異動"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "移動",
+      "correctWord": "異動",
+      "correctReading": "いどう"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -4250,6 +4750,12 @@ var QUESTIONS = [
       "公演を後援に訂正",
       "後援"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "公演",
+      "correctWord": "後援",
+      "correctReading": "こうえん"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -4267,6 +4773,8 @@ var QUESTIONS = [
     "explanation": "「漸次」は「ぜんじ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4284,6 +4792,8 @@ var QUESTIONS = [
     "explanation": "「ぜんじ」は「漸次」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ぜんじ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4301,6 +4811,8 @@ var QUESTIONS = [
     "explanation": "「躍如」は「やくじょ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4318,6 +4830,8 @@ var QUESTIONS = [
     "explanation": "「やくじょ」は「躍如」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "やくじょ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4335,6 +4849,8 @@ var QUESTIONS = [
     "explanation": "「払拭」は「ふっしょく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4352,6 +4868,8 @@ var QUESTIONS = [
     "explanation": "「ふっしょく」は「払拭」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ふっしょく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4369,6 +4887,8 @@ var QUESTIONS = [
     "explanation": "「凡庸」は「ぼんよう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4386,6 +4906,8 @@ var QUESTIONS = [
     "explanation": "「ぼんよう」は「凡庸」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ぼんよう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4403,6 +4925,8 @@ var QUESTIONS = [
     "explanation": "「緻密」は「ちみつ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4420,6 +4944,8 @@ var QUESTIONS = [
     "explanation": "「ちみつ」は「緻密」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ちみつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4437,6 +4963,8 @@ var QUESTIONS = [
     "explanation": "「逡巡」は「しゅんじゅん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4454,6 +4982,8 @@ var QUESTIONS = [
     "explanation": "「しゅんじゅん」は「逡巡」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しゅんじゅん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4471,6 +5001,8 @@ var QUESTIONS = [
     "explanation": "「殊勝」は「しゅしょう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4488,6 +5020,8 @@ var QUESTIONS = [
     "explanation": "「しゅしょう」は「殊勝」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しゅしょう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4505,6 +5039,8 @@ var QUESTIONS = [
     "explanation": "「煩雑」は「はんざつ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4522,6 +5058,8 @@ var QUESTIONS = [
     "explanation": "「はんざつ」は「煩雑」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "はんざつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4539,6 +5077,8 @@ var QUESTIONS = [
     "explanation": "「謹慎」は「きんしん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4556,6 +5096,8 @@ var QUESTIONS = [
     "explanation": "「きんしん」は「謹慎」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きんしん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4573,6 +5115,8 @@ var QUESTIONS = [
     "explanation": "「漂泊」は「ひょうはく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -4590,6 +5134,8 @@ var QUESTIONS = [
     "explanation": "「ひょうはく」は「漂泊」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ひょうはく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -4612,6 +5158,8 @@ var QUESTIONS = [
       "過去の行いに応じた報いが現れること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -4634,6 +5182,8 @@ var QUESTIONS = [
       "長い経験を積み、世の中の裏表を知り尽くしていること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -4656,6 +5206,8 @@ var QUESTIONS = [
       "心意気や構想が非常に大きく立派なこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -4678,6 +5230,8 @@ var QUESTIONS = [
       "優れたものと劣ったものが入り交じっていること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -4700,6 +5254,8 @@ var QUESTIONS = [
       "先入観を持たず、素直で落ち着いた心で物事に臨むこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -4722,6 +5278,8 @@ var QUESTIONS = [
       "仲の悪い者同士が、共通の困難に対して協力すること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -4739,6 +5297,8 @@ var QUESTIONS = [
     "explanation": "「隆盛」⇔「衰退」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "すいたい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -4756,6 +5316,8 @@ var QUESTIONS = [
     "explanation": "「栄誉」⇔「恥辱」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ちじょく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -4773,6 +5335,8 @@ var QUESTIONS = [
     "explanation": "「原因」⇔「結果」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "けっか",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -4790,6 +5354,8 @@ var QUESTIONS = [
     "explanation": "「勤勉」⇔「怠惰」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "たいだ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -4807,6 +5373,8 @@ var QUESTIONS = [
     "explanation": "「援助」≒「支援」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しえん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -4824,6 +5392,8 @@ var QUESTIONS = [
     "explanation": "「企図」≒「計画」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "けいかく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -4841,6 +5411,8 @@ var QUESTIONS = [
     "explanation": "「模範」≒「手本」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "てほん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -4858,6 +5430,8 @@ var QUESTIONS = [
     "explanation": "「変遷」≒「推移」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "すいい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -4880,6 +5454,8 @@ var QUESTIONS = [
       "しめすへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -4902,6 +5478,8 @@ var QUESTIONS = [
       "さんずい"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -4924,6 +5502,8 @@ var QUESTIONS = [
       "のぎへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -4946,6 +5526,8 @@ var QUESTIONS = [
       "ごんべん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -4968,6 +5550,8 @@ var QUESTIONS = [
       "上の字が下の字を修飾する"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -4990,6 +5574,8 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -5012,6 +5598,8 @@ var QUESTIONS = [
       "同じような意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -5034,6 +5622,8 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -5056,6 +5646,8 @@ var QUESTIONS = [
       "上の字が下の字を修飾する"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -5078,6 +5670,8 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -5100,6 +5694,8 @@ var QUESTIONS = [
       "同じような意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -5122,6 +5718,8 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -5148,6 +5746,12 @@ var QUESTIONS = [
       "摘要を適用に訂正",
       "適用"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "摘要",
+      "correctWord": "適用",
+      "correctReading": "てきよう"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -5174,6 +5778,12 @@ var QUESTIONS = [
       "捕捉を補足に訂正",
       "補足"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "捕捉",
+      "correctWord": "補足",
+      "correctReading": "ほそく"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -5200,6 +5810,12 @@ var QUESTIONS = [
       "製作を制作に訂正",
       "制作"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "製作",
+      "correctWord": "制作",
+      "correctReading": "せいさく"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -5226,6 +5842,12 @@ var QUESTIONS = [
       "裁決を採決に訂正",
       "採決"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "裁決",
+      "correctWord": "採決",
+      "correctReading": "さいけつ"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -5243,6 +5865,8 @@ var QUESTIONS = [
     "explanation": "「逐次」は「ちくじ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5260,6 +5884,8 @@ var QUESTIONS = [
     "explanation": "「ちくじ」は「逐次」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ちくじ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5277,6 +5903,8 @@ var QUESTIONS = [
     "explanation": "「罷免」は「ひめん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5294,6 +5922,8 @@ var QUESTIONS = [
     "explanation": "「ひめん」は「罷免」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ひめん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5311,6 +5941,8 @@ var QUESTIONS = [
     "explanation": "「漸進」は「ぜんしん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5328,6 +5960,8 @@ var QUESTIONS = [
     "explanation": "「ぜんしん」は「漸進」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ぜんしん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5345,6 +5979,8 @@ var QUESTIONS = [
     "explanation": "「遡及」は「そきゅう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5362,6 +5998,8 @@ var QUESTIONS = [
     "explanation": "「そきゅう」は「遡及」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "そきゅう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5379,6 +6017,8 @@ var QUESTIONS = [
     "explanation": "「恭順」は「きょうじゅん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5396,6 +6036,8 @@ var QUESTIONS = [
     "explanation": "「きょうじゅん」は「恭順」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きょうじゅん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5413,6 +6055,8 @@ var QUESTIONS = [
     "explanation": "「踏破」は「とうは」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5430,6 +6074,8 @@ var QUESTIONS = [
     "explanation": "「とうは」は「踏破」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "とうは",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5447,6 +6093,8 @@ var QUESTIONS = [
     "explanation": "「逓減」は「ていげん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5464,6 +6112,8 @@ var QUESTIONS = [
     "explanation": "「ていげん」は「逓減」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ていげん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5481,6 +6131,8 @@ var QUESTIONS = [
     "explanation": "「陳腐」は「ちんぷ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5498,6 +6150,8 @@ var QUESTIONS = [
     "explanation": "「ちんぷ」は「陳腐」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ちんぷ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5515,6 +6169,8 @@ var QUESTIONS = [
     "explanation": "「洞察」は「どうさつ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5532,6 +6188,8 @@ var QUESTIONS = [
     "explanation": "「どうさつ」は「洞察」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "どうさつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5549,6 +6207,8 @@ var QUESTIONS = [
     "explanation": "「奔放」は「ほんぽう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5566,6 +6226,8 @@ var QUESTIONS = [
     "explanation": "「ほんぽう」は「奔放」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ほんぽう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5583,6 +6245,8 @@ var QUESTIONS = [
     "explanation": "「矯正」は「きょうせい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5600,6 +6264,8 @@ var QUESTIONS = [
     "explanation": "「きょうせい」は「矯正」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きょうせい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5617,6 +6283,8 @@ var QUESTIONS = [
     "explanation": "「弾劾」は「だんがい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5634,6 +6302,8 @@ var QUESTIONS = [
     "explanation": "「だんがい」は「弾劾」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "だんがい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5651,6 +6321,8 @@ var QUESTIONS = [
     "explanation": "「堅牢」は「けんろう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5668,6 +6340,8 @@ var QUESTIONS = [
     "explanation": "「けんろう」は「堅牢」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "けんろう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5685,6 +6359,8 @@ var QUESTIONS = [
     "explanation": "「酷似」は「こくじ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5702,6 +6378,8 @@ var QUESTIONS = [
     "explanation": "「こくじ」は「酷似」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "こくじ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5719,6 +6397,8 @@ var QUESTIONS = [
     "explanation": "「諮問」は「しもん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -5736,6 +6416,8 @@ var QUESTIONS = [
     "explanation": "「しもん」は「諮問」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しもん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -5758,6 +6440,8 @@ var QUESTIONS = [
       "厚かましく、恥を恥とも思わないこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -5780,6 +6464,8 @@ var QUESTIONS = [
       "小さなことを大げさに言うこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -5802,6 +6488,8 @@ var QUESTIONS = [
       "結果がどうなっても、仲間と行動や運命を共にすること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -5824,6 +6512,8 @@ var QUESTIONS = [
       "あとわずかで危険な事態になる、きわどい状態。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -5846,6 +6536,8 @@ var QUESTIONS = [
       "初めから終わりまで、方針や態度が変わらないこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -5863,6 +6555,8 @@ var QUESTIONS = [
     "explanation": "「暫定」⇔「確定」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "かくてい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -5880,6 +6574,8 @@ var QUESTIONS = [
     "explanation": "「散漫」⇔「集中」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しゅうちゅう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -5897,6 +6593,8 @@ var QUESTIONS = [
     "explanation": "「浪費」⇔「節約」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "せつやく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -5914,6 +6612,8 @@ var QUESTIONS = [
     "explanation": "「複雑」⇔「単純」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "たんじゅん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -5931,6 +6631,8 @@ var QUESTIONS = [
     "explanation": "「介抱」≒「看護」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "かんご",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -5948,6 +6650,8 @@ var QUESTIONS = [
     "explanation": "「顕著」≒「明白」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "めいはく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -5965,6 +6669,8 @@ var QUESTIONS = [
     "explanation": "「包括」≒「包含」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ほうがん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -5982,6 +6688,8 @@ var QUESTIONS = [
     "explanation": "「補佐」≒「助力」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "じょりょく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -6004,6 +6712,8 @@ var QUESTIONS = [
       "にんべん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -6026,6 +6736,8 @@ var QUESTIONS = [
       "おおがい"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -6048,6 +6760,8 @@ var QUESTIONS = [
       "さんずい"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -6070,6 +6784,8 @@ var QUESTIONS = [
       "きへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -6092,6 +6808,8 @@ var QUESTIONS = [
       "むにょう"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -6114,6 +6832,8 @@ var QUESTIONS = [
       "上の字が下の字を修飾する"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -6136,6 +6856,8 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -6158,6 +6880,8 @@ var QUESTIONS = [
       "同じような意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -6180,6 +6904,8 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -6202,6 +6928,8 @@ var QUESTIONS = [
       "上の字が下の字を修飾する"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -6228,6 +6956,12 @@ var QUESTIONS = [
       "収めを納めに訂正",
       "納め"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "収め",
+      "correctWord": "納め",
+      "correctReading": "おさめ"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -6254,6 +6988,12 @@ var QUESTIONS = [
       "公演を講演に訂正",
       "講演"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "公演",
+      "correctWord": "講演",
+      "correctReading": "こうえん"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -6280,6 +7020,12 @@ var QUESTIONS = [
       "捕らえを捉えに訂正",
       "捉え"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "捕らえ",
+      "correctWord": "捉え",
+      "correctReading": "とらえ"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -6306,6 +7052,12 @@ var QUESTIONS = [
       "追求を追及に訂正",
       "追及"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "追求",
+      "correctWord": "追及",
+      "correctReading": "ついきゅう"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -6332,6 +7084,12 @@ var QUESTIONS = [
       "制作を製作に訂正",
       "製作"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "制作",
+      "correctWord": "製作",
+      "correctReading": "せいさく"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -6349,6 +7107,8 @@ var QUESTIONS = [
     "explanation": "「曖昧」は「あいまい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6366,6 +7126,8 @@ var QUESTIONS = [
     "explanation": "「あいまい」は「曖昧」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "あいまい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6383,6 +7145,8 @@ var QUESTIONS = [
     "explanation": "「萎縮」は「いしゅく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6400,6 +7164,8 @@ var QUESTIONS = [
     "explanation": "「いしゅく」は「萎縮」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "いしゅく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6417,6 +7183,8 @@ var QUESTIONS = [
     "explanation": "「隠匿」は「いんとく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6434,6 +7202,8 @@ var QUESTIONS = [
     "explanation": "「いんとく」は「隠匿」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "いんとく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6451,6 +7221,8 @@ var QUESTIONS = [
     "explanation": "「感銘」は「かんめい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6468,6 +7240,8 @@ var QUESTIONS = [
     "explanation": "「かんめい」は「感銘」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "かんめい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6485,6 +7259,8 @@ var QUESTIONS = [
     "explanation": "「規範」は「きはん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6502,6 +7278,8 @@ var QUESTIONS = [
     "explanation": "「きはん」は「規範」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きはん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6519,6 +7297,8 @@ var QUESTIONS = [
     "explanation": "「欺瞞」は「ぎまん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6536,6 +7316,8 @@ var QUESTIONS = [
     "explanation": "「ぎまん」は「欺瞞」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ぎまん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6553,6 +7335,8 @@ var QUESTIONS = [
     "explanation": "「糾弾」は「きゅうだん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6570,6 +7354,8 @@ var QUESTIONS = [
     "explanation": "「きゅうだん」は「糾弾」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きゅうだん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6587,6 +7373,8 @@ var QUESTIONS = [
     "explanation": "「享楽」は「きょうらく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6604,6 +7392,8 @@ var QUESTIONS = [
     "explanation": "「きょうらく」は「享楽」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きょうらく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6621,6 +7411,8 @@ var QUESTIONS = [
     "explanation": "「凝縮」は「ぎょうしゅく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6638,6 +7430,8 @@ var QUESTIONS = [
     "explanation": "「ぎょうしゅく」は「凝縮」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ぎょうしゅく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6655,6 +7449,8 @@ var QUESTIONS = [
     "explanation": "「均整」は「きんせい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6672,6 +7468,8 @@ var QUESTIONS = [
     "explanation": "「きんせい」は「均整」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きんせい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6689,6 +7487,8 @@ var QUESTIONS = [
     "explanation": "「啓発」は「けいはつ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6706,6 +7506,8 @@ var QUESTIONS = [
     "explanation": "「けいはつ」は「啓発」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "けいはつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6723,6 +7525,8 @@ var QUESTIONS = [
     "explanation": "「懇請」は「こんせい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6740,6 +7544,8 @@ var QUESTIONS = [
     "explanation": "「こんせい」は「懇請」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "こんせい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6757,6 +7563,8 @@ var QUESTIONS = [
     "explanation": "「査閲」は「さえつ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6774,6 +7582,8 @@ var QUESTIONS = [
     "explanation": "「さえつ」は「査閲」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "さえつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6791,6 +7601,8 @@ var QUESTIONS = [
     "explanation": "「示唆」は「しさ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6808,6 +7620,8 @@ var QUESTIONS = [
     "explanation": "「しさ」は「示唆」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しさ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6825,6 +7639,8 @@ var QUESTIONS = [
     "explanation": "「執拗」は「しつよう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6842,6 +7658,8 @@ var QUESTIONS = [
     "explanation": "「しつよう」は「執拗」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しつよう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6859,6 +7677,8 @@ var QUESTIONS = [
     "explanation": "「精巧」は「せいこう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6876,6 +7696,8 @@ var QUESTIONS = [
     "explanation": "「せいこう」は「精巧」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "せいこう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6893,6 +7715,8 @@ var QUESTIONS = [
     "explanation": "「折衷」は「せっちゅう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6910,6 +7734,8 @@ var QUESTIONS = [
     "explanation": "「せっちゅう」は「折衷」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "せっちゅう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6927,6 +7753,8 @@ var QUESTIONS = [
     "explanation": "「壮絶」は「そうぜつ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6944,6 +7772,8 @@ var QUESTIONS = [
     "explanation": "「そうぜつ」は「壮絶」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "そうぜつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6961,6 +7791,8 @@ var QUESTIONS = [
     "explanation": "「泰斗」は「たいと」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -6978,6 +7810,8 @@ var QUESTIONS = [
     "explanation": "「たいと」は「泰斗」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "たいと",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -6995,6 +7829,8 @@ var QUESTIONS = [
     "explanation": "「堆積」は「たいせき」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7012,6 +7848,8 @@ var QUESTIONS = [
     "explanation": "「たいせき」は「堆積」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "たいせき",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7029,6 +7867,8 @@ var QUESTIONS = [
     "explanation": "「提携」は「ていけい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7046,6 +7886,8 @@ var QUESTIONS = [
     "explanation": "「ていけい」は「提携」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ていけい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7063,6 +7905,8 @@ var QUESTIONS = [
     "explanation": "「排斥」は「はいせき」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7080,6 +7924,8 @@ var QUESTIONS = [
     "explanation": "「はいせき」は「排斥」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "はいせき",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7097,6 +7943,8 @@ var QUESTIONS = [
     "explanation": "「頒布」は「はんぷ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7114,6 +7962,8 @@ var QUESTIONS = [
     "explanation": "「はんぷ」は「頒布」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "はんぷ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7131,6 +7981,8 @@ var QUESTIONS = [
     "explanation": "「風貌」は「ふうぼう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7148,6 +8000,8 @@ var QUESTIONS = [
     "explanation": "「ふうぼう」は「風貌」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ふうぼう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7165,6 +8019,8 @@ var QUESTIONS = [
     "explanation": "「偏狭」は「へんきょう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7182,6 +8038,8 @@ var QUESTIONS = [
     "explanation": "「へんきょう」は「偏狭」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "へんきょう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7199,6 +8057,8 @@ var QUESTIONS = [
     "explanation": "「包摂」は「ほうせつ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7216,6 +8076,8 @@ var QUESTIONS = [
     "explanation": "「ほうせつ」は「包摂」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ほうせつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7233,6 +8095,8 @@ var QUESTIONS = [
     "explanation": "「妄想」は「もうそう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7250,6 +8114,8 @@ var QUESTIONS = [
     "explanation": "「もうそう」は「妄想」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "もうそう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7267,6 +8133,8 @@ var QUESTIONS = [
     "explanation": "「融通」は「ゆうずう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7284,6 +8152,8 @@ var QUESTIONS = [
     "explanation": "「ゆうずう」は「融通」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ゆうずう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7301,6 +8171,8 @@ var QUESTIONS = [
     "explanation": "「抑制」は「よくせい」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7318,6 +8190,8 @@ var QUESTIONS = [
     "explanation": "「よくせい」は「抑制」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "よくせい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7335,6 +8209,8 @@ var QUESTIONS = [
     "explanation": "「濫用」は「らんよう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -7352,6 +8228,8 @@ var QUESTIONS = [
     "explanation": "「らんよう」は「濫用」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "らんよう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -7374,6 +8252,8 @@ var QUESTIONS = [
       "晴れた日は畑を耕し、雨の日は読書をする悠々自適な生活。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -7396,6 +8276,8 @@ var QUESTIONS = [
       "その場に応じて、素早く気の利いた対応をすること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -7418,6 +8300,8 @@ var QUESTIONS = [
       "昔のことを学び、そこから新しい知識や道理を見いだすこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -7440,6 +8324,8 @@ var QUESTIONS = [
       "目的を成し遂げるために、長い間苦労や苦難に耐え忍ぶこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -7462,6 +8348,8 @@ var QUESTIONS = [
       "心を一つのことだけに集中し、ひたむきに励むこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -7484,6 +8372,8 @@ var QUESTIONS = [
       "互いに競い合い励まし合って、学問や技芸を磨き合うこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -7506,6 +8396,8 @@ var QUESTIONS = [
       "稲妻や火花のように、動作や行動が非常にすばやいこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -7528,6 +8420,8 @@ var QUESTIONS = [
       "性格が穏やかで人情に厚く、誠実であること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -7550,6 +8444,8 @@ var QUESTIONS = [
       "物事を完成させる最後の仕上げ。「画竜点睛を欠く」で仕上げの一番大事な部分が抜けていることを表す。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -7572,6 +8468,8 @@ var QUESTIONS = [
       "私心がなく、誰から見ても公平で正しいこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -7589,6 +8487,8 @@ var QUESTIONS = [
     "explanation": "「拡散」⇔「収束」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しゅうそく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -7606,6 +8506,8 @@ var QUESTIONS = [
     "explanation": "「慎重」⇔「軽率」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "けいそつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -7623,6 +8525,8 @@ var QUESTIONS = [
     "explanation": "「寛容」⇔「偏狭」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "へんきょう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -7640,6 +8544,8 @@ var QUESTIONS = [
     "explanation": "「膨張」⇔「収縮」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しゅうしゅく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -7657,6 +8563,8 @@ var QUESTIONS = [
     "explanation": "「秩序」⇔「混乱」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "こんらん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -7674,6 +8582,8 @@ var QUESTIONS = [
     "explanation": "「簡潔」≒「簡明」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "かんめい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -7691,6 +8601,8 @@ var QUESTIONS = [
     "explanation": "「堅固」≒「堅牢」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "けんろう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -7708,6 +8620,8 @@ var QUESTIONS = [
     "explanation": "「抑制」≒「制御」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "せいぎょ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -7725,6 +8639,8 @@ var QUESTIONS = [
     "explanation": "「変革」≒「改革」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "かいかく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -7742,6 +8658,8 @@ var QUESTIONS = [
     "explanation": "「妥協」≒「譲歩」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "じょうほ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -7764,6 +8682,8 @@ var QUESTIONS = [
       "ひとあし"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -7786,6 +8706,8 @@ var QUESTIONS = [
       "りっとう"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -7808,6 +8730,8 @@ var QUESTIONS = [
       "かいへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -7830,6 +8754,8 @@ var QUESTIONS = [
       "いとへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -7852,6 +8778,8 @@ var QUESTIONS = [
       "おおがい"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -7874,6 +8802,8 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -7896,6 +8826,8 @@ var QUESTIONS = [
       "同じような意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -7918,6 +8850,8 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -7940,6 +8874,8 @@ var QUESTIONS = [
       "上の字が下の字を修飾する"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -7962,6 +8898,8 @@ var QUESTIONS = [
       "下の字が上の字の目的語・補語になる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -7984,6 +8922,8 @@ var QUESTIONS = [
       "同じような意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -8006,6 +8946,8 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -8028,6 +8970,8 @@ var QUESTIONS = [
       "主語・述語の関係にある"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -8050,6 +8994,8 @@ var QUESTIONS = [
       "上の字が下の字を修飾する"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -8072,6 +9018,8 @@ var QUESTIONS = [
       "同じような意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -8098,6 +9046,12 @@ var QUESTIONS = [
       "対象を対照に訂正",
       "対照"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "対象",
+      "correctWord": "対照",
+      "correctReading": "たいしょう"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -8124,6 +9078,12 @@ var QUESTIONS = [
       "行程を工程に訂正",
       "工程"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "行程",
+      "correctWord": "工程",
+      "correctReading": "こうてい"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -8150,6 +9110,12 @@ var QUESTIONS = [
       "工程を行程に訂正",
       "行程"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "工程",
+      "correctWord": "行程",
+      "correctReading": "こうてい"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -8167,6 +9133,8 @@ var QUESTIONS = [
     "explanation": "「哀悼」は「あいとう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8184,6 +9152,8 @@ var QUESTIONS = [
     "explanation": "「あいとう」は「哀悼」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "あいとう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8201,6 +9171,8 @@ var QUESTIONS = [
     "explanation": "「圧巻」は「あっかん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8218,6 +9190,8 @@ var QUESTIONS = [
     "explanation": "「あっかん」は「圧巻」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "あっかん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8235,6 +9209,8 @@ var QUESTIONS = [
     "explanation": "「安堵」は「あんど」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8252,6 +9228,8 @@ var QUESTIONS = [
     "explanation": "「あんど」は「安堵」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "あんど",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8269,6 +9247,8 @@ var QUESTIONS = [
     "explanation": "「委嘱」は「いしょく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8286,6 +9266,8 @@ var QUESTIONS = [
     "explanation": "「いしょく」は「委嘱」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "いしょく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8303,6 +9285,8 @@ var QUESTIONS = [
     "explanation": "「一蹴」は「いっしゅう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8320,6 +9304,8 @@ var QUESTIONS = [
     "explanation": "「いっしゅう」は「一蹴」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "いっしゅう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8337,6 +9323,8 @@ var QUESTIONS = [
     "explanation": "「営繕」は「えいぜん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8354,6 +9342,8 @@ var QUESTIONS = [
     "explanation": "「えいぜん」は「営繕」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "えいぜん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8371,6 +9361,8 @@ var QUESTIONS = [
     "explanation": "「会得」は「えとく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8388,6 +9380,8 @@ var QUESTIONS = [
     "explanation": "「えとく」は「会得」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "えとく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8405,6 +9399,8 @@ var QUESTIONS = [
     "explanation": "「戒告」は「かいこく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8422,6 +9418,8 @@ var QUESTIONS = [
     "explanation": "「かいこく」は「戒告」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "かいこく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8439,6 +9437,8 @@ var QUESTIONS = [
     "explanation": "「括弧」は「かっこ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8456,6 +9456,8 @@ var QUESTIONS = [
     "explanation": "「かっこ」は「括弧」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "かっこ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8473,6 +9475,8 @@ var QUESTIONS = [
     "explanation": "「緩衝」は「かんしょう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8490,6 +9494,8 @@ var QUESTIONS = [
     "explanation": "「かんしょう」は「緩衝」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "かんしょう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8507,6 +9513,8 @@ var QUESTIONS = [
     "explanation": "「既往」は「きおう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8524,6 +9532,8 @@ var QUESTIONS = [
     "explanation": "「きおう」は「既往」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きおう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8541,6 +9551,8 @@ var QUESTIONS = [
     "explanation": "「拮抗」は「きっこう」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8558,6 +9570,8 @@ var QUESTIONS = [
     "explanation": "「きっこう」は「拮抗」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きっこう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8575,6 +9589,8 @@ var QUESTIONS = [
     "explanation": "「驚嘆」は「きょうたん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8592,6 +9608,8 @@ var QUESTIONS = [
     "explanation": "「きょうたん」は「驚嘆」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きょうたん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8609,6 +9627,8 @@ var QUESTIONS = [
     "explanation": "「局面」は「きょくめん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8626,6 +9646,8 @@ var QUESTIONS = [
     "explanation": "「きょくめん」は「局面」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きょくめん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8643,6 +9665,8 @@ var QUESTIONS = [
     "explanation": "「吟味」は「ぎんみ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8660,6 +9684,8 @@ var QUESTIONS = [
     "explanation": "「ぎんみ」は「吟味」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ぎんみ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8677,6 +9703,8 @@ var QUESTIONS = [
     "explanation": "「駆逐」は「くちく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8694,6 +9722,8 @@ var QUESTIONS = [
     "explanation": "「くちく」は「駆逐」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "くちく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8711,6 +9741,8 @@ var QUESTIONS = [
     "explanation": "「献身」は「けんしん」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8728,6 +9760,8 @@ var QUESTIONS = [
     "explanation": "「けんしん」は「献身」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "けんしん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8745,6 +9779,8 @@ var QUESTIONS = [
     "explanation": "「枯渇」は「こかつ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8762,6 +9798,8 @@ var QUESTIONS = [
     "explanation": "「こかつ」は「枯渇」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "こかつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8779,6 +9817,8 @@ var QUESTIONS = [
     "explanation": "「鼓舞」は「こぶ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8796,6 +9836,8 @@ var QUESTIONS = [
     "explanation": "「こぶ」は「鼓舞」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "こぶ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8813,6 +9855,8 @@ var QUESTIONS = [
     "explanation": "「債務」は「さいむ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8830,6 +9874,8 @@ var QUESTIONS = [
     "explanation": "「さいむ」は「債務」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "さいむ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8847,6 +9893,8 @@ var QUESTIONS = [
     "explanation": "「暫時」は「ざんじ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8864,6 +9912,8 @@ var QUESTIONS = [
     "explanation": "「ざんじ」は「暫時」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ざんじ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8881,6 +9931,8 @@ var QUESTIONS = [
     "explanation": "「思慮」は「しりょ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8898,6 +9950,8 @@ var QUESTIONS = [
     "explanation": "「しりょ」は「思慮」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しりょ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8915,6 +9969,8 @@ var QUESTIONS = [
     "explanation": "「受諾」は「じゅだく」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8932,6 +9988,8 @@ var QUESTIONS = [
     "explanation": "「じゅだく」は「受諾」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "じゅだく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8949,6 +10007,8 @@ var QUESTIONS = [
     "explanation": "「逝去」は「せいきょ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -8966,6 +10026,8 @@ var QUESTIONS = [
     "explanation": "「せいきょ」は「逝去」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "せいきょ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -8983,6 +10045,8 @@ var QUESTIONS = [
     "explanation": "「摘発」は「てきはつ」と読む。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "読み"
@@ -9000,6 +10064,8 @@ var QUESTIONS = [
     "explanation": "「てきはつ」は「摘発」と書く。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "てきはつ",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "書き取り"
@@ -9022,6 +10088,8 @@ var QUESTIONS = [
       "何度も失敗を重ねながら、適切な方法を見つけ出していくこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -9044,6 +10112,8 @@ var QUESTIONS = [
       "飾り気がなく真面目で、心身ともにたくましいこと。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -9066,6 +10136,8 @@ var QUESTIONS = [
       "多くの花が咲き乱れるように、優れた人物や業績が一時に多く現れること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -9088,6 +10160,8 @@ var QUESTIONS = [
       "自分にしっかりした考えがなく、すぐ他人の意見に同調すること。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -9110,6 +10184,8 @@ var QUESTIONS = [
       "邪念がなく、澄みきって落ち着いた心の状態。"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "四字熟語"
@@ -9127,6 +10203,8 @@ var QUESTIONS = [
     "explanation": "「栄転」⇔「左遷」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "させん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -9144,6 +10222,8 @@ var QUESTIONS = [
     "explanation": "「起点」⇔「終点」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "しゅうてん",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -9161,6 +10241,8 @@ var QUESTIONS = [
     "explanation": "「許可」⇔「禁止」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "きんし",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -9178,6 +10260,8 @@ var QUESTIONS = [
     "explanation": "「剛健」⇔「柔弱」は対義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "にゅうじゃく",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "対義語"
@@ -9195,6 +10279,8 @@ var QUESTIONS = [
     "explanation": "「哀悼」≒「追悼」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ついとう",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -9212,6 +10298,8 @@ var QUESTIONS = [
     "explanation": "「委嘱」≒「依頼」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "いらい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -9229,6 +10317,8 @@ var QUESTIONS = [
     "explanation": "「鼓舞」≒「激励」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "げきれい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -9246,6 +10336,8 @@ var QUESTIONS = [
     "explanation": "「枯渇」≒「払底」は類義語の関係にある。",
     "choices": [],
     "acceptedAnswers": null,
+    "answerReading": "ふってい",
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "類義語"
@@ -9268,6 +10360,8 @@ var QUESTIONS = [
       "けものへん"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -9290,6 +10384,8 @@ var QUESTIONS = [
       "むし"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -9312,6 +10408,8 @@ var QUESTIONS = [
       "えんにょう"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "部首"
@@ -9334,6 +10432,8 @@ var QUESTIONS = [
       "反対または対応する意味の字を重ねる"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -9356,6 +10456,8 @@ var QUESTIONS = [
       "主語・述語の関係にある"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -9378,6 +10480,8 @@ var QUESTIONS = [
       "上の字が下の字を修飾する"
     ],
     "acceptedAnswers": null,
+    "answerReading": null,
+    "correctionParts": null,
     "source": "original",
     "tags": [
       "熟語構成"
@@ -9404,6 +10508,12 @@ var QUESTIONS = [
       "確信を核心に訂正",
       "核心"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "確信",
+      "correctWord": "核心",
+      "correctReading": "かくしん"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
@@ -9430,6 +10540,12 @@ var QUESTIONS = [
       "公訴を控訴に訂正",
       "控訴"
     ],
+    "answerReading": null,
+    "correctionParts": {
+      "wrongWord": "公訴",
+      "correctWord": "控訴",
+      "correctReading": "こうそ"
+    },
     "source": "original",
     "tags": [
       "誤字訂正"
